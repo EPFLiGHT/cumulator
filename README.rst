@@ -73,23 +73,23 @@ Documentation
 An API to evaluate the carbon footprint of communication costs between two nodes of a network
 
 Background
-=============
+__________
 Current researchers produce methods and tools to evaluate and optimize the efficiency (from both time and spatial scales) of large-scale ML computations.
 MLbench focus on distributed ML. One of its objective is to provide a way to benchmark ML algorithms.
 
 Objectives
-=============
+__________
 * For the MLO: add a environmental impact concern into MLBench
 * Immediate application with AlgE: find an optimal network topology to perform the trainings of medical datasets distributed between different data centers in Africa, with this environmental impact point of view
 
 Method
-=============
+__________
 Create Cumulator, an API to evaluate the carbon footprint of communication costs between two nodes of a network
 Hypothesis: checkpoint files is typically the kind of files which will be exchanges between nodes of a distributed ML algorithm.
 I did a test on an image classification problem with CNN on MNIST. I used cumulator to compute the carbon footprint of loading the checkpoints file.
 
 Results (to be extended depending on the needs of the MLO)
-=============
+__________
 At the moment Cumulator has the following functionalities: 
 * Chronometer activation and deactivation
 * Time aggregation (cumulative time of activation/deactivation) per instance of the cumulator class
