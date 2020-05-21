@@ -91,6 +91,7 @@ I did a test on an image classification problem with CNN on MNIST. I used cumula
 Results (to be extended depending on the needs of the MLO)
 __________
 At the moment Cumulator has the following functionalities: 
+
 * Chronometer activation and deactivation
 * Time aggregation (cumulative time of activation/deactivation) per instance of the cumulator class
 * Display of the carbon footprint
