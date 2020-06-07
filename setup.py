@@ -25,7 +25,7 @@ def read(*names, **kwargs):
 
 setup(
     name='cumulator',
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     description='a tool to quantify and communicate the carbon footprint of computations',
     long_description='%s\n%s' % (
