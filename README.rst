@@ -70,30 +70,29 @@ You can also install the in-development version with::
 Documentation
 =============
 
+An API to evaluate the carbon footprint of communication costs between two nodes of a network
 
-https://cumulator.readthedocs.io/
+Background
+__________
+Current researchers produce methods and tools to evaluate and optimize the efficiency (from both time and spatial scales) of large-scale ML computations.
+MLbench focus on distributed ML. One of its objective is to provide a way to benchmark ML algorithms.
 
+Objectives
+__________
+* For the MLO: add a environmental impact concern into MLBench
+* Immediate application with AlgE: find an optimal network topology to perform the trainings of medical datasets distributed between different data centers in Africa, with this environmental impact point of view
 
-Development
-===========
+Method
+__________
+Create Cumulator, an API to evaluate the carbon footprint of communication costs between two nodes of a network
+Hypothesis: checkpoint files is typically the kind of files which will be exchanges between nodes of a distributed ML algorithm.
+I did a test on an image classification problem with CNN on MNIST. I used cumulator to compute the carbon footprint of loading the checkpoints file.
 
-To run the all tests run::
+Results (to be extended depending on the needs of the MLO)
+__________
+At the moment Cumulator has the following functionalities: 
 
-    tox
-
-Note, to combine the coverage data from all the tox environments run:
-
-.. list-table::
-    :widths: 10 90
-    :stub-columns: 1
-
-    - - Windows
-      - ::
-
-            set PYTEST_ADDOPTS=--cov-append
-            tox
-
-    - - Other
-      - ::
-
-            PYTEST_ADDOPTS=--cov-append tox
+* Chronometer activation and deactivation
+* Time aggregation (cumulative time of activation/deactivation) per instance of the cumulator class
+* Display of the carbon footprint
+Hence, to compare n different network topologies, one can create n cumulator instance and display the relative carbon footprint after computation.
