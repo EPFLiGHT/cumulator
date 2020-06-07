@@ -43,7 +43,7 @@ Cumulator was integrated within the Alg-E platform
 
 ChangeLog
 =============
-- 07.06.2020: 0.0.2 added communication costs and cleaned `src`
+- 07.06.2020: 0.0.2 added communication costs and cleaned   src/
 - 21.05.2020: 0.0.1 deployment on PypI and integration with Alg-E
 
 Links
