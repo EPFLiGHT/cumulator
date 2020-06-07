@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: cumulator
-Version: 0.0.1
+Version: 0.0.2
 Summary: a tool to quantify and communicate the carbon footprint of computations
 Home-page: https://github.com/tristantreb/cumulator
 Author: tristan trebaol
@@ -13,54 +13,54 @@ Description: ========
         Overview
         ========
         
+        An API to evaluate the carbon footprint of computation and communcation of machine learning methods (or any other computing system).
         
         
-        An example package. Generated with cookiecutter-pylibrary.
+        Background
+        __________
+        Current researchers produce methods and tools to evaluate and optimize the efficiency (from both time and spatial scales) of large-scale ML computations.
+        
+        Aim
+        __________
+        Raise awareness about the carbon footprint of machine learning methods and to encourage further optimization and the rationale use of AI-powered tools
+        
+        Method
+        __________
+        Create Cumulator, a simple API to evaluate the carbon footprint of communication and computation of a machine learning models which provides effortless integration within any python framework.
+        
         
         * Free software: MIT license
         
         Installation
         ============
         
-        ::
+        Use the following command:
         
             pip install cumulator
         
-        You can also install the in-development version with::
         
-            pip install https://github.com/tristantreb/cumulator/archive/master.zip
-        
-        
-        Documentation
+        Functionalities
         =============
+        At the moment Cumulator has the following functionalities: 
         
+        * Chronometer activation and deactivation
+        * Time aggregation (cumulative time of activation/deactivation) per instance of the cumulator class
+        * Display of the carbon footprint
+        Hence, to compare n different network topologies, one can create n cumulator instance and display the relative carbon footprint after computation.
         
-        https://cumulator.readthedocs.io/
+        Use cases
+        =============
+        Cumulator was integrated within the Alg-E platform
         
+        ChangeLog
+        =============
+        - 07.06.2020: 0.0.2 added communication costs and cleaned   src/
+        - 21.05.2020: 0.0.1 deployment on PypI and integration with Alg-E
         
-        Development
-        ===========
-        
-        To run the all tests run::
-        
-            tox
-        
-        Note, to combine the coverage data from all the tox environments run:
-        
-        .. list-table::
-            :widths: 10 90
-            :stub-columns: 1
-        
-            - - Windows
-              - ::
-        
-                    set PYTEST_ADDOPTS=--cov-append
-                    tox
-        
-            - - Other
-              - ::
-        
-                    PYTEST_ADDOPTS=--cov-append tox
+        Links
+        =============
+        - GitHub: https://github.com/tristantreb/cumulator
+        - PyPI: https://pypi.org/project/cumulator/
         
         
         Changelog
