@@ -1,4 +1,20 @@
+'''
+This is the base class of cumulator.
+'''
 import time as t
+
+# assumptions to approximate the carbon footprint
+# computation costs: consumption of a typical GPU in Watts converted to kWh/s
+hardware_load = joule_to_kwh(250)
+# communication costs: average energy impact of traffic in a typical data centers, kWh/byte
+one_byte_model = 6.894E-11
+# conversion to carbon footprint: average carbon intensity value in gCO2eq/kWh in the EU in 2014
+carbon_intensity = 447
+
+# energy conversion
+def joule_to_kwh(value):
+    return value / 3.6e6
+
 
 class Cumulator:
 
@@ -12,14 +28,6 @@ class Cumulator:
         self.file_size_list = []
         self.cumulated_data_traffic = 0
 
-        # assumptions to approximate the carbon footprint
-        # computation costs: consumption of a typical GPU in Watts converted to kWh/s
-        self.hardware_load = joule_to_kwh(250)
-        # communication costs: average energy impact of traffic in a typical data centers, kWh/byte
-        self.one_byte_model = 6.894E-11
-        # conversion to carbon footprint: average carbon intensity value in gCO2eq/kWh in the EU
-        self.carbon_intensity = 447
-
     # starts accumulating time
     def on(self):
         self.t0 = t.time()
@@ -30,18 +38,18 @@ class Cumulator:
         self.cumulated_time += self.t1 - self.t0
         self.time_list.append(self.t1 - self.t0)
 
-    # records the amount of data transfered, file_size in bytes
-    def data_transfered(self, file_size):
+    # records the amount of data transferred, file_size in bytes
+    def data_transferred(self, file_size):
         self.file_size_list.append(file_size)
         self.cumulated_data_traffic += file_size
 
     # computes time based carbon footprint due to computations
     def computation_costs(self):
-        return self.cumulated_time * self.hardware_load * self.carbon_intensity
+        return self.cumulated_time * hardware_load * arbon_intensity
 
     # computes the carbon footprint due to communication
     def communication_costs(self):
-        return self.one_byte_model * self.cumulated_data_traffic
+        return one_byte_model * self.cumulated_data_traffic
 
     # computes the total carbon footprint
     def total_carbon_footprint(self):
@@ -55,7 +63,3 @@ class Cumulator:
               "{:.2e}".format(self.computation_costs()))
         print('Carbon footprint due to communications: %s gCO2eq' %
               "{:.2e}".format(self.communication_costs()))
-
-# energy conversion
-def joule_to_kwh(value):
-    return value / 3.6e6

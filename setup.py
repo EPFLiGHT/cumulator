@@ -25,9 +25,9 @@ def read(*names, **kwargs):
 
 setup(
     name='cumulator',
-    version='0.0.2',
+    version='0.0.3',
     license='MIT',
-    description='a tool to quantify and communicate the carbon footprint of computations',
+    description='a tool to quantify and communicate the carbon footprint of machine learning methods',
     long_description='%s\n%s' % (
         re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')),
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))

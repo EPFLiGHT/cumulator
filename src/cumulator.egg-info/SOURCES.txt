@@ -27,6 +27,7 @@ src/.DS_Store
 src/cumulator/.DS_Store
 src/cumulator/__init__.py
 src/cumulator/base.py
+src/cumulator/bonus.py
 src/cumulator.egg-info/PKG-INFO
 src/cumulator.egg-info/SOURCES.txt
 src/cumulator.egg-info/dependency_links.txt
