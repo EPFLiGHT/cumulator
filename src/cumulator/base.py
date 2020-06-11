@@ -5,15 +5,11 @@ import time as t
 
 # assumptions to approximate the carbon footprint
 # computation costs: consumption of a typical GPU in Watts converted to kWh/s
-hardware_load = joule_to_kwh(250)
+hardware_load = 250/3.6e6
 # communication costs: average energy impact of traffic in a typical data centers, kWh/byte
 one_byte_model = 6.894E-11
 # conversion to carbon footprint: average carbon intensity value in gCO2eq/kWh in the EU in 2014
 carbon_intensity = 447
-
-# energy conversion
-def joule_to_kwh(value):
-    return value / 3.6e6
 
 
 class Cumulator:
@@ -27,6 +23,7 @@ class Cumulator:
         # file sizes are in bytes
         self.file_size_list = []
         self.cumulated_data_traffic = 0
+        self.n_processors = 1
 
     # starts accumulating time
     def on(self):
@@ -45,7 +42,7 @@ class Cumulator:
 
     # computes time based carbon footprint due to computations
     def computation_costs(self):
-        return self.cumulated_time * hardware_load * arbon_intensity
+        return self.cumulated_time * self.n_processors * hardware_load * carbon_intensity
 
     # computes the carbon footprint due to communication
     def communication_costs(self):

@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: cumulator
-Version: 0.0.3
+Version: 0.0.5
 Summary: a tool to quantify and communicate the carbon footprint of machine learning methods
 Home-page: https://github.com/tristantreb/cumulator
 Author: tristan trebaol

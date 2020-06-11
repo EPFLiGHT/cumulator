@@ -30,13 +30,11 @@ car = 1/148.1
 
 # prints and returns the total carbon footprint
 def project_carbon_footprint(carbonalyser, ml_simulations, screening_time,
-                             n_weeks=14, meeting_duration=45, laptop_consumption=40):
-    # in kWh
+                             n_weeks=14, meeting_duration=45, hardware_consumption=40):
     meetups = joule_to_kwh(virtual_meeting_consumption * \
                            meeting_duration * 60 * \
                            n_weeks) * carbon_intensity
-    # in kWh
-    screening = joule_to_kwh(n_weeks * screening_time * laptop_consumption) * carbon_intensity
+    screening = joule_to_kwh(n_weeks * screening_time * hardware_consumption) * carbon_intensity
     # total carbon footprint in gC02eq
     carbon_emissions = meetups + screening + carbonalyser + ml_simulations
     car_distance = car * carbon_emissions
