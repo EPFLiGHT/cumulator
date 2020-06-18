@@ -33,4 +33,3 @@ src/cumulator.egg-info/SOURCES.txt
 src/cumulator.egg-info/dependency_links.txt
 src/cumulator.egg-info/not-zip-safe
 src/cumulator.egg-info/top_level.txt
-tests/test_cumulator.py

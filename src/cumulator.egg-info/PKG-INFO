@@ -1,34 +1,21 @@
 Metadata-Version: 1.2
 Name: cumulator
-Version: 0.0.5
+Version: 0.0.6
 Summary: a tool to quantify and communicate the carbon footprint of machine learning methods
 Home-page: https://github.com/tristantreb/cumulator
 Author: tristan trebaol
 Author-email: tristan.trebaol@epfl.ch
 License: MIT
-Project-URL: Documentation, https://cumulator.readthedocs.io/
-Project-URL: Changelog, https://cumulator.readthedocs.io/en/latest/changelog.html
-Project-URL: Issue Tracker, https://github.com/tristantreb/cumulator/issues
 Description: ========
         Overview
         ========
         
-        An API to evaluate the carbon footprint of computation and communcation of machine learning methods (or any other computing system).
-        
-        
-        Background
-        __________
-        Current researchers produce methods and tools to evaluate and optimize the efficiency (from both time and spatial scales) of large-scale ML computations.
+        CUMULATOR — a tool to quantify and report the carbon footprint of Machine Learning computations and communication in academia and healthcare
         
         Aim
         ___
-        Raise awareness about the carbon footprint of machine learning methods and to encourage further optimization and the rationale use of AI-powered tools
-        
-        Method
-        ______
-        Create Cumulator, a simple API to evaluate the carbon footprint of communication and computation of a machine learning models which provides effortless integration within any python framework.
-        
-        * Free software: MIT license
+        Raise awareness about the carbon footprint of machine learning methods and to encourage further optimization and the rationale use of AI-powered tools.
+        This work advocates for sustainable AI and the rational use of IT systems.
         
         Installation
         ============
@@ -36,21 +23,16 @@ Description: ========
         Use the following command:
         
             pip install cumulator
-        
-        
-        Functionalities
-        ===============
-        At the moment Cumulator has the following functionalities: 
-        
-        * Chronometer activation and deactivation
-        * Time aggregation (cumulative time of activation/deactivation) per instance of the cumulator class
-        * Display of the carbon footprint
-        
-        Hence, to compare n different network topologies, one can create n cumulator instance and display the relative carbon footprint after computation.
+            
+        Project Structure
+        =================
+            ├── src/cumulator         <- code base for CUMULATOR
+                ├── base.py           <- implementation of the Cumulator class
+                ├── bonus.py          <- Impact Statement Protocol
         
         Use cases
         =========
-        Cumulator was integrated within the Alg-E platform
+        Cumulator was integrated within the Alg-E platform 
         
         ChangeLog
         =========
@@ -59,8 +41,11 @@ Description: ========
         
         Links
         =====
+        * Project's material: https://drive.google.com/file/d/1saRzSZ_bDqN85a7OoU5611v6BZpz1arx/view?usp=sharing
         * GitHub: https://github.com/tristantreb/cumulator
         * PyPI: https://pypi.org/project/cumulator/
+        
+        * Free software: MIT license
         
         
         Changelog
