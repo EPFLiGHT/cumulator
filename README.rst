@@ -19,7 +19,9 @@ Use the following command:
 Project Structure
 =================
     ├── src/cumulator         <- code base for CUMULATOR
+    
         ├── base.py           <- implementation of the Cumulator class
+        
         ├── bonus.py          <- Impact Statement Protocol
 
 Use cases
@@ -33,8 +35,8 @@ ChangeLog
 
 Links
 =====
-* Project's material: https://drive.google.com/file/d/1saRzSZ_bDqN85a7OoU5611v6BZpz1arx/view?usp=sharing
-* GitHub: https://github.com/tristantreb/cumulator
+* Project's material: https://drive.google.com/drive/u/1/folders/1Cm7XmSjXo9cdexejbLpbV0TxJkthlAGR
+* GitHub: https://github.com/epfl-iglobalhealth/cumulator
 * PyPI: https://pypi.org/project/cumulator/
 
 * Free software: MIT license
