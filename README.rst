@@ -30,6 +30,9 @@ Cumulator was integrated within the Alg-E platform
 
 ChangeLog
 =========
+* 18.06.2020: 0.0.6 update README.rst
+* 11.06.2020: 0.0.5 add number of processors (0.0.4 failed)
+* 08.06.2020: 0.0.3 added bonus.py carbon impact statement
 * 07.06.2020: 0.0.2 added communication costs and cleaned src/
 * 21.05.2020: 0.0.1 deployment on PypI and integration with Alg-E
 
