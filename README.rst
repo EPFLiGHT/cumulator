@@ -18,11 +18,11 @@ Use the following command:
     
 Project Structure
 =================
-    ├── src/cumulator         <- code base for CUMULATOR
+    ├ src/cumulator         <- code base for CUMULATOR
     
-        ├── base.py           <- implementation of the Cumulator class
+        ├ base.py           <- implementation of the Cumulator class
         
-        ├── bonus.py          <- Impact Statement Protocol
+        ├ bonus.py          <- Impact Statement Protocol
 
 Use cases
 =========
