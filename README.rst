@@ -2,7 +2,7 @@
 Overview
 ========
 
-CUMULATOR — a tool to quantify and report the carbon footprint of Machine Learning computations and communication in academia and healthcare
+CUMULATOR — a tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare
 
 Aim
 ___
