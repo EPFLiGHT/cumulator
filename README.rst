@@ -14,15 +14,14 @@ _____________________
 * **One hour of GPU load is equivalent to 112 gCO2eq**
 * **1 GB of data traffic through a data center is equivalent to 31 gCO2eq**
 
-Installation and usage
-______________________
+Install and use
+_______________
 
-Use the following command:
+``pip install cumulator`` <- installs CUMULATOR
 
-``pip install cumulator``
-    
-``from cumulator import base`` <- import the script
-``cumulator = base.Cumulator()`` <- create an Cumulator instance 
+``from cumulator import base`` <- imports the script
+
+``cumulator = base.Cumulator()`` <- creates an Cumulator instance 
 
 Measure cost of computations. Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
 
@@ -32,7 +31,7 @@ Return the total carbon footprint using ``cumulator.total_carbon_footprint()``. 
 
 Default assumptions (can be manually modified for better estimation):
 
-``self.hardware_load = 250 / 3.6e6`` <- computation costs: consumption of a typical GPU in Watts converted to kWh/s
+``self.hardware_load = 250 / 3.6e6`` <- computation costs: power consumption of a typical GPU in Watts converted to kWh/s
 
 ``self.one_byte_model = 6.894E-8`` <- communication costs: average energy impact of traffic in a typical data centers, kWh/kB
 
