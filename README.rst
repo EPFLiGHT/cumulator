@@ -17,19 +17,21 @@ _____________________
 Install and use
 _______________
 
+Free software: MIT license
+
 ``pip install cumulator`` <- installs CUMULATOR
 
 ``from cumulator import base`` <- imports the script
 
 ``cumulator = base.Cumulator()`` <- creates an Cumulator instance 
 
-Measure cost of computations. Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
+**Measure cost of computations.** Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
 
-Measure cost of communications. Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
+**Measure cost of communications.** Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
 
 Return the total carbon footprint using ``cumulator.total_carbon_footprint()``. You can also display the carbon footprint in terminal using ``display_carbon_footprint()``
 
-Default assumptions (can be manually modified for better estimation):
+**Default assumptions (can be manually modified for better estimation):**
 
 ``self.hardware_load = 250 / 3.6e6`` <- computation costs: power consumption of a typical GPU in Watts converted to kWh/s
 
@@ -50,10 +52,6 @@ _________________
         ├── base.py           <- implementation of the Cumulator class
         └── bonus.py          <- Impact Statement Protocol
 
-Use cases
-_________
-Cumulator was integrated within the Alg-E platform 
-
 ChangeLog
 _________
 * 18.06.2020: 0.0.6 update README.rst
@@ -67,5 +65,3 @@ _____
 * Material: https://drive.google.com/drive/u/1/folders/1Cm7XmSjXo9cdexejbLpbV0TxJkthlAGR
 * GitHub: https://github.com/epfl-iglobalhealth/cumulator
 * PyPI: https://pypi.org/project/cumulator/
-
-* Free software: MIT license
