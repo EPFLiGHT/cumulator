@@ -10,12 +10,12 @@ Raise awareness about the carbon footprint of machine learning methods and to en
 This work advocates for sustainable AI and the rational use of IT systems.
 
 Key Carbon Indicators
-___________________________
+_____________________
 * **One hour of GPU load is equivalent to 112 gCO2eq**
-* **1 GB of data traffic is equivalent to 31 gCO2eq**
+* **1 GB of data traffic through a data center is equivalent to 31 gCO2eq**
 
-Installation
-============
+Installation and usage
+______________________
 
 Use the following command:
 
@@ -42,21 +42,21 @@ Default assumptions (can be manually modified for better estimation):
 
     
 Project Structure
-=================
-src/
+_________________
 
-├── cumulator  
+:: 
 
-    ├── base.py           <- implementation of the Cumulator class
-
-    └── bonus.py          <- Impact Statement Protocol
+    src/
+    ├── cumulator  
+        ├── base.py           <- implementation of the Cumulator class
+        └── bonus.py          <- Impact Statement Protocol
 
 Use cases
-=========
+_________
 Cumulator was integrated within the Alg-E platform 
 
 ChangeLog
-=========
+_________
 * 18.06.2020: 0.0.6 update README.rst
 * 11.06.2020: 0.0.5 add number of processors (0.0.4 failed)
 * 08.06.2020: 0.0.3 added bonus.py carbon impact statement
@@ -64,7 +64,7 @@ ChangeLog
 * 21.05.2020: 0.0.1 deployment on PypI and integration with Alg-E
 
 Links
-=====
+_____
 * Material: https://drive.google.com/drive/u/1/folders/1Cm7XmSjXo9cdexejbLpbV0TxJkthlAGR
 * GitHub: https://github.com/epfl-iglobalhealth/cumulator
 * PyPI: https://pypi.org/project/cumulator/
