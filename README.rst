@@ -54,13 +54,15 @@ _________________
 
 Cite
 ____
+ 
+::
 
-@article{cumulator,
-  title={A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare},
-  author={Tristan Trebaol, Mary-Anne Hartley, Martin Jaggi and Hossein Shokri Ghadikolaei},
-  journal={Infoscience EPFL: record 278189},
-  year={2020}
-}
+    @article{cumulator,
+      title={A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare},
+      author={Tristan Trebaol, Mary-Anne Hartley, Martin Jaggi and Hossein Shokri Ghadikolaei},
+      journal={Infoscience EPFL: record 278189},
+      year={2020}
+    }
 
 ChangeLog
 _________
