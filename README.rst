@@ -25,11 +25,28 @@ Free software: MIT license
 
 ``cumulator = base.Cumulator()`` <- creates an Cumulator instance 
 
-**Measure cost of computations.** Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
+**Measure cost of computations.** 
 
-**Measure cost of communications.** Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
+- Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
 
-Return the total carbon footprint using ``cumulator.total_carbon_footprint()``. You can also display the carbon footprint in terminal using ``display_carbon_footprint()``
+**Measure cost of communications.**
+
+- Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
+
+**Display your total carbon footprint**
+
+- Display the carbon footprint of your recorded actions with ``cumulator.display_carbon_footprint()``:
+
+::
+
+    >>>cumulator.display_carbon_footprint()
+    ########
+    Overall carbon footprint: 3.14e+02 gCO2eq
+    ########
+    Carbon footprint due to computations: 2.78e+02 gCO2eq
+    Carbon footprint due to communications: 3.60e+01 gCO2eq
+    
+- You can also return the total carbon footprint as a number using ``cumulator.total_carbon_footprint()``.
 
 **Default assumptions (can be manually modified for better estimation):**
 
