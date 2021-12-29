@@ -1,0 +1,22 @@
+unittest_task:
+  container:
+    image: python:slim
+  install_dependencies_script: |
+    pip3 install --upgrade pip
+    pip3 install unittest_xml_reporting
+    pip3 install geocoder
+    pip3 install pandas
+    pip3 install geopy
+    pip3 install GPUtil
+    pip3 install py-cpuinfo
+    pip3 install matplotlib
+    pip install --pre --extra-index https://pypi.anaconda.org/scipy-wheels-nightly/simple scikit-learn
+  run_tests_script: python3 -m xmlrunner tests/*.py
+  # replace 'tests' with the module,
+  # unittest.TestCase, or unittest.TestSuite
+  # that the tests are in
+  always:
+    upload_results_artifacts:
+      path: ./*.xml
+      format: junit
+      type: text/xml
