@@ -1,0 +1,86 @@
+[
+  {
+    "eq_factor": "0.000000217",
+    "measure": "Passenger vehicles driven for one year"
+  },
+  {
+    "eq_factor": "0.00404427142",
+    "measure": "Meters driven by an avarage passenger vehicle"
+  },
+  {
+    "eq_factor": "0.0004277515316",
+    "measure": "Liters of gasoline consumed"
+  },
+  {
+    "eq_factor": "0.0003717274372",
+    "measure": "Liters of diesel consumed"
+  },
+  {
+    "eq_factor": "0.00050121916",
+    "measure": "Kilograms of coal burned"
+  },
+  {
+    "eq_factor": "0.000000013",
+    "measure": "Tanker trucks' worth of gasoline"
+  },
+  {
+    "eq_factor": "0.00000012",
+    "measure": "Homes' energy use for one year"
+  },
+  {
+    "eq_factor": "0.000000182",
+    "measure": "Homes' electricity use for one year"
+  },
+  {
+    "eq_factor": "0.000000006",
+    "measure": "Railcars' worth of coal burned"
+  },
+  {
+    "eq_factor": "0.0000023",
+    "measure": "Barrels of oil consumed"
+  },
+  {
+    "eq_factor": "0.0000409",
+    "measure": "Propane cylinders used for home barbeques"
+  },
+  {
+    "eq_factor": "0.121643",
+    "measure": "Smartphones charged"
+  },
+  {
+    "eq_factor": "0.0000003084429",
+    "measure": "Tons of waste recycled instead of landfilled"
+  },
+  {
+    "eq_factor": "0.000000049",
+    "measure": "Garbage trucks of waste recycled instead of landfilled"
+  },
+  {
+    "eq_factor": "0.0000425",
+    "measure": "Trash bags of waste recycled instead of landfilled"
+  },
+  {
+    "eq_factor": "0.0000000002",
+    "measure": "Wind turbines running for a year"
+  },
+  {
+    "eq_factor": "0.0000379",
+    "measure": "Incandescent lamps switched to LEDs"
+  },
+  {
+    "eq_factor": "0.0000165",
+    "measure": "Incandescent lamps switched to LEDs"
+  },
+  {
+    "eq_factor": "0.0000165",
+    "measure": "Tree seedlings grown for 10 years"
+  },
+  {
+    "eq_factor": "0.004856232",
+    "measure": "Square meters of U.S. forests in one year"
+  },
+  {
+    "eq_factor": "0.00002832802",
+    "measure": "Square meters of U.S. forests preserved from conversion to cropland in one year"
+  }
+]

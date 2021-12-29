@@ -24,7 +24,8 @@ carbon_intensity = 447  # in gCO2eq/kWh
 # 1byte model in Wh/byte
 one_byte_model = 6.894E-11
 # Average WLTP emissions in (km/gCO2)
-car = 1/148.1
+car = 1 / 148.1
+
 
 # Method
 

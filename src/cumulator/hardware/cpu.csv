@@ -1,0 +1,1953 @@
+name,gpu_chip,released,bus,memory,gpu_clock,memory_clock,shaders/TMUs/ROPs,TDP
+Atom Z500,Silverthorne,1,800 MHz,BGA 441,45 nm,N/A,1 W,1
+Atom Z515,Silverthorne,1,1200 MHz,BGA 441,45 nm,N/A,1 W,1
+Atom Z600,Lincroft,1,1200 MHz,BGA 518,45 nm,N/A,1 W,1
+Atom Z610,Lincroft,1,800 MHz,BGA 518,45 nm,N/A,1 W,1
+Atom Z612,Lincroft,1,900 MHz,BGA 518,45 nm,N/A,1 W,1
+Atom Z620,Lincroft,1,900 MHz,BGA 518,45 nm,N/A,1 W,1
+Atom Z3740,Bay Trail-T,4,1333 to 1867 MHz,BGA 1380,22 nm,N/A,2 W,2
+Atom Z510,Silverthorne,1,1100 MHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z510P,Silverthorne,1  / 2,1100 MHz,BGA 437,45 nm,N/A,2 W,2
+Atom Z510PT,Silverthorne,1  / 2,1100 MHz,BGA 437,45 nm,N/A,2 W,2
+Atom Z520,Silverthorne,1  / 2,1334 MHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z520PT,Silverthorne,1  / 2,1334 MHz,BGA 437,45 nm,N/A,2 W,2
+Atom Z530,Silverthorne,1  / 2,1600 MHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z530P,Silverthorne,1  / 2,1600 MHz,BGA 437,45 nm,N/A,2 W,2
+Atom Z540,Silverthorne,1  / 2,1867 MHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z550,Silverthorne,1  / 2,2000 MHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z560,Silverthorne,1  / 2,2.133 GHz,BGA 441,45 nm,N/A,2 W,2
+Atom Z605,Lincroft,1,1000 MHz,BGA 518,45 nm,N/A,2 W,2
+Atom Z615,Lincroft,1,1600 MHz,BGA 518,45 nm,N/A,2 W,2
+Atom Z625,Lincroft,1,1900 MHz,BGA 518,45 nm,N/A,2 W,2
+A100,Stealey,1,600 MHz,BGA 437,90 nm,N/A,3 W,3
+A110,Stealey,1,800 MHz,BGA 437,90 nm,N/A,3 W,3
+Atom E620,Tunnel Creek,1  / 2,600 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom E620T,Tunnel Creek,1  / 2,600 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom E625C,Stellarton,1  / 2,600 MHz,BGA 1466,45 nm,N/A,3 W,3
+Atom E625CT,Stellarton,1  / 2,600 MHz,BGA 1466,45 nm,N/A,3 W,3
+Atom E640,Tunnel Creek,1  / 2,1000 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom E640T,Tunnel Creek,1  / 2,1000 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom E660,Tunnel Creek,1  / 2,1300 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom E660T,Tunnel Creek,1  / 2,1300 MHz,BGA 676,45 nm,N/A,3 W,3
+Atom N270,Diamondville,1  / 2,1600 MHz,BGA 437,45 nm,N/A,3 W,3
+Atom N280,Diamondville,1  / 2,1667 MHz,BGA 437,45 nm,N/A,3 W,3
+Atom Z2420,Penwell,1,1200 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2460,Penwell,1,1300 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2480,Penwell,1,1400 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2520,Clovertrail,2,1200 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2560,Clovertrail,2,1600 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2580,Clovertrail,2,2000 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z2760,Cloverview,2,1800 MHz,BGA 617,32 nm,N/A,3 W,3
+Atom Z650,Lincroft,1,1200 MHz,BGA 518,45 nm,N/A,3 W,3
+Atom Z670,Lincroft,1,1500 MHz,BGA 518,45 nm,N/A,3 W,3
+A4-1200,Temash,2,1000 MHz,Socket FT3,32 nm,N/A,4 W,4
+Atom 230,Diamondville,1  / 2,1600 MHz,BGA 437,45 nm,N/A,4 W,4
+Atom E645C,Stellarton,1  / 2,1000 MHz,BGA 1466,45 nm,N/A,4 W,4
+Atom E645CT,Stellarton,1  / 2,1000 MHz,BGA 1466,45 nm,N/A,4 W,4
+Atom E665C,Stellarton,1  / 2,1300 MHz,BGA 1466,45 nm,N/A,4 W,4
+Atom E680,Tunnel Creek,1  / 2,1600 MHz,BGA 676,45 nm,N/A,4 W,4
+Atom E680T,Tunnel Creek,1  / 2,1600 MHz,BGA 676,45 nm,N/A,4 W,4
+Atom N2600,Cedarview,2  / 4,1600 MHz,BGA 559,32 nm,N/A,4 W,4
+Celeron N2805,Bay Trail-M,2,1463 MHz,BGA 1170,22 nm,N/A,4 W,4
+Celeron N2806,Bay Trail-M,2,1.58 to 2 GHz,BGA 1170,22 nm,N/A,4 W,4
+Celeron N2807,Bay Trail-M,2,1.58 to 2.16 GHz,BGA 1170,22 nm,N/A,4 W,4
+Celeron N2808,Bay Trail-M,2,1.58 to 2.25 GHz,BGA 1170,22 nm,N/A,4 W,4
+Z-60,Hondo,2,1000 MHz,Socket FT1,40 nm,N/A,5 W,5
+Atom E3815,Bay Trail-I,1,1467 MHz,BGA 1170,22 nm,N/A,5 W,5
+Core 2 Solo ULV SU3300,Penryn-L,1,1200 MHz,BGA 956,45 nm,N/A,5 W,5
+Core 2 Solo ULV SU3500,Penryn-L,1,1400 MHz,BGA 956,45 nm,N/A,5 W,5
+Core 2 Solo ULV U2100,Merom-L,1,1067 MHz,BGA 956,65 nm,N/A,5 W,5
+Core 2 Solo ULV U2200,Merom-L,1,1200 MHz,BGA 956,65 nm,N/A,5 W,5
+Core M-5Y10,Broadwell-Y,2  / 4,0.8 to 2 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y10a,Broadwell-Y,2  / 4,0.8 to 2 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y10c,Broadwell-Y,2  / 4,0.8 to 2 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y31,Broadwell-Y,2  / 4,0.9 to 2.4 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y51,Broadwell-Y,2  / 4,1.1 to 2.6 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y70,Broadwell-Y,2  / 4,1.1 to 2.6 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core M-5Y71,Broadwell-Y,2  / 4,1.2 to 2.9 GHz,BGA 1234,14 nm,4MB,5 W,5
+Core Solo ULV U1300,Yonah,1,1066 MHz,Socket 479,65 nm,N/A,5 W,5
+Core Solo ULV U1400,Yonah,1,1200 MHz,Socket 479,65 nm,N/A,5 W,5
+Core Solo ULV U1500,Yonah,1,1333 MHz,Socket 479,65 nm,N/A,5 W,5
+A6-9120C SoC,Stoney Ridge,2,1.6 to 2.4 GHz,Socket FT4,28 nm,N/A,6 W,6
+A6-9220C SoC,Stoney Ridge,2,1.8 to 2.7 GHz,Socket FT4,28 nm,N/A,6 W,6
+Z-01,Desna,2,1000 MHz,Socket FT1,40 nm,N/A,6 W,6
+Atom E3825,Bay Trail-I,2,1333 MHz,BGA 1170,22 nm,N/A,6 W,6
+Atom N450,Pineview,1  / 2,1667 MHz,BGA 559,45 nm,N/A,6 W,6
+Atom S1240,Centerton,2  / 4,1600 MHz,BGA 1283,32 nm,N/A,6 W,6
+Atom CE4100,Sodaville,1,1200 MHz,BGA 951,45 nm,N/A,7 W,7
+Atom CE4130,Sodaville,1,1200 MHz,BGA 951,45 nm,N/A,7 W,7
+Atom CE4150,Sodaville,1,1200 MHz,BGA 951,45 nm,N/A,7 W,7
+Atom E3826,Bay Trail-I,2,1467 MHz,BGA 1170,22 nm,N/A,7 W,7
+Atom E665CT,Stellarton,1  / 2,1300 MHz,BGA 1466,45 nm,N/A,7 W,7
+Atom N2800,Cedarview,2  / 4,1867 MHz,BGA 559,32 nm,N/A,7 W,7
+Atom N455,Pineview,1  / 2,1667 MHz,BGA 559,45 nm,N/A,7 W,7
+Atom N470,Pineview,1  / 2,1834 MHz,BGA 559,45 nm,N/A,7 W,7
+Atom N475,Pineview,1  / 2,1834 MHz,BGA 559,45 nm,N/A,7 W,7
+Celeron N2810,Bay Trail-M,2,2000 MHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2820,Bay Trail-M,2,2.17 to 2.39 GHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2830,Bay Trail-M,2,2.16 to 2.41 GHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2840,Bay Trail-M,2,2.16 to 2.58 GHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2910,Bay Trail-M,4,1600 MHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2920,Bay Trail-M,4,1.86 to 2 GHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2930,Bay Trail-M,4,1.83 to 2.16 GHz,BGA 1170,22 nm,N/A,7 W,7
+Celeron N2940,Bay Trail-M,4,1.83 to 2.25 GHz,BGA 1170,22 nm,N/A,7 W,7
+A4-1250,Temash,2,1000 MHz,Socket FT3,32 nm,N/A,8 W,8
+A4-1350,Kabini,4,1000 MHz,Socket FT3,32 nm,N/A,8 W,8
+A6-1450,Temash,4,1000 to 1400 MHz,Socket FT3,32 nm,N/A,8 W,8
+Athlon 64 2000+,Lima,1,1000 MHz,Socket AM2,65 nm,N/A,8 W,8
+Atom 330,Diamondville,2  / 4,1600 MHz,BGA 437,45 nm,N/A,8 W,8
+Atom E3827,Bay Trail-I,2,1750 MHz,BGA 1170,22 nm,N/A,8 W,8
+Atom S1220,Centerton,2  / 4,1600 MHz,BGA 1283,32 nm,N/A,8 W,8
+Atom Z3770,Bay Trail-T,4,1.467 to 2.4 GHz,BGA 1380,22 nm,N/A,8 W,8
+Athlon 64 1500+,Venice,1,1000 MHz,Socket 754,90 nm,N/A,9 W,9
+C-30,Ontario,1,1200 MHz,Socket FT1,40 nm,N/A,9 W,9
+C-50,Ontario,2,1000 MHz,Socket FT1,40 nm,N/A,9 W,9
+C-60,Ontario,2,1000 to 1333 MHz,Socket FT1,40 nm,N/A,9 W,9
+C-70,Ontario,2,1000 to 1333 MHz,Socket FT1,40 nm,N/A,9 W,9
+E1-2100,Kabini,2,1000 MHz,Socket FT3,32 nm,N/A,9 W,9
+E1-2150,Kabini,2,1050 MHz,Socket FT3,32 nm,N/A,9 W,9
+Atom N550,Pineview,2  / 4,1500 MHz,BGA 559,45 nm,N/A,9 W,9
+Atom N570,Pineview,2  / 4,1667 MHz,BGA 559,45 nm,N/A,9 W,9
+Atom S1260,Centerton,2  / 4,2000 MHz,BGA 1283,32 nm,N/A,9 W,9
+Core Duo ULV L2400,Yonah,2,1066 MHz,Socket 479,65 nm,N/A,9 W,9
+Core Duo ULV L2500,Yonah,2,1200 MHz,Socket 479,65 nm,N/A,9 W,9
+Core i3-10110Y,Comet Lake-Y,2  / 4,1 to 4 GHz,BGA 1440,14 nm,4MB,9 W,9
+Core i5-10210Y,Comet Lake-Y,4  / 8,1 to 4 GHz,BGA 1440,14 nm,6MB,9 W,9
+Core i5-10310Y,Comet Lake-Y,4  / 8,1.1 to 4.1 GHz,BGA 1440,14 nm,6MB,9 W,9
+Core i7-10510Y,Comet Lake-Y,4  / 8,1.2 to 4.5 GHz,BGA 1440,14 nm,8MB,9 W,9
+A9-9400 SoC,Stoney Ridge,2,2.4 to 3.2 GHz,Socket FT4,28 nm,N/A,10 W,10
+Atom D2500,Cedarview,2  / 4,1867 MHz,BGA 437,32 nm,N/A,10 W,10
+Atom D2550,Cedarview,2  / 4,1867 MHz,BGA 437,32 nm,N/A,10 W,10
+Atom D2700,Cedarview,2  / 4,2.133 GHz,BGA 437,32 nm,N/A,10 W,10
+Atom D410,Pineview,1  / 2,1667 MHz,BGA 437,45 nm,N/A,10 W,10
+Atom D425,Pineview,1  / 2,1834 MHz,BGA 437,45 nm,N/A,10 W,10
+Atom E3845,Bay Trail-I,4,1910 MHz,BGA 1170,22 nm,N/A,10 W,10
+Core 2 Duo U7500,Merom,2,1073 MHz,Socket P,65 nm,N/A,10 W,10
+Core 2 Duo U7500,Merom,2,1073 MHz,Socket M,65 nm,N/A,10 W,10
+Core 2 Duo U7600,Merom,2,1200 MHz,Socket M,65 nm,N/A,10 W,10
+Core 2 Duo U7600,Merom,2,1200 MHz,Socket P,65 nm,N/A,10 W,10
+Core 2 Duo U7700,Merom,2,1333 MHz,Socket P,65 nm,N/A,10 W,10
+Core 2 Duo U7700,Merom,2,1333 MHz,Socket M,65 nm,N/A,10 W,10
+Pentium 2129Y,Ivy Bridge,2,1100 MHz,BGA 1023,22 nm,2MB,10 W,10
+Pentium SU2700,Penryn,1,1300 MHz,BGA 956,45 nm,N/A,10 W,10
+Pentium SU4100,Penryn,2,1300 MHz,BGA 956,45 nm,N/A,10 W,10
+Pentium Silver J5005,Coffee Lake,4,1.5 to 2.4 GHz,BGA 1090,14 nm,N/A,10 W,10
+Celeron 2961Y,Haswell,2,1100 MHz,BGA 1168,22 nm,2MB,12 W,12
+Core i3-1000G1,Ice Lake-Y,2  / 4,1.1 to 3.2 GHz,BGA 1440,10 nm,4MB,12 W,12
+Core i3-1000G4,Ice Lake-Y,2  / 4,1.1 to 3.2 GHz,BGA 1440,10 nm,4MB,12 W,12
+Core i3-4010Y,Haswell,2  / 4,1300 MHz,BGA 1168,22 nm,3MB,12 W,12
+Core i5-1030G4,Ice Lake-Y,4  / 8,0.7 to 3.5 GHz,BGA 1440,10 nm,6MB,12 W,12
+Core i5-1030G7,Ice Lake-Y,4  / 8,0.8 to 3.5 GHz,BGA 1440,10 nm,6MB,12 W,12
+Core i5-4200Y,Haswell,2  / 4,1400 to 1900 MHz,BGA 1168,22 nm,3MB,12 W,12
+Core i7-1060G7,Ice Lake-Y,4  / 8,1 to 3.8 GHz,BGA 1440,10 nm,8MB,12 W,12
+Pentium 3560Y,Haswell,2,1200 MHz,BGA 1168,22 nm,2MB,12 W,12
+Atom D510,Pineview,2  / 4,1667 MHz,BGA 437,45 nm,N/A,13 W,13
+Atom D525,Pineview,2  / 4,1834 MHz,BGA 437,45 nm,N/A,13 W,13
+Core i3-3229Y,Ivy Bridge,2  / 4,1400 MHz,BGA 1023,22 nm,3MB,13 W,13
+Core i5-3339Y,Ivy Bridge,2,1.5 to 2.3 GHz,BGA 1023,22 nm,3MB,13 W,13
+Core i5-3439Y,Ivy Bridge,2,1.5 to 2.3 GHz,BGA 1023,22 nm,3MB,13 W,13
+Core i7-3689Y,Ivy Bridge,2  / 4,1.5 to 2.6 GHz,BGA 1023,22 nm,4MB,13 W,13
+A4-5000,Kabini,4,1500 MHz,Socket FT3,32 nm,N/A,15 W,15
+A4-5050,Kabini,4,1500 MHz,Socket FT3,32 nm,N/A,15 W,15
+A9-9420 SoC,Stoney Ridge,2,3 to 3.6 GHz,Socket FT4,28 nm,N/A,15 W,15
+A9-9425 SoC,Stoney Ridge,2,3.1 to 3.7 GHz,Socket FT4,28 nm,N/A,15 W,15
+Athlon 300U,Raven Ridge 2,2  / 4,2.4 to 3.3 GHz,Socket FP5,14 nm,4MB,15 W,15
+Athlon 64 2600+,Lima,1,1600 MHz,Socket AM2,65 nm,N/A,15 W,15
+Athlon 64 2650e,Lima,1,1600 MHz,Socket AM2,65 nm,N/A,15 W,15
+Athlon PRO 300U,Raven Ridge 2,2  / 4,2.4 to 3.3 GHz,Socket FP5,14 nm,4MB,15 W,15
+E1-2500,Kabini,2,1400 MHz,Socket FT3,32 nm,N/A,15 W,15
+E2-3000,Kabini,2,1650 MHz,Socket FT3,32 nm,N/A,15 W,15
+Ryzen 3 2200U,Raven Ridge,2  / 4,2.5 to 3.4 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 3 2300U,Raven Ridge,4,2 to 3.4 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 3 3200U,Picasso,2  / 4,2.6 to 3.5 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 3 3250U,Picasso,2  / 4,2.6 to 3.5 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 3 3300U,Picasso,4,2.1 to 3.5 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 3 PRO 2300U,Raven Ridge,4,2 to 3.4 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 3 PRO 3300U,Picasso,4,2.1 to 3.5 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 3 PRO 4450U,Renoir,4  / 8,2.4 to 3.7 GHz,Socket FP6,7 nm,4MB,15 W,15
+Ryzen 5 2500U,Raven Ridge,4  / 8,2 to 3.6 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 5 2600H,Raven Ridge,4  / 8,3.3 to 3.6 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 5 3500U,Picasso,4  / 8,2.1 to 3.7 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 5 3580U,Picasso,4  / 8,2.1 to 3.7 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 5 PRO 2500U,Raven Ridge,4  / 8,2 to 3.6 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 5 PRO 3500U,Picasso,4  / 8,2.1 to 3.7 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 5 PRO 4650U,Renoir,6  / 12,2.1 to 4 GHz,Socket FP6,7 nm,8MB,15 W,15
+Ryzen 7 2700U,Raven Ridge,4  / 8,2.2 to 3.8 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 7 2800H,Raven Ridge,4  / 8,3.4 to 3.8 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 7 3700U,Picasso,4  / 8,2.3 to 4 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 7 3780U,Picasso,4  / 8,2.3 to 4 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen 7 4750U,Renoir,8  / 16,1.7 to 4.1 GHz,Socket FP6,7 nm,8MB,15 W,15
+Ryzen 7 PRO 2700U,Raven Ridge,4  / 8,2.2 to 3.8 GHz,Socket FP5,14 nm,4MB,15 W,15
+Ryzen 7 PRO 3700U,Picasso,4  / 8,2.3 to 4 GHz,Socket FP5,12 nm,4MB,15 W,15
+Ryzen Embedded V1202B,Zen,2  / 4,2.3 to 3.2 GHz,Socket FP5,14 nm,2MB,15 W,15
+Ryzen Embedded V1605B,Zen,4  / 8,2 to 3.6 GHz,Socket FP5,14 nm,2MB,15 W,15
+Celeron 2955U,Haswell,2,1400 MHz,Socket G2 (988B),22 nm,2MB,15 W,15
+Celeron 2955U,Haswell,2,1400 MHz,Socket G3,22 nm,2MB,15 W,15
+Celeron 2980U,Haswell,2,1600 MHz,Socket G3,22 nm,2MB,15 W,15
+Celeron 3205U,Broadwell-U,2,1500 MHz,BGA 1168,14 nm,2MB,15 W,15
+Celeron 3755U,Broadwell-U,2,1700 MHz,BGA 1168,14 nm,2MB,15 W,15
+Core Duo LV L2300,Yonah,2,1500 MHz,Socket 479,65 nm,N/A,15 W,15
+Core Duo LV L2400,Yonah,2,1666 MHz,Socket 479,65 nm,N/A,15 W,15
+Core Duo LV L2500,Yonah,2,1833 MHz,Socket 479,65 nm,N/A,15 W,15
+Core i3-1110G4,Tiger Lake-U,2  / 4,1.8 to 3.9 GHz,BGA 1598,10 nm,6MB,15 W,15
+Core i3-1120G4,Tiger Lake-U,4  / 8,1.1 to 3.5 GHz,BGA 1598,10 nm,8MB,15 W,15
+Core i3-4005U,Haswell,2  / 4,1700 MHz,BGA 1168,22 nm,3MB,15 W,15
+Core i3-4010U,Haswell,2  / 4,1700 MHz,BGA 1168,22 nm,3MB,15 W,15
+Core i3-4100U,Haswell,2  / 4,1800 MHz,BGA 1168,22 nm,3MB,15 W,15
+Core i3-5005U,Broadwell-U,2  / 4,2000 MHz,BGA 1168,14 nm,3MB,15 W,15
+Core i3-5010U,Broadwell-U,2  / 4,2.1 GHz,BGA 1168,14 nm,3MB,15 W,15
+Core i3-8130U,Kaby Lake-R,2  / 4,2.4 to 3.4 GHz,BGA 1356,14 nm,4MB,15 W,15
+Core i5-1130G7,Tiger Lake-U,4  / 8,1.1 to 4 GHz,BGA 1598,10 nm,8MB,15 W,15
+Core i5-4200U,Haswell,2  / 4,1.6 to 2.6 GHz,BGA 1168,22 nm,3MB,15 W,15
+Core i5-4210U,Haswell,2  / 4,1.7 to 2.7 GHz,BGA 1168,22 nm,3MB,15 W,15
+Core i5-4250U,Haswell,2  / 4,1.3 to 2.6 GHz,BGA 1168,22 nm,3MB,15 W,15
+Core i5-4350U,Haswell,2  / 4,1.4 to 2.9 GHz,BGA 1168,22 nm,3MB,15 W,15
+Core i5-5200U,Broadwell-U,2  / 4,2.2 to 2.7 GHz,BGA 1168,14 nm,3MB,15 W,15
+Core i5-5250U,Broadwell-U,2  / 4,1.6 to 2.7 GHz,BGA 1168,14 nm,3MB,15 W,15
+Core i5-5300U,Broadwell-U,2  / 4,2.3 to 2.9 GHz,BGA 1168,14 nm,3MB,15 W,15
+Core i5-5350U,Broadwell-U,2  / 4,1.8 to 2.9 GHz,BGA 1168,14 nm,3MB,15 W,15
+Core i5-8250U,Kaby Lake-R,4  / 8,1.6 to 3.4 GHz,BGA 1356,14 nm,6MB,15 W,15
+Core i5-8350U,Kaby Lake-R,4  / 8,1.7 to 3.6 GHz,BGA 1356,14 nm,6MB,15 W,15
+Core i7-1160G7,Tiger Lake-U,4  / 8,1.2 to 4.4 GHz,BGA 1598,10 nm,12MB,15 W,15
+Core i7-4500U,Haswell-ULT,2  / 4,1.8 to 3 GHz,BGA 1168,22 nm,4MB,15 W,15
+Core i7-4550U,Haswell-ULT,2  / 4,1.5 to 3 GHz,BGA 1168,22 nm,4MB,15 W,15
+Core i7-4600U,Haswell-ULT,2  / 4,2.1 to 3.3 GHz,BGA 1168,22 nm,4MB,15 W,15
+Core i7-4650U,Haswell-ULT,2  / 4,1.7 to 3.3 GHz,BGA 1168,22 nm,4MB,15 W,15
+Core i7-5500U,Broadwell-U,2  / 4,2.4 to 3 GHz,BGA 1168,14 nm,4MB,15 W,15
+Core i7-5550U,Broadwell-U,2  / 4,2 to 3 GHz,BGA 1168,14 nm,4MB,15 W,15
+Core i7-5600U,Broadwell-U,2  / 4,2.6 to 3.2 GHz,BGA 1168,14 nm,4MB,15 W,15
+Core i7-5650U,Broadwell-U,2  / 4,2.2 to 3.2 GHz,BGA 1168,14 nm,4MB,15 W,15
+Core i7-8550U,Kaby Lake-R,4  / 8,1.8 to 4 GHz,BGA 1356,14 nm,8MB,15 W,15
+Core i7-8650U,Kaby Lake-R,4  / 8,1.9 to 4.2 GHz,BGA 1356,14 nm,8MB,15 W,15
+Pentium 350,Sandy Bridge,2  / 4,1200 MHz,Socket 1155,32 nm,3MB,15 W,15
+Pentium 3556U,Haswell,2,1700 MHz,BGA 1168,22 nm,2MB,15 W,15
+Pentium 3805U,Broadwell-U,2,1900 MHz,BGA 1168,14 nm,2MB,15 W,15
+Xeon E3-1220L v3,Haswell-WS,2  / 4,1.6 to 2.3 GHz,Socket 1150,22 nm,4MB,16 W,16
+A4-4355M,Trinity,2,1.9 to 2.4 GHz,Socket FP2,32 nm,N/A,17 W,17
+A4-5145M,Richland,2,2 to 2.6 GHz,Socket FP2,32 nm,N/A,17 W,17
+A6-4455M,Trinity,2,2.1 to 2.6 GHz,Socket FP2,32 nm,N/A,17 W,17
+A6-5345M,Richland,2,2.2 to 2.8 GHz,Socket FP2,32 nm,N/A,17 W,17
+Opteron X1150,Kyoto,4,2000 MHz,Socket FT3,28 nm,N/A,17 W,17
+Celeron 1007U,Ivy Bridge,2,1500 MHz,BGA 1023,22 nm,2MB,17 W,17
+Celeron 1037U,Ivy Bridge,2,1800 MHz,BGA 1023,22 nm,2MB,17 W,17
+Celeron 1047UE,Ivy Bridge,2,1400 MHz,BGA 1023,22 nm,2MB,17 W,17
+Celeron 725C,Sandy Bridge,1,1300 MHz,BGA 1023,32 nm,1.5MB,17 W,17
+Celeron 787,Sandy Bridge,1,1300 MHz,BGA 1023,32 nm,1.5MB,17 W,17
+Celeron 797,Sandy Bridge,1,1400 MHz,BGA 1023,32 nm,1.5MB,17 W,17
+Celeron 807,Sandy Bridge,1,1500 MHz,BGA 1023,32 nm,1.5MB,17 W,17
+Celeron 847,Sandy Bridge,2,1100 MHz,BGA 1023,32 nm,2MB,17 W,17
+Celeron 857,Sandy Bridge,2,1200 MHz,BGA 1023,32 nm,2MB,17 W,17
+Celeron 867,Sandy Bridge,2,1300 MHz,BGA 1023,32 nm,2MB,17 W,17
+Celeron 877,Sandy Bridge,2,1400 MHz,BGA 1023,32 nm,2MB,17 W,17
+Celeron 887,Sandy Bridge,2,1500 MHz,BGA 1023,32 nm,2MB,17 W,17
+Celeron 947UE,Ivy Bridge,1,1400 MHz,BGA 1023,22 nm,1MB,17 W,17
+Core i3-2340UE,Sandy Bridge,2  / 4,1300 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i3-2357M,Sandy Bridge,2  / 4,1300 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i3-2367M,Sandy Bridge,2  / 4,1400 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i3-2377M,Sandy Bridge,2  / 4,1500 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i3-3217U,Ivy Bridge,2  / 4,1800 MHz,BGA 1023,22 nm,3MB,17 W,17
+Core i3-3217UE,Ivy Bridge,2  / 4,1600 MHz,BGA 1023,22 nm,3MB,17 W,17
+Core i3-3227U,Ivy Bridge,2  / 4,1900 MHz,BGA 1023,22 nm,3MB,17 W,17
+Core i5-2467M,Sandy Bridge,2  / 4,1600 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i5-2537M,Sandy Bridge,2  / 4,1400 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i5-2557M,Sandy Bridge,2  / 4,1700 MHz,BGA 1023,32 nm,3MB,17 W,17
+Core i5-3317U,Ivy Bridge,2  / 4,1.7 to 2.6 GHz,BGA 1023,22 nm,3MB,17 W,17
+Core i5-3337U,Ivy Bridge,2  / 4,1.8 to 2.8 GHz,BGA 1023,22 nm,3MB,17 W,17
+Core i5-3427U,Ivy Bridge,2  / 4,1.8 to 2.8 GHz,BGA 1023,22 nm,3MB,17 W,17
+Core i5-3437U,Ivy Bridge,2  / 4,1.9 to 2.9 GHz,BGA 1023,22 nm,3MB,17 W,17
+Core i7-3517U,Ivy Bridge,2  / 4,1.9 to 3 GHz,BGA 1023,22 nm,4MB,17 W,17
+Core i7-3517UE,Ivy Bridge,2  / 4,1.7 to 2.8 GHz,BGA 1023,22 nm,4MB,17 W,17
+Core i7-3537U,Ivy Bridge,2  / 4,2 to 3.2 GHz,BGA 1023,22 nm,4MB,17 W,17
+Core i7-3667U,Ivy Bridge,2  / 4,2 to 3.2 GHz,BGA 1023,22 nm,4MB,17 W,17
+Core i7-3687U,Ivy Bridge,2  / 4,2.1 to 3.3 GHz,BGA 1023,22 nm,4MB,17 W,17
+Pentium 2117U,Ivy Bridge,2,1800 MHz,Socket G2 (988B),22 nm,2MB,17 W,17
+Pentium 2117U,Ivy Bridge,2,1800 MHz,BGA 1023,22 nm,2MB,17 W,17
+Pentium 957,Sandy Bridge,2,1200 MHz,BGA 1023,32 nm,2MB,17 W,17
+Pentium 967,Sandy Bridge,2,1300 MHz,BGA 1023,32 nm,2MB,17 W,17
+Pentium 977,Sandy Bridge,2,1400 MHz,BGA 1023,32 nm,2MB,17 W,17
+Pentium 987,Sandy Bridge,2,1500 MHz,BGA 1023,32 nm,2MB,17 W,17
+Pentium 997,Sandy Bridge,2,1600 MHz,BGA 1023,32 nm,2MB,17 W,17
+Xeon E3-1220L v2,Ivy Bridge,2  / 4,2.3 to 3.5 GHz,Socket 1155,22 nm,8MB,17 W,17
+E-240,Zacate,1,1500 MHz,Socket FT1,40 nm,N/A,18 W,18
+E-300,Zacate,2,1300 MHz,Socket FT1,40 nm,N/A,18 W,18
+E-350,Zacate,2,1600 MHz,Socket FT1,40 nm,N/A,18 W,18
+E-450,Zacate,2,1650 MHz,Socket FT1,40 nm,N/A,18 W,18
+E1-1200,Zacate,2,1400 MHz,Socket FT1,40 nm,N/A,18 W,18
+E1-1500,Zacate,2,1480 MHz,Socket FT1,40 nm,N/A,18 W,18
+E2-1800,Zacate,2,1700 MHz,Socket FT1,40 nm,N/A,18 W,18
+E2-2000,Zacate,2,1750 MHz,Socket FT1,40 nm,N/A,18 W,18
+Pentium U5400,Arrandale,2,1200 MHz,BGA 1288,32 nm,3MB,18 W,18
+Pentium U5600,Arrandale,2,1333 MHz,BGA 1288,32 nm,3MB,18 W,18
+A8-4555M,Trinity,4,1.6 to 2.4 GHz,Socket FP2,32 nm,N/A,19 W,19
+Celeron 220,Conroe-L,1,1200 MHz,Socket 479,65 nm,N/A,19 W,19
+Xeon E3-1220L,Sandy Bridge,2  / 4,2.2 to 3.4 GHz,Socket 1155,32 nm,3MB,20 W,20
+Pentium 4-M 1.40,Northwood,1,1400 MHz,Socket 478,130 nm,N/A,21 W,21
+Pentium M 715,Dothan,1,1500 MHz,Socket 479,90 nm,N/A,21 W,21
+Pentium M 725,Dothan,1,1600 MHz,Socket 479,90 nm,N/A,21 W,21
+Pentium M 735,Dothan,1,1700 MHz,Socket 479,90 nm,N/A,21 W,21
+Pentium M 745,Dothan,1,1800 MHz,Socket 479,90 nm,N/A,21 W,21
+Pentium M 755,Dothan,1,2000 MHz,Socket 479,90 nm,N/A,21 W,21
+Pentium M 765,Dothan,1,2.1 GHz,Socket 479,90 nm,N/A,21 W,21
+Athlon 64 2850e,Lima,1,1800 MHz,Socket AM2,65 nm,N/A,22 W,22
+Opteron X2150,Kyoto,4,1900 MHz,Socket FT3,28 nm,N/A,22 W,22
+Turion 64 MT-28,Lancaster,1,1600 MHz,Socket 754,90 nm,N/A,22 W,22
+Turion 64 MT-30,Lancaster,1,1600 MHz,Socket 754,90 nm,N/A,22 W,22
+Pentium M 1.30,Banias,1,1300 MHz,Socket 478,130 nm,N/A,24 W,24
+Pentium M 1.40,Banias,1,1400 MHz,Socket 478,130 nm,N/A,24 W,24
+Pentium M 1.50,Banias,1,1500 MHz,Socket 478,130 nm,N/A,24 W,24
+Pentium M 1.60,Banias,1,1600 MHz,Socket 478,130 nm,N/A,24 W,24
+Pentium M 1.70,Banias,1,1700 MHz,Socket 478,130 nm,N/A,24 W,24
+A10-4655M,Trinity,4,2 to 2.8 GHz,Socket FP2,32 nm,N/A,25 W,25
+A10-5745M,Richland,4,2.1 to 2.9 GHz,Socket FP2,32 nm,N/A,25 W,25
+A6-5200,Kabini,4,2000 MHz,Socket FT3,32 nm,N/A,25 W,25
+A8-5545M,Richland,4,1.7 to 2.7 GHz,Socket FP2,32 nm,N/A,25 W,25
+A9-9410 SoC,Stoney Ridge,2,2.9 to 3.5 GHz,Socket FP4,28 nm,N/A,25 W,25
+Athlon 64 3100+,Lima,1,2000 MHz,Socket AM2,65 nm,N/A,25 W,25
+Athlon II X2 250u,Regor,2,1600 MHz,Socket AM3,45 nm,N/A,25 W,25
+Athlon II X2 260u,Regor,2,1800 MHz,Socket AM3,45 nm,N/A,25 W,25
+Athlon II X2 270u,Regor,2,2000 MHz,Socket AM3,45 nm,N/A,25 W,25
+Athlon X2 QL-62,Griffin,2,2000 MHz,Socket S1,65 nm,N/A,25 W,25
+Opteron 3320 EE,Delhi,4,1.9 to 2.5 GHz,Socket AM3+,32 nm,8MB,25 W,25
+Opteron A1120,Seattle,4,1700 MHz,Socket SP1,28 nm,8MB,25 W,25
+Opteron X2170,Steppe Eagle,4,2.4 GHz,Socket FT3,28 nm,N/A,25 W,25
+Ryzen 3 4300U,Renoir,4,2.7 to 3.7 GHz,Socket FP6,7 nm,4MB,25 W,25
+Ryzen 5 4500U,Renoir,6,2.3 to 4 GHz,Socket FP6,7 nm,11MB,25 W,25
+Ryzen 5 4600U,Renoir,6  / 12,2.1 to 4 GHz,Socket FP6,7 nm,11MB,25 W,25
+Ryzen 5 5500U,Lucienne,6  / 12,2.1 to 4 GHz,Socket FP6,7 nm,8MB,25 W,25
+Ryzen 7 4700U,Renoir,8,1.8 to 4.2 GHz,Socket FP6,7 nm,12MB,25 W,25
+Ryzen 7 4800U,Renoir,8  / 16,1.8 to 4.2 GHz,Socket FP6,7 nm,8MB,25 W,25
+Sempron 2600+,Paris,1,1600 MHz,Socket 754,130 nm,N/A,25 W,25
+Sempron 2600+,Sonora,1,1600 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 2800+,Roma,1,1600 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 2800+,Paris,1,1600 MHz,Socket 754,130 nm,N/A,25 W,25
+Sempron 2800+,Sonora,1,1600 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3000+,Paris,1,1800 MHz,Socket 754,130 nm,N/A,25 W,25
+Sempron 3000+,Roma,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3000+,Sonora,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3100+,Paris,1,1800 MHz,Socket 754,130 nm,N/A,25 W,25
+Sempron 3100+,Roma,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3100+,Sonora,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3300+,Roma,1,2000 MHz,Socket 754,90 nm,N/A,25 W,25
+Sempron 3400+,Roma,1,2000 MHz,Socket 754,90 nm,N/A,25 W,25
+Turion 64 MT-32,Lancaster,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Turion 64 MT-34,Lancaster,1,1800 MHz,Socket 754,90 nm,N/A,25 W,25
+Turion 64 MT-37,Lancaster,1,2000 MHz,Socket 754,90 nm,N/A,25 W,25
+Turion 64 MT-40,Lancaster,1,2.2 GHz,Socket 754,90 nm,N/A,25 W,25
+Core i3-1005G1,Ice Lake-U,2  / 4,1.2 to 3.4 GHz,BGA 1440,10 nm,4MB,25 W,25
+Core i3-10110U,Comet Lake-U,2  / 4,2.1 to 4.1 GHz,BGA 1440,14 nm,4MB,25 W,25
+Core i3-4102E,Haswell,2  / 4,1600 MHz,BGA 1364,22 nm,3MB,25 W,25
+Core i5-10210U,Comet Lake-U,4  / 8,1.6 to 4.2 GHz,BGA 1440,14 nm,6MB,25 W,25
+Core i5-1035G1,Ice Lake-U,4  / 8,1 to 3.6 GHz,BGA 1440,10 nm,6MB,25 W,25
+Core i5-1035G4,Ice Lake-U,4  / 8,1.1 to 3.7 GHz,BGA 1440,10 nm,6MB,25 W,25
+Core i5-1035G7,Ice Lake-U,4  / 8,1.2 to 3.7 GHz,BGA 1440,10 nm,6MB,25 W,25
+Core i7-10510U,Comet Lake-U,4  / 8,1.8 to 4.9 GHz,BGA 1440,14 nm,8MB,25 W,25
+Core i7-10610U,Comet Lake-U,4  / 8,1.8 to 4.9 GHz,BGA 1440,14 nm,8MB,25 W,25
+Core i7-1065G7,Ice Lake-U,4  / 8,1.3 to 3.9 GHz,BGA 1440,10 nm,8MB,25 W,25
+Core i7-10710U,Comet Lake-U,6  / 12,1.1 to 4.7 GHz,BGA 1440,14 nm,12MB,25 W,25
+Core i7-10810U,Comet Lake-U,6  / 12,1.1 to 4.9 GHz,BGA 1440,14 nm,12MB,25 W,25
+Core i7-3555LE,Ivy Bridge,2  / 4,2.5 to 3.2 GHz,BGA 1023,22 nm,4MB,25 W,25
+Core i7-9850HL,Coffee Lake-HR,6  / 12,1.9 to 4.1 GHz,BGA 1440,14 nm,9MB,25 W,25
+Xeon E3-1105C,Gladden,4,1000 MHz,BGA 1283,32 nm,6MB,25 W,25
+Xeon E3-1230L v3,Haswell-WS,4  / 8,1.8 to 2.8 GHz,Socket 1150,22 nm,8MB,25 W,25
+Pentium 4-M 1.50,Northwood,1,1500 MHz,Socket 478,130 nm,N/A,26 W,26
+Core Solo T1200,Yonah,1,1500 MHz,Socket 479,65 nm,N/A,27 W,27
+Core Solo T1300,Yonah,1,1660 MHz,Socket 479,65 nm,N/A,27 W,27
+Core Solo T1350,Yonah,1,1866 MHz,Socket 479,65 nm,N/A,27 W,27
+Core Solo T1400,Yonah,1,1833 MHz,Socket 479,65 nm,N/A,27 W,27
+Pentium III  933,Coppermine T,1,933 MHz,Socket 370,180 nm,N/A,27 W,27
+Pentium M 730,Dothan,1,1600 MHz,Socket 479,90 nm,N/A,27 W,27
+Pentium M 740,Dothan,1,1730 MHz,Socket 479,90 nm,N/A,27 W,27
+Pentium M 750,Dothan,1,1860 MHz,Socket 479,90 nm,N/A,27 W,27
+Pentium M 760,Dothan,1,2000 MHz,Socket 479,90 nm,N/A,27 W,27
+Pentium M 770,Dothan,1,2.13 GHz,Socket 479,90 nm,N/A,27 W,27
+Pentium M 780,Dothan,1,2.26 GHz,Socket 479,90 nm,N/A,27 W,27
+Core i3-1115G4,Tiger Lake-U,2  / 4,3 to 4.1 GHz,BGA 1449,10 nm,6MB,28 W,28
+Core i3-1125G4,Tiger Lake-U,4  / 8,2 to 3.7 GHz,BGA 1449,10 nm,8MB,28 W,28
+Core i3-4158U,Haswell,2  / 4,2000 MHz,BGA 1168,22 nm,3MB,28 W,28
+Core i3-5157U,Broadwell-U,2  / 4,2.5 GHz,BGA 1168,14 nm,3MB,28 W,28
+Core i3-8109U,Kaby Lake-R,2  / 4,3 to 3.6 GHz,BGA 1356,14 nm,4MB,28 W,28
+Core i3-8121U,Coffee Lake-U,2  / 4,2.2 GHz,BGA 1440,10 nm,4MB,28 W,28
+Core i3-8145U,Whiskey Lake-U,2  / 4,2.1 to 3.9 GHz,BGA 1440,10 nm,4MB,28 W,28
+Core i5-1135G7,Tiger Lake-U,4  / 8,2.4 to 4.2 GHz,BGA 1449,10 nm,8MB,28 W,28
+Core i5-1145G7,Tiger Lake-U,4  / 8,2.6 to 4.4 GHz,BGA 1449,10 nm,8MB,28 W,28
+Core i5-1155G7,Tiger Lake-U,4  / 8,2.5 to 4.5 GHz,BGA 1449,10 nm,8MB,28 W,28
+Core i5-4258U,Haswell,2  / 4,2.4 to 2.9 GHz,BGA 1168,22 nm,3MB,28 W,28
+Core i5-4288U,Haswell,2  / 4,2.6 to 3.1 GHz,BGA 1168,22 nm,3MB,28 W,28
+Core i5-5257U,Broadwell-U,2  / 4,2.7 to 3.1 GHz,BGA 1168,14 nm,3MB,28 W,28
+Core i5-5287U,Broadwell-U,2  / 4,2.9 to 3.3 GHz,BGA 1168,14 nm,3MB,28 W,28
+Core i5-8259U,Coffee Lake-U,4  / 8,2.3 to 3.8 GHz,BGA 1356,14 nm,6MB,28 W,28
+Core i5-8265U,Whiskey Lake-U,4  / 8,1.6 to 4.1 GHz,BGA 1440,14 nm,6MB,28 W,28
+Core i5-8269U,Kaby Lake-R,4  / 8,2.6 to 4.2 GHz,BGA 1356,14 nm,6MB,28 W,28
+Core i7-1068G7,Ice Lake-U,4  / 8,2.3 to 4.1 GHz,BGA 1440,10 nm,8MB,28 W,28
+Core i7-1165G7,Tiger Lake-U,4  / 8,2.8 to 4.7 GHz,BGA 1449,10 nm,12MB,28 W,28
+Core i7-1185G7,Tiger Lake-U,4  / 8,3 to 4.8 GHz,BGA 1449,10 nm,12MB,28 W,28
+Core i7-1195G7,Tiger Lake-U,4  / 8,2.9 to 5 GHz,BGA 1449,10 nm,12MB,28 W,28
+Core i7-4558U,Haswell-ULT,2  / 4,2.8 to 3.3 GHz,BGA 1168,22 nm,4MB,28 W,28
+Core i7-5557U,Broadwell-U,2  / 4,3.1 to 3.4 GHz,BGA 1168,14 nm,4MB,28 W,28
+Core i7-8559U,Kaby Lake-R,4  / 8,2.7 to 4.5 GHz,BGA 1356,14 nm,8MB,28 W,28
+Core i7-8565U,Whiskey Lake-U,4  / 8,1.8 to 4.6 GHz,BGA 1440,14 nm,8MB,28 W,28
+Core m3-8114Y,Cannon Lake-Y,2  / 4,1500 MHz,BGA 1440,10 nm,4MB,28 W,28
+Pentium III 1000,Coppermine T,1,1000 MHz,Socket 370,180 nm,N/A,29 W,29
+Pentium III 1133,Tualatin,1,1133 MHz,Socket 370,130 nm,N/A,29 W,29
+Pentium III 1133,Coppermine T,1,1133 MHz,Socket 370,180 nm,N/A,29 W,29
+Pentium III 1133,Coppermine,1,1133 MHz,Socket 370,180 nm,N/A,29 W,29
+Pentium III 1133S,Tualatin,1,1133 MHz,Socket 370,130 nm,N/A,29 W,29
+Opteron 140 EE,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,30 W,30
+Opteron 240 EE,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,30 W,30
+Opteron 840 EE,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,30 W,30
+Celeron P1053,Jasper Forest,1  / 2,1333 MHz,Socket 1366,45 nm,2MB,30 W,30
+Pentium 4-M 1.60,Northwood,1,1600 MHz,Socket 478,130 nm,N/A,30 W,30
+Pentium 4-M 1.70,Northwood,1,1700 MHz,Socket 478,130 nm,N/A,30 W,30
+Pentium 4-M 1.80,Northwood,1,1800 MHz,Socket 478,130 nm,N/A,30 W,30
+Pentium III 1000,Tualatin,1,1000 MHz,Socket 370,130 nm,N/A,30 W,30
+Pentium III 1000S,Tualatin,1,1000 MHz,Socket 370,130 nm,N/A,30 W,30
+Pentium III 1200,Tualatin,1,1200 MHz,Socket 370,130 nm,N/A,30 W,30
+Pentium III 1266S,Tualatin,1,1266 MHz,Socket 370,130 nm,N/A,30 W,30
+Pentium III 1333,Tualatin,1,1333 MHz,Socket 370,130 nm,N/A,30 W,30
+Turion X2 RM-70,Griffin,2,2000 MHz,Socket S1,65 nm,N/A,31 W,31
+Core Duo T2050,Yonah,2,1600 MHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2250,Yonah,2,1733 MHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2300,Yonah,2,1660 MHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2400,Yonah,2,1826 MHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2500,Yonah,2,1992 MHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2600,Yonah,2,2.166 GHz,Socket 479,65 nm,N/A,31 W,31
+Core Duo T2700,Yonah,2,2.333 GHz,Socket 479,65 nm,N/A,31 W,31
+Pentium III 1400,Tualatin,1,1400 MHz,Socket 370,130 nm,N/A,31 W,31
+Athlon 64 2700+,NewCastle,1,1600 MHz,Socket 754,130 nm,N/A,32 W,32
+Athlon 64 2800+,NewCastle,1,1800 MHz,Socket 754,130 nm,N/A,32 W,32
+Athlon 64 3000+,NewCastle,1,1800 MHz,Socket 754,130 nm,N/A,32 W,32
+Opteron A1150,Seattle,8,1700 MHz,Socket SP1,28 nm,8MB,32 W,32
+Opteron A1170,Seattle,8,2000 MHz,Socket SP1,28 nm,8MB,32 W,32
+Turion 64 ML-28,Lancaster,1,1600 MHz,Socket 754,90 nm,N/A,32 W,32
+Turion X2 Ultra ZM-80,Griffin,2,2.1 GHz,Socket S1,65 nm,N/A,32 W,32
+Pentium 4-M 1.90,Northwood,1,1900 MHz,Socket 478,130 nm,N/A,32 W,32
+Pentium 4-M 2.00,Northwood,1,2000 MHz,Socket 478,130 nm,N/A,32 W,32
+Pentium III 1400S,Tualatin,1,1400 MHz,Socket 370,130 nm,N/A,32 W,32
+A10-5750M,Richland,4,2.5 to 3.5 GHz,Socket FS1r2,32 nm,N/A,35 W,35
+A10-5757M,Richland,4,2.5 to 3.5 GHz,Socket FP2,32 nm,N/A,35 W,35
+A10-9700E,Bristol Ridge,4,3 to 3.5 GHz,Socket AM4,28 nm,N/A,35 W,35
+A12-9800E,Bristol Ridge,4,3.1 to 3.8 GHz,Socket AM4,28 nm,N/A,35 W,35
+A4-5150M,Richland,2,2.7 to 3.3 GHz,Socket FS1r2,32 nm,N/A,35 W,35
+A6-5350M,Richland,2,2.9 to 3.5 GHz,Socket FS1r2,32 nm,N/A,35 W,35
+A6-5357M,Richland,2,2.9 to 3.5 GHz,Socket FP2,32 nm,N/A,35 W,35
+A6-9500E,Bristol Ridge,2,3 to 3.4 GHz,Socket AM4,28 nm,N/A,35 W,35
+A8-5550M,Richland,4,2.1 to 3.1 GHz,Socket FS1r2,32 nm,N/A,35 W,35
+A8-5557M,Richland,4,2.1 to 3.1 GHz,Socket FP2,32 nm,N/A,35 W,35
+Athlon 200GE,Zen,2  / 4,3.2 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon 220GE,Zen,2  / 4,3.4 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon 220GE,Zen,2  / 4,3.4 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon 220GE,Zen,2  / 4,3.4 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon 240GE,Zen,2  / 4,3.5 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon 3000G,Zen,2  / 4,3.5 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon Gold 3150GE,Dali,4,3.5 to 3.8 GHz,Socket AM4,12 nm,4MB,35 W,35
+Athlon Gold PRO 3150GE,Dali,4,3.5 to 3.8 GHz,Socket AM4,12 nm,4MB,35 W,35
+Athlon PRO 200GE,Zen,2,3.2 GHz,Socket AM4,14 nm,4MB,35 W,35
+Athlon Silver 3050GE,Dali,2  / 4,3.4 GHz,Socket AM4,12 nm,4MB,35 W,35
+Athlon Silver PRO 3125GE,Dali,2  / 4,3.4 GHz,Socket AM4,12 nm,4MB,35 W,35
+Ryzen 3 4300GE,Renoir,4  / 8,3.5 to 4 GHz,Socket AM4,7 nm,4MB,35 W,35
+Ryzen 3 PRO 4350GE,Renoir,4  / 8,3.5 to 4 GHz,Socket AM4,7 nm,4MB,35 W,35
+Ryzen 5 3550H,Picasso,4  / 8,2.1 to 3.7 GHz,Socket FP5,12 nm,4MB,35 W,35
+Ryzen 5 4600GE,Renoir,6  / 12,3.3 to 4.2 GHz,Socket AM4,7 nm,8MB,35 W,35
+Ryzen 5 4600HS,Renoir,6  / 12,3 to 4 GHz,Socket FP6,7 nm,11MB,35 W,35
+Ryzen 5 PRO 4650GE,Renoir,6  / 12,3.3 to 4.2 GHz,Socket AM4,7 nm,8MB,35 W,35
+Ryzen 7 3750H,Picasso,4  / 8,2.3 to 4 GHz,Socket FP5,12 nm,4MB,35 W,35
+Ryzen 7 4700GE,Renoir,8  / 16,3.1 to 4.3 GHz,Socket AM4,7 nm,8MB,35 W,35
+Ryzen 7 4800HS,Renoir,8  / 16,2.9 to 4.2 GHz,Socket FP6,7 nm,12MB,35 W,35
+Ryzen 7 5800HS,Cezanne,8  / 16,2.8 to 4.4 GHz,Socket FP6,7 nm,16MB,35 W,35
+Ryzen 7 PRO 4750GE,Renoir,8  / 16,3.1 to 4.3 GHz,Socket AM4,7 nm,8MB,35 W,35
+Ryzen 9 4900HS,Renoir,8  / 16,3 to 4.3 GHz,Socket FP6,7 nm,12MB,35 W,35
+Ryzen 9 5980HS,Cezanne,8  / 16,3 to 4.8 GHz,Socket FP6,7 nm,16MB,35 W,35
+Celeron 1000M,Ivy Bridge,2,1800 MHz,Socket G2 (988B),22 nm,2MB,35 W,35
+Celeron 1020E,Ivy Bridge,2,2.2 GHz,BGA 1023,22 nm,2MB,35 W,35
+Celeron 1020E,Ivy Bridge,2,2.2 GHz,Socket G2 (988B),22 nm,2MB,35 W,35
+Celeron 1020M,Ivy Bridge,2,2.1 GHz,Socket G2 (988B),22 nm,2MB,35 W,35
+Celeron G1620T,Ivy Bridge,2,2.4 GHz,Socket 1155,22 nm,2MB,35 W,35
+Celeron G3930T,Kaby Lake,2,2.7 GHz,Socket 1151,14 nm,2MB,35 W,35
+Core i3-10105T,Comet Lake-R,4  / 8,3 to 3.9 GHz,Socket 1200,14 nm,6MB,35 W,35
+Core i3-10305T,Comet Lake-R,4  / 8,3 to 4 GHz,Socket 1200,14 nm,8MB,35 W,35
+Core i3-3130M,Ivy Bridge,2  / 4,2.6 GHz,BGA 1023,22 nm,3MB,35 W,35
+Core i3-4130T,Haswell,2  / 4,2.9 GHz,Socket 1150,22 nm,3MB,35 W,35
+Core i3-4150T,Haswell,2  / 4,2.9 GHz,Socket 1150,22 nm,3MB,35 W,35
+Core i3-4160T,Haswell,2  / 4,3.1 GHz,Socket 1150,22 nm,3MB,35 W,35
+Core i3-4330T,Haswell,2  / 4,3 GHz,Socket 1150,22 nm,4MB,35 W,35
+Core i3-4360T,Haswell,2  / 4,3.2 GHz,Socket 1150,22 nm,4MB,35 W,35
+Core i3-7100T,Kaby Lake,2  / 4,3.4 GHz,Socket 1151,14 nm,3MB,35 W,35
+Core i3-7120T,Kaby Lake,2  / 4,3.6 GHz,Socket 1151,14 nm,3MB,35 W,35
+Core i3-7300T,Kaby Lake,2  / 4,3.5 GHz,Socket 1151,14 nm,4MB,35 W,35
+Core i3-7320T,Kaby Lake,2  / 4,3.6 GHz,Socket 1151,14 nm,4MB,35 W,35
+Core i3-8100T,Coffee Lake,4,3.1 GHz,Socket 1151,14 nm,6MB,35 W,35
+Core i3-8300T,Coffee Lake,4,3.2 GHz,Socket 1151,14 nm,8MB,35 W,35
+Core i5-11260H,Tiger Lake-H,6  / 12,2.6 to 4.4 GHz,BGA 1499,10 nm,12MB,35 W,35
+Core i5-11400H,Tiger Lake-H,6  / 12,2.7 to 4.5 GHz,BGA 1499,10 nm,12MB,35 W,35
+Core i5-11400T,Rocket Lake,6  / 12,1.3 to 3.7 GHz,Socket 1200,14 nm,12MB,35 W,35
+Core i5-11500H,Tiger Lake-H,6  / 12,2.9 to 4.6 GHz,BGA 1499,10 nm,12MB,35 W,35
+Core i5-11500T,Rocket Lake,6  / 12,1.5 to 3.9 GHz,Socket 1200,14 nm,12MB,35 W,35
+Core i5-11600T,Rocket Lake,6  / 12,1.7 to 4.1 GHz,Socket 1200,14 nm,12MB,35 W,35
+Core i5-3230M,Ivy Bridge,2  / 4,2.6 to 3.2 GHz,Socket G2 (988B),22 nm,3MB,35 W,35
+Core i5-3230M,Ivy Bridge,2  / 4,2.6 to 3.2 GHz,BGA 1023,22 nm,3MB,35 W,35
+Core i5-3340M,Ivy Bridge,2  / 4,2.7 to 3.4 GHz,BGA 1023,22 nm,3MB,35 W,35
+Core i5-3340M,Ivy Bridge,2  / 4,2.7 to 3.4 GHz,Socket G2 (988B),22 nm,3MB,35 W,35
+Core i5-3380M,Ivy Bridge,2  / 4,2.9 to 3.6 GHz,Socket G2 (988B),22 nm,3MB,35 W,35
+Core i5-4570T,Haswell,2  / 4,2.9 to 3.6 GHz,Socket 1150,22 nm,4MB,35 W,35
+Core i5-4570TE,Haswell,2  / 4,2.7 to 3.3 GHz,Socket 1150,22 nm,4MB,35 W,35
+Core i5-7400T,Kaby Lake,4,2.4 to 3 GHz,Socket 1151,14 nm,6MB,35 W,35
+Core i5-7500T,Kaby Lake,4,2.7 to 3.3 GHz,Socket 1151,14 nm,6MB,35 W,35
+Core i5-7600T,Kaby Lake,4,2.8 to 3.7 GHz,Socket 1151,14 nm,6MB,35 W,35
+Core i5-8400T,Coffee Lake,6,1.7 to 3.3 GHz,Socket 1151,14 nm,9MB,35 W,35
+Core i5-8420T,Coffee Lake,6,1.8 to 3.4 GHz,Socket 1151,14 nm,9MB,35 W,35
+Core i5-8500T,Coffee Lake,6,2.1 to 3.5 GHz,Socket 1151,14 nm,9MB,35 W,35
+Core i5-8600T,Coffee Lake,6,2.3 to 3.7 GHz,Socket 1151,14 nm,9MB,35 W,35
+Core i5-9400T,Coffee Lake,6,1.8 to 3.4 GHz,Socket 1151,14 nm,9MB,35 W,35
+Core i7-11700T,Rocket Lake,8  / 16,1.4 to 4.6 GHz,Socket 1200,14 nm,16MB,35 W,35
+Core i7-11800H,Tiger Lake-H,8  / 16,2.3 to 4.6 GHz,BGA 1499,10 nm,24MB,35 W,35
+Core i7-11850H,Tiger Lake-H,8  / 16,2.5 to 4.8 GHz,BGA 1499,10 nm,24MB,35 W,35
+Core i7-3540M,Ivy Bridge,2  / 4,3 to 3.7 GHz,Socket G2 (988B),22 nm,4MB,35 W,35
+Core i7-3540M,Ivy Bridge,2  / 4,3 to 3.7 GHz,BGA 1023,22 nm,4MB,35 W,35
+Core i7-4765T,Haswell,4  / 8,2 to 3 GHz,Socket 1150,22 nm,8MB,35 W,35
+Core i7-6700T,Skylake,4  / 8,2.8 to 3.6 GHz,Socket 1151,14 nm,8MB,35 W,35
+Core i7-6700TE,Skylake,4  / 8,2.4 to 3.4 GHz,Socket 1151,14 nm,8MB,35 W,35
+Core i7-7700T,Kaby Lake,4  / 8,2.9 to 3.8 GHz,Socket 1151,14 nm,8MB,35 W,35
+Core i7-8670T,Coffee Lake,6  / 12,2.3 to 3.7 GHz,Socket 1151,14 nm,12MB,35 W,35
+Core i7-8700T,Coffee Lake,6  / 12,2.4 to 4 GHz,Socket 1151,14 nm,12MB,35 W,35
+Core i9-11900H,Tiger Lake-H,8  / 16,2.5 to 4.9 GHz,BGA 1499,10 nm,24MB,35 W,35
+Core i9-11900T,Rocket Lake,8  / 16,1.5 to 4.9 GHz,Socket 1200,14 nm,16MB,35 W,35
+Core i9-11950H,Tiger Lake-H,8  / 16,2.6 to 5 GHz,BGA 1499,10 nm,24MB,35 W,35
+Pentium 2030M,Ivy Bridge,2,2.5 GHz,Socket G2 (988B),22 nm,2MB,35 W,35
+Pentium G2020T,Ivy Bridge,2,2.5 GHz,Socket 1155,22 nm,3MB,35 W,35
+Pentium G3220T,Haswell,2,2.6 GHz,Socket 1150,22 nm,3MB,35 W,35
+Pentium G3250T,Haswell,2,2.8 GHz,Socket 1150,22 nm,3MB,35 W,35
+Pentium G3420T,Haswell,2,2.7 GHz,Socket 1150,22 nm,3MB,35 W,35
+Pentium G3450T,Haswell,2,2.9 GHz,Socket 1150,22 nm,3MB,35 W,35
+Pentium G4560T,Kaby Lake,2  / 4,2.9 GHz,Socket 1151,14 nm,3MB,35 W,35
+Pentium G4600T,Kaby Lake,2  / 4,3 GHz,Socket 1151,14 nm,3MB,35 W,35
+Pentium Gold G6405T,Comet Lake-R,2  / 4,3.5 GHz,Socket 1200,14 nm,4MB,35 W,35
+Pentium Gold G6505T,Comet Lake-R,2  / 4,3.6 GHz,Socket 1200,14 nm,4MB,35 W,35
+Xeon W-11855M,Tiger Lake-H,6  / 12,3.2 to 4.9 GHz,BGA 1499,10 nm,18MB,35 W,35
+Xeon W-11955M,Tiger Lake-H,8  / 16,2.6 to 5 GHz,BGA 1499,10 nm,24MB,35 W,35
+Celeron 2950M,Haswell,2,2000 MHz,Socket G2 (988B),22 nm,2MB,37 W,37
+Celeron 2950M,Haswell,2,2000 MHz,Socket G3,22 nm,2MB,37 W,37
+Core i3-4000M,Haswell,2  / 4,2.4 GHz,Socket G3,22 nm,3MB,37 W,37
+Core i3-4100E,Haswell,2  / 4,2.4 GHz,BGA 1364,22 nm,3MB,37 W,37
+Core i5-4300M,Haswell,2  / 4,2.6 to 3.6 GHz,Socket G3,22 nm,3MB,37 W,37
+Core i5-4330M,Haswell,2  / 4,2.8 to 3.8 GHz,Socket G3,22 nm,3MB,37 W,37
+Core i7-4600M,Haswell,2  / 4,2.9 to 3.6 GHz,Socket G3,22 nm,4MB,37 W,37
+Core i7-4610M,Haswell,2  / 4,3 to 3.7 GHz,Socket G3,22 nm,4MB,37 W,37
+Core i7-4702HQ,Crystalwell,4  / 8,2.2 to 3.2 GHz,BGA 1364,22 nm,8MB,37 W,37
+Core i7-4702MQ,Haswell,4  / 8,2.2 to 3.2 GHz,Socket G3,22 nm,8MB,37 W,37
+Core i7-4712HQ,Crystalwell,4  / 8,2.3 to 3.3 GHz,BGA 1364,22 nm,8MB,37 W,37
+Core i7-4712MQ,Haswell,4  / 8,2.3 to 3.3 GHz,Socket G3,22 nm,8MB,37 W,37
+Pentium 3550M,Haswell,2,2.3 GHz,Socket G3,22 nm,2MB,37 W,37
+Athlon 600,Thunderbird,1,600 MHz,Socket A,180 nm,N/A,38 W,38
+Athlon 650,Thunderbird,1,650 MHz,Socket A,180 nm,N/A,38 W,38
+Pentium III  800,Coppermine T,1,800 MHz,Socket 370,180 nm,N/A,38 W,38
+Pentium III  866,Coppermine T,1,866 MHz,Socket 370,180 nm,N/A,38 W,38
+Xeon L5508,Gainestown,2  / 4,2 to 2.4 GHz,Socket 1366,45 nm,8MB,38 W,38
+Athlon 700,Thunderbird,1,700 MHz,Socket A,180 nm,N/A,40 W,40
+Xeon 5148,Woodcrest,2,2.333 GHz,Socket 771,65 nm,N/A,40 W,40
+Xeon E3-1125C,Gladden,4,2000 MHz,BGA 1283,32 nm,8MB,40 W,40
+Xeon L5609,Westmere-EP,4,1866 MHz,Socket 1366,32 nm,12MB,40 W,40
+Xeon L5618,Westmere-EP,4  / 8,1.866 to 2.266 GHz,Socket 1366,32 nm,12MB,40 W,40
+Xeon L5630,Westmere-EP,4  / 8,2.133 to 2.4 GHz,Socket 1366,32 nm,12MB,40 W,40
+Athlon 750,Thunderbird,1,750 MHz,Socket A,180 nm,N/A,43 W,43
+Core 2 Extreme X7900,Merom XE,2,2.8 GHz,Socket P,65 nm,N/A,44 W,44
+Core 2 Extreme X9100,Penryn XE,2,3.067 GHz,Socket P,45 nm,N/A,44 W,44
+A10-6700T,Richland,4,2.5 to 3.5 GHz,Socket FM2,32 nm,N/A,45 W,45
+A4-3330MX,Llano,2,2.2 to 2.6 GHz,Socket FS1,32 nm,N/A,45 W,45
+A6-3410MX,Llano,4,1.6 to 2.3 GHz,Socket FS1,32 nm,N/A,45 W,45
+A6-3430MX,Llano,4,1.7 to 2.4 GHz,Socket FS1,32 nm,N/A,45 W,45
+A8-3510MX,Llano,4,1.8 to 2.5 GHz,Socket FS1,32 nm,N/A,45 W,45
+A8-3530MX,Llano,4,1.9 to 2.6 GHz,Socket FS1,32 nm,N/A,45 W,45
+A8-3550MX,Llano,4,2 to 2.7 GHz,Socket FS1,32 nm,N/A,45 W,45
+A8-7680,Godaveri,4,3.5 to 3.8 GHz,Socket FM2+,28 nm,N/A,45 W,45
+Athlon 64 LE-1640,Orleans,1,2.6 GHz,Socket AM2,90 nm,N/A,45 W,45
+Athlon 64 LE-1640,Lima,1,2.7 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon 64 LE-1640B,Lima,1,2.7 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon 64 LE-1660,Lima,1,2.8 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon II X2 210e,Regor,2,2.6 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X2 235e,Regor,2,2.7 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X2 240e,Regor,2,2.8 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X2 245e,Regor,2,2.9 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X2 250e,Regor,2,3 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X3 400e,Rana,3,2.2 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X3 405e,Rana,3,2.3 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X3 415e,Rana,3,2.5 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X3 420e,Rana,3,2.6 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X3 425e,Rana,3,2.7 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X4 600e,Propus,4,2.2 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X4 605e,Propus,4,2.3 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X4 610e,Propus,4,2.4 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X4 615e,Propus,4,2.5 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon II X4 620e,Propus,4,2.6 GHz,Socket AM3,45 nm,N/A,45 W,45
+Athlon X2 4050e,Brisbane,2,2.1 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon X2 4450e,Brisbane,2,2.3 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon X2 4850e,Brisbane,2,2.5 GHz,Socket AM2,65 nm,N/A,45 W,45
+Athlon X2 5050e,Brisbane,2,2.6 GHz,Socket AM2,65 nm,N/A,45 W,45
+Opteron 3350 HE,Delhi,4,2.8 to 3.8 GHz,Socket AM3+,32 nm,8MB,45 W,45
+Ryzen 9 5900HX,Cezanne,8  / 16,3.3 to 4.6 GHz,Socket FP6,7 nm,16MB,45 W,45
+Ryzen Embedded V1756B,Zen,4  / 8,3.25 to 3.6 GHz,Socket FP5,14 nm,2MB,45 W,45
+Ryzen Embedded V1807B,Zen,4  / 8,3.35 to 3.8 GHz,Socket FP5,14 nm,2MB,45 W,45
+Sempron 130,Sargas,1,2.6 GHz,Socket AM3,45 nm,N/A,45 W,45
+Sempron 140,Sargas,1,2.7 GHz,Socket AM3,45 nm,N/A,45 W,45
+Sempron 145,Sargas,1,2.8 GHz,Socket AM3,45 nm,N/A,45 W,45
+Sempron 150,Sargas,1,2.9 GHz,Socket AM3,45 nm,N/A,45 W,45
+Sempron 180,Regor,2,2.4 GHz,Socket AM3,45 nm,N/A,45 W,45
+Sempron LE-1250,Sparta,1,2.2 GHz,Socket AM2,65 nm,N/A,45 W,45
+Core 2 Extreme QX9300,Penryn QC XE,4,2.534 GHz,Socket P,45 nm,N/A,45 W,45
+Core 2 Quad Q9100,Penryn QC,4,2.267 GHz,Socket P,45 nm,N/A,45 W,45
+Core i5-10200H,Comet Lake-H,4  / 8,2.4 to 4.1 GHz,BGA 1440,14 nm,6MB,45 W,45
+Core i5-10300H,Comet Lake-H,4  / 8,2.5 to 4.5 GHz,BGA 1440,14 nm,6MB,45 W,45
+Core i5-10400H,Comet Lake-H,4  / 8,2.6 to 4.6 GHz,BGA 1440,14 nm,6MB,45 W,45
+Core i5-2500T,Sandy Bridge,4,2.3 to 3.3 GHz,Socket 1155,32 nm,6MB,45 W,45
+Core i5-3570T,Ivy Bridge,4,2.3 to 3.3 GHz,Socket 1155,22 nm,6MB,45 W,45
+Core i5-4670T,Haswell,4,2.3 to 3.3 GHz,Socket 1150,22 nm,6MB,45 W,45
+Core i5-6350HQ,Skylake-H,4,2.3 to 3.2 GHz,BGA 1440,14 nm,6MB,45 W,45
+Core i5-7300HQ,Kaby Lake-H,4,2.5 to 3.5 GHz,BGA 1440,14 nm,6MB,45 W,45
+Core i5-8300H,Coffee Lake-H,4  / 8,2.3 to 3.9 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i5-8400H,Coffee Lake-H,4  / 8,2.5 to 4.1 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-10750H,Comet Lake-H,6  / 12,2.6 to 5 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-10850H,Comet Lake-H,6  / 12,2.7 to 5.1 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-10870H,Comet Lake-H,8  / 16,2.2 to 5 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-10875H,Comet Lake-H,8  / 16,2.1 to 5.1 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-10885H,Comet Lake-H,8  / 16,2.4 to 5.3 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-2630QM,Sandy Bridge,4  / 8,2 to 2.9 GHz,Socket G2 (988B),32 nm,6MB,45 W,45
+Core i7-2635QM,Sandy Bridge,4  / 8,2 to 2.9 GHz,BGA 1224,32 nm,6MB,45 W,45
+Core i7-2670QM,Sandy Bridge,4  / 8,2.2 to 3.1 GHz,Socket G2 (988B),32 nm,6MB,45 W,45
+Core i7-2675QM,Sandy Bridge,4  / 8,2.2 to 3.1 GHz,BGA 1224,32 nm,6MB,45 W,45
+Core i7-2710QE,Sandy Bridge,4  / 8,2.1 to 3 GHz,Socket G2 (988B),32 nm,6MB,45 W,45
+Core i7-2715QE,Sandy Bridge,4  / 8,2.1 to 3 GHz,BGA 1023,32 nm,6MB,45 W,45
+Core i7-2720QM,Sandy Bridge,4  / 8,2.2 to 3.3 GHz,Socket G2 (988B),32 nm,6MB,45 W,45
+Core i7-2720QM,Sandy Bridge,4  / 8,2.2 to 3.3 GHz,BGA 1224,32 nm,6MB,45 W,45
+Core i7-2760QM,Sandy Bridge,4  / 8,2.4 to 3.5 GHz,Socket G2 (988B),32 nm,6MB,45 W,45
+Core i7-2760QM,Sandy Bridge,4  / 8,2.4 to 3.5 GHz,BGA 1224,32 nm,6MB,45 W,45
+Core i7-2820QM,Sandy Bridge,4  / 8,2.3 to 3.4 GHz,BGA 1224,32 nm,8MB,45 W,45
+Core i7-2820QM,Sandy Bridge,4  / 8,2.3 to 3.4 GHz,Socket G2 (988B),32 nm,8MB,45 W,45
+Core i7-2860QM,Sandy Bridge,4  / 8,2.5 to 3.6 GHz,BGA 1224,32 nm,8MB,45 W,45
+Core i7-2860QM,Sandy Bridge,4  / 8,2.5 to 3.6 GHz,Socket G2 (988B),32 nm,8MB,45 W,45
+Core i7-3610QE,Ivy Bridge,4  / 8,2.3 to 3.3 GHz,Socket G2 (988B),22 nm,6MB,45 W,45
+Core i7-3610QM,Ivy Bridge,4  / 8,2.3 to 3.3 GHz,Socket G2 (988B),22 nm,6MB,45 W,45
+Core i7-3615QE,Ivy Bridge,4  / 8,2.3 to 3.3 GHz,BGA 1023,22 nm,6MB,45 W,45
+Core i7-3615QM,Ivy Bridge,4  / 8,2.3 to 3.3 GHz,BGA 1224,22 nm,6MB,45 W,45
+Core i7-3630QM,Ivy Bridge,4  / 8,2.4 to 3.4 GHz,Socket G2 (988B),22 nm,6MB,45 W,45
+Core i7-3635QM,Ivy Bridge,4  / 8,2.4 to 3.4 GHz,BGA 1224,22 nm,6MB,45 W,45
+Core i7-3720QM,Ivy Bridge,4  / 8,2.6 to 3.6 GHz,Socket G2 (988B),22 nm,6MB,45 W,45
+Core i7-3720QM,Ivy Bridge,4  / 8,2.6 to 3.6 GHz,BGA 1224,22 nm,6MB,45 W,45
+Core i7-3740QM,Ivy Bridge,4  / 8,2.7 to 3.7 GHz,BGA 1224,22 nm,6MB,45 W,45
+Core i7-3740QM,Ivy Bridge,4  / 8,2.7 to 3.7 GHz,Socket G2 (988B),22 nm,6MB,45 W,45
+Core i7-3770T,Ivy Bridge,4  / 8,2.5 to 3.7 GHz,Socket 1155,22 nm,8MB,45 W,45
+Core i7-3820QM,Ivy Bridge,4  / 8,2.7 to 3.7 GHz,Socket G2 (988B),22 nm,8MB,45 W,45
+Core i7-3820QM,Ivy Bridge,4  / 8,2.7 to 3.7 GHz,BGA 1224,22 nm,8MB,45 W,45
+Core i7-3840QM,Ivy Bridge,4  / 8,2.8 to 3.8 GHz,BGA 1224,22 nm,8MB,45 W,45
+Core i7-3840QM,Ivy Bridge,4  / 8,2.8 to 3.8 GHz,Socket G2 (988B),22 nm,8MB,45 W,45
+Core i7-4770T,Haswell,4  / 8,2.5 to 3.7 GHz,Socket 1150,22 nm,8MB,45 W,45
+Core i7-4770TE,Haswell,4  / 8,2.3 to 3.3 GHz,Socket 1150,22 nm,8MB,45 W,45
+Core i7-8750H,Coffee Lake-H,6  / 12,2.2 to 4.1 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-8850H,Coffee Lake-H,6  / 12,2.7 to 4.3 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-9750H,Coffee Lake-HR,6  / 12,2.6 to 4.5 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-9750HF,Coffee Lake-HR,6  / 12,2.6 to 4.5 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-9850H,Coffee Lake-HR,6  / 12,2.6 to 4.6 GHz,BGA 1440,14 nm,12MB,45 W,45
+Core i7-9850HE,Coffee Lake-HR,6  / 12,2.7 to 4.4 GHz,BGA 1440,14 nm,9MB,45 W,45
+Core i9-10980HK,Comet Lake-H,8  / 16,2.4 to 5.3 GHz,BGA 1440,14 nm,16MB,45 W,45
+Core i9-9880H,Coffee Lake-HR,8  / 16,2.3 to 4.8 GHz,BGA 1440,14 nm,16MB,45 W,45
+Core i9-9980HK,Coffee Lake-HR,8  / 16,2.4 to 5 GHz,BGA 1440,14 nm,16MB,45 W,45
+Xeon E3-1260L,Sandy Bridge,4  / 8,2.4 to 3.3 GHz,Socket 1155,32 nm,8MB,45 W,45
+Xeon E3-1265L v2,Ivy Bridge,4  / 8,2.5 to 3.5 GHz,Socket 1155,22 nm,8MB,45 W,45
+Xeon E3-1265L v3,Haswell-WS,4  / 8,2.5 to 3.7 GHz,Socket 1150,22 nm,8MB,45 W,45
+Athlon 850,Thunderbird,1,850 MHz,Socket A,180 nm,N/A,47 W,47
+Core i7-4700EQ,Crystalwell,4  / 8,2.4 to 3.4 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4700EQ,Haswell,4  / 8,2.4 to 3.4 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4700HQ,Crystalwell,4  / 8,2.4 to 3.4 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4700MQ,Haswell,4  / 8,2.4 to 3.4 GHz,Socket G3,22 nm,6MB,47 W,47
+Core i7-4710HQ,Crystalwell,4  / 8,2.5 to 3.5 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4710MQ,Haswell,4  / 8,2.5 to 3.5 GHz,Socket G3,22 nm,6MB,47 W,47
+Core i7-4750HQ,Crystalwell,4  / 8,2 to 3.2 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4760HQ,Crystalwell,4  / 8,2.1 to 3.3 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4770HQ,Crystalwell,4  / 8,2.2 to 3.4 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4800MQ,Haswell,4  / 8,2.7 to 3.7 GHz,Socket G3,22 nm,8MB,47 W,47
+Core i7-4810MQ,Haswell,4  / 8,2.8 to 3.8 GHz,Socket G3,22 nm,8MB,47 W,47
+Core i7-4850EQ,Crystalwell,4  / 8,1.6 to 3.2 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4850HQ,Crystalwell,4  / 8,2.3 to 3.5 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4860EQ,Crystalwell,4  / 8,1.8 to 3.2 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4860HQ,Crystalwell,4  / 8,2.4 to 3.6 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4870HQ,Crystalwell,4  / 8,2.5 to 3.7 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4900MQ,Haswell,4  / 8,2.8 to 3.8 GHz,Socket G3,22 nm,8MB,47 W,47
+Core i7-4910MQ,Haswell,4  / 8,2.9 to 3.9 GHz,Socket G3,22 nm,8MB,47 W,47
+Core i7-4950HQ,Crystalwell,4  / 8,2.4 to 3.6 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4960HQ,Crystalwell,4  / 8,2.6 to 3.8 GHz,BGA 1364,22 nm,8MB,47 W,47
+Core i7-4980HQ,Crystalwell,4  / 8,2.8 to 4 GHz,BGA 1364,22 nm,8MB,47 W,47
+Athlon XP 1600+,Thoroughbred,1,1400 MHz,Socket A,130 nm,N/A,49 W,49
+Athlon 900,Thunderbird,1,900 MHz,Socket A,180 nm,N/A,50 W,50
+Athlon XP 1700+,Thoroughbred,1,1467 MHz,Socket A,130 nm,N/A,50 W,50
+Athlon XP 1700+,Thoroughbred,1,1467 MHz,Socket A,130 nm,N/A,50 W,50
+EPYC Embedded 3251,Zen,8  / 16,2.5 to 3.1 GHz,BGA SP4r2,14 nm,16MB,50 W,50
+Xeon E5-2418L,Sandy Bridge-EN,4  / 8,2 to 2.1 GHz,Socket 1356,32 nm,10MB,50 W,50
+Athlon 64 3000+,Venice,1,2000 MHz,Socket 754,90 nm,N/A,51 W,51
+Athlon 64 3000+,Venice,1,2000 MHz,Socket 754,90 nm,N/A,51 W,51
+Athlon XP 1800+,Thoroughbred,1,1533 MHz,Socket A,130 nm,N/A,51 W,51
+Athlon XP 1800+,Thoroughbred,1,1533 MHz,Socket A,130 nm,N/A,51 W,51
+Celeron G3900,Skylake,2,2.8 GHz,Socket 1151,14 nm,4MB,51 W,51
+Celeron G3920,Skylake,2,2.9 GHz,Socket 1151,14 nm,4MB,51 W,51
+Celeron G3930,Kaby Lake,2,2.9 GHz,Socket 1151,14 nm,2MB,51 W,51
+Celeron G3950,Kaby Lake,2,3 GHz,Socket 1151,14 nm,2MB,51 W,51
+Celeron G4900,Coffee Lake,2,3.1 GHz,Socket 1151,14 nm,6MB,51 W,51
+Celeron G4920,Coffee Lake,2,3.2 GHz,Socket 1151,14 nm,6MB,51 W,51
+Core i3-6100,Skylake,2  / 4,3.7 GHz,Socket 1151,14 nm,4MB,51 W,51
+Core i3-6300,Skylake,2  / 4,3.8 GHz,Socket 1151,14 nm,4MB,51 W,51
+Core i3-6320,Skylake,2  / 4,3.9 GHz,Socket 1151,14 nm,4MB,51 W,51
+Core i3-7100,Kaby Lake,2  / 4,3.9 GHz,Socket 1151,14 nm,3MB,51 W,51
+Core i3-7120,Kaby Lake,2  / 4,4 GHz,Socket 1151,14 nm,3MB,51 W,51
+Core i3-7300,Kaby Lake,2  / 4,4 GHz,Socket 1151,14 nm,4MB,51 W,51
+Core i3-7320,Kaby Lake,2  / 4,4.1 GHz,Socket 1151,14 nm,4MB,51 W,51
+Core i3-7340,Kaby Lake,2  / 4,4.2 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium G4400,Skylake,2,3.3 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium G4500,Skylake,2,3.5 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium G4520,Skylake,2,3.6 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium G4560,Kaby Lake,2  / 4,3.5 GHz,Socket 1151,14 nm,3MB,51 W,51
+Pentium G4600,Kaby Lake,2  / 4,3.6 GHz,Socket 1151,14 nm,3MB,51 W,51
+Pentium G4620,Kaby Lake,2  / 4,3.7 GHz,Socket 1151,14 nm,3MB,51 W,51
+Pentium Gold G5400,Coffee Lake,2  / 4,3.7 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium Gold G5500,Coffee Lake,2  / 4,3.8 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium Gold G5600,Coffee Lake,2  / 4,3.9 GHz,Socket 1151,14 nm,4MB,51 W,51
+Pentium Gold G5620,Coffee Lake,2  / 4,4 GHz,Socket 1151,14 nm,4MB,51 W,51
+Athlon 950,Thunderbird,1,950 MHz,Socket A,180 nm,N/A,52 W,52
+Pentium 4 1.3,Willamette,1,1300 MHz,Socket 478,180 nm,N/A,52 W,52
+Athlon XP 1900+,Thoroughbred,1,1600 MHz,Socket A,130 nm,N/A,53 W,53
+Athlon 1000,Thunderbird B,1,1000 MHz,Socket A,180 nm,N/A,54 W,54
+Athlon 1000,Thunderbird C,1,1000 MHz,Socket A,180 nm,N/A,54 W,54
+Ryzen 5 4600H,Renoir,6  / 12,3 to 4 GHz,Socket FP6,7 nm,11MB,54 W,54
+Ryzen 7 4800H,Renoir,8  / 16,2.9 to 4.2 GHz,Socket FP6,7 nm,12MB,54 W,54
+Ryzen 7 5800H,Cezanne,8  / 16,3.2 to 4.4 GHz,Socket FP6,7 nm,16MB,54 W,54
+Ryzen 9 4900H,Renoir,8  / 16,3.3 to 4.4 GHz,Socket FP6,7 nm,12MB,54 W,54
+Celeron G1820,Haswell,2,2.7 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1820T,Haswell,2,2.4 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1820TE,Haswell,2,2.2 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1830,Haswell,2,2.8 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1840,Haswell,2,2.8 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1840T,Haswell,2,2.5 GHz,Socket 1150,22 nm,3MB,54 W,54
+Celeron G1850,Haswell,2,2.9 GHz,Socket 1150,22 nm,3MB,54 W,54
+Core i3-4130,Haswell,2  / 4,3.4 GHz,Socket 1150,22 nm,3MB,54 W,54
+Core i3-4160,Haswell,2  / 4,3.6 GHz,Socket 1150,22 nm,3MB,54 W,54
+Core i3-4330,Haswell,2  / 4,3.5 GHz,Socket 1150,22 nm,4MB,54 W,54
+Core i3-4340,Haswell,2  / 4,3.6 GHz,Socket 1150,22 nm,4MB,54 W,54
+Core i3-4350,Haswell,2  / 4,3.6 GHz,Socket 1150,22 nm,4MB,54 W,54
+Core i3-4360,Haswell,2  / 4,3.7 GHz,Socket 1150,22 nm,4MB,54 W,54
+Core i3-4370,Haswell,2  / 4,3.8 GHz,Socket 1150,22 nm,4MB,54 W,54
+Core i3-4370,Haswell,2  / 4,3.8 GHz,Socket 1150,22 nm,4MB,54 W,54
+Pentium G3220,Haswell,2,3 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3250,Haswell,2,3.2 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3258,Haswell,2,3.2 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3420,Haswell,2,3.2 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3430,Haswell,2,3.3 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3440,Haswell,2,3.3 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3450,Haswell,2,3.3 GHz,Socket 1150,22 nm,3MB,54 W,54
+Pentium G3460,Haswell,2,3.5 GHz,Socket 1150,22 nm,3MB,54 W,54
+Opteron 146 HE,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,55 W,55
+Opteron 148 HE,Venus,1,2.2 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 246 HE,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,55 W,55
+Opteron 246 HE,Troy,1,2000 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 248 HE,Troy,1,2.2 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 250 HE,Troy,1,2.4 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 846 HE,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,55 W,55
+Opteron 846 HE,Athens,1,2000 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 848 HE,Athens,1,2.2 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron 850 HE,Athens,1,2.4 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 260 HE,Italy,2,1600 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 265 HE,Italy,2,1800 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 270 HE,Italy,2,2000 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 275 HE,Italy,2,2.2 GHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 860 HE,Egypt,2,1600 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 865 HE,Egypt,2,1800 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 870 HE,Egypt,2,2000 MHz,Socket 940,90 nm,N/A,55 W,55
+Opteron X2 875 HE,Egypt,2,2.2 GHz,Socket 940,90 nm,N/A,55 W,55
+Celeron G1610,Ivy Bridge,2,2.6 GHz,Socket 1155,22 nm,2MB,55 W,55
+Celeron G1620,Ivy Bridge,2,2.7 GHz,Socket 1155,22 nm,2MB,55 W,55
+Celeron G1630,Ivy Bridge,2,2.8 GHz,Socket 1155,22 nm,2MB,55 W,55
+Core i3-3210,Ivy Bridge,2  / 4,3.2 GHz,Socket 1155,22 nm,3MB,55 W,55
+Core i3-3220,Ivy Bridge,2  / 4,3.3 GHz,Socket 1155,22 nm,3MB,55 W,55
+Core i3-3225,Ivy Bridge,2  / 4,3.3 GHz,Socket 1155,22 nm,3MB,55 W,55
+Core i3-3240,Ivy Bridge,2  / 4,3.4 GHz,Socket 1155,22 nm,3MB,55 W,55
+Core i7-2920XM,Sandy Bridge,4  / 8,2.5 to 3.5 GHz,Socket G2 (988B),32 nm,8MB,55 W,55
+Core i7-2960XM,Sandy Bridge,4  / 8,2.7 to 3.7 GHz,Socket G2 (988B),32 nm,8MB,55 W,55
+Core i7-3920XM,Ivy Bridge,4  / 8,2.9 to 3.8 GHz,Socket G2 (988B),22 nm,8MB,55 W,55
+Core i7-3940XM,Ivy Bridge,4  / 8,3 to 3.9 GHz,Socket G2 (988B),22 nm,8MB,55 W,55
+Pentium 4 1.4,Willamette,1,1400 MHz,Socket 478,180 nm,N/A,55 W,55
+Pentium 4 1.4,Willamette,1,1400 MHz,Socket 423,180 nm,N/A,55 W,55
+Pentium G2010,Ivy Bridge,2,2.8 GHz,Socket 1155,22 nm,3MB,55 W,55
+Pentium G2020,Ivy Bridge,2,2.9 GHz,Socket 1155,22 nm,3MB,55 W,55
+Pentium G2120,Ivy Bridge,2,3.1 GHz,Socket 1155,22 nm,3MB,55 W,55
+Pentium G2130,Ivy Bridge,2,3.2 GHz,Socket 1155,22 nm,3MB,55 W,55
+Core i7-4930MX,Haswell,4  / 8,3 to 3.9 GHz,Socket G3,22 nm,8MB,57 W,57
+Core i7-4940MX,Haswell,4  / 8,3.1 to 4 GHz,Socket G3,22 nm,8MB,57 W,57
+Celeron G5900,Comet Lake,2,3.4 GHz,Socket 1200,14 nm,2MB,58 W,58
+Celeron G5920,Comet Lake,2,3.5 GHz,Socket 1200,14 nm,2MB,58 W,58
+Pentium 4 1.5,Willamette,1,1500 MHz,Socket 478,180 nm,N/A,58 W,58
+Pentium 4 1.5,Willamette,1,1500 MHz,Socket 423,180 nm,N/A,58 W,58
+Pentium Gold G6400,Comet Lake,2  / 4,4 GHz,Socket 1200,14 nm,4MB,58 W,58
+Pentium Gold G6500,Comet Lake,2  / 4,4.1 GHz,Socket 1200,14 nm,4MB,58 W,58
+Pentium Gold G6600,Comet Lake,2  / 4,4.2 GHz,Socket 1200,14 nm,4MB,58 W,58
+Athlon 64 3200+,Venice,1,2.2 GHz,Socket 754,90 nm,N/A,59 W,59
+Athlon 64 3500+ (F3),Orleans,1,2.2 GHz,Socket AM2,90 nm,N/A,59 W,59
+Athlon 64 3800+ (F3),Orleans,1,2.4 GHz,Socket AM2,90 nm,N/A,59 W,59
+Athlon 64 4000+ (F3),Orleans,1,2.6 GHz,Socket AM2,90 nm,N/A,59 W,59
+Athlon 1100,Thunderbird B,1,1100 MHz,Socket A,180 nm,N/A,60 W,60
+Athlon XP 1500+,Palomino,1,1333 MHz,Socket A,180 nm,N/A,60 W,60
+Athlon XP 2000+,Thorton,1,1667 MHz,Socket A,130 nm,N/A,60 W,60
+Athlon XP 2000+,Thoroughbred,1,1667 MHz,Socket A,130 nm,N/A,60 W,60
+Athlon XP 2000+,Thoroughbred,1,1667 MHz,Socket A,130 nm,N/A,60 W,60
+Athlon XP 2000+,Thorton,1,1667 MHz,Socket A,130 nm,N/A,60 W,60
+Core i3-7350K,Kaby Lake,2  / 4,4.2 GHz,Socket 1151,14 nm,4MB,60 W,60
+Mobile Pentium 4 2.40,Northwood,1  / 2,2.4 GHz,Socket 478,130 nm,N/A,60 W,60
+Xeon E5-1428L,Sandy Bridge-EN,6  / 12,1800 MHz,Socket 1356,32 nm,15MB,60 W,60
+Xeon E5-2428L,Sandy Bridge-EN,6  / 12,1.8 to 2 GHz,Socket 1356,32 nm,15MB,60 W,60
+Xeon E5-2430L,Sandy Bridge-EN,6  / 12,2 to 2.5 GHz,Socket 1356,32 nm,15MB,60 W,60
+Xeon E5-2630L,Sandy Bridge-EP,6  / 12,2 to 2.5 GHz,Socket 2011,32 nm,15MB,60 W,60
+Xeon E5-2630L v2,Ivy Bridge-EP,6  / 12,2.4 GHz,Socket 2011,22 nm,15MB,60 W,60
+Xeon L5506,Gainestown,4,2.133 GHz,Socket 1366,45 nm,4MB,60 W,60
+Xeon L5518,Gainestown,4  / 8,2.133 to 2.4 GHz,Socket 1366,45 nm,8MB,60 W,60
+Xeon L5520,Gainestown,4  / 8,2.266 to 2.533 GHz,Socket 1366,45 nm,8MB,60 W,60
+Xeon L5530,Gainestown,4  / 8,2.4 to 2.666 GHz,Socket 1366,45 nm,8MB,60 W,60
+Xeon L5638,Westmere-EP,6  / 12,2 to 2.4 GHz,Socket 1366,32 nm,12MB,60 W,60
+Xeon L5640,Westmere-EP,6  / 12,2.266 to 2.8 GHz,Socket 1366,32 nm,12MB,60 W,60
+Pentium 4 1.6,Willamette,1,1600 MHz,Socket 478,180 nm,N/A,61 W,61
+Pentium 4 1.6,Willamette,1,1600 MHz,Socket 423,180 nm,N/A,61 W,61
+Athlon 64 3000+,Orleans,1,1800 MHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 3000+,Newark,1,1800 MHz,Socket 754,130 nm,N/A,62 W,62
+Athlon 64 3200+,Newark,1,2000 MHz,Socket 754,130 nm,N/A,62 W,62
+Athlon 64 3200+,Orleans,1,2000 MHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 3500+,Windsor,1,2.2 GHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 3500+,Orleans,1,2.2 GHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 3800+,Orleans,1,2.4 GHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 3800+,Windsor,1,2.4 GHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon 64 4000+,Newark,1,2.6 GHz,Socket 754,130 nm,N/A,62 W,62
+Athlon 64 4000+,Windsor,1,2.6 GHz,Socket AM2,90 nm,N/A,62 W,62
+Athlon XP 2100+,Thoroughbred,1,1733 MHz,Socket A,130 nm,N/A,62 W,62
+Mobile Athlon 64 2800+,Clawhammer,1,1800 MHz,Socket 754,130 nm,N/A,62 W,62
+Mobile Athlon 64 3000+,Clawhammer,1,1800 MHz,Socket 754,130 nm,N/A,62 W,62
+Mobile Athlon 64 3200+,Clawhammer,1,2000 MHz,Socket 754,130 nm,N/A,62 W,62
+Mobile Athlon 64 3400+,Clawhammer,1,2.2 GHz,Socket 754,130 nm,N/A,62 W,62
+Sempron 2200+,Thoroughbred,1,1500 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2200+,Thorton,1,1500 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2200+,Barton,1,1500 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2300+,Barton,1,1583 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2300+,Thoroughbred,1,1583 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2400+,Thoroughbred,1,1667 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2400+,Barton,1,1667 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2400+,Thorton,1,1667 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2500+,Palermo,1,1400 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 2500+,Thoroughbred,1,1750 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2500+,Barton,1,1750 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2600+,Palermo,1,1600 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 2600+,Georgetown,1,1600 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 2600+,Thoroughbred,1,1833 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2600+,Barton,1,1833 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2800+,Palermo,1,1600 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 2800+,Manila,1,1600 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 2800+,Thoroughbred,1,1992 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2800+,Thorton,1,1992 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 2800+,Georgetown,1,1600 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 2800+,Barton,1,2000 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 3000+,Manila,1,1600 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 3000+,Albany,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3000+,Georgetown,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3000+,Palermo,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3000+,Paris,1,1800 MHz,Socket 754,130 nm,N/A,62 W,62
+Sempron 3000+,Barton,1,2000 MHz,Socket A,130 nm,N/A,62 W,62
+Sempron 3000+,Palermo,1,1800 MHz,Socket 939,90 nm,N/A,62 W,62
+Sempron 3100+,Paris,1,1800 MHz,Socket 754,130 nm,N/A,62 W,62
+Sempron 3100+,Georgetown,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3100+,Palermo,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3100+,Albany,1,1800 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3200+,Palermo,1,1800 MHz,Socket 939,90 nm,N/A,62 W,62
+Sempron 3200+,Manila,1,1800 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 3300+,Barton,1,2.2 GHz,Socket A,130 nm,N/A,62 W,62
+Sempron 3300+,Albany,1,2000 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3300+,Georgetown,1,2000 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3300+,Palermo,1,2000 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3400+,Palermo,1,2000 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3400+,Palermo,1,2000 MHz,Socket 939,90 nm,N/A,62 W,62
+Sempron 3400+,Albany,1,2000 MHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3400+,Manila,1,1800 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 3500+,Manila,1,2000 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 3500+,Palermo,1,2000 MHz,Socket 939,90 nm,N/A,62 W,62
+Sempron 3600+,Albany,1,2.2 GHz,Socket 754,90 nm,N/A,62 W,62
+Sempron 3600+,Manila,1,2000 MHz,Socket AM2,90 nm,N/A,62 W,62
+Sempron 3800+,Manila,1,2.2 GHz,Socket AM2,90 nm,N/A,62 W,62
+Core i3-10300,Comet Lake,4  / 8,3.7 to 4.4 GHz,Socket 1200,14 nm,8MB,62 W,62
+Core i3-8100,Coffee Lake,4,2.8 to 3.6 GHz,Socket 1151,14 nm,6MB,62 W,62
+Core i3-8300,Coffee Lake,4,3.7 GHz,Socket 1151,14 nm,8MB,62 W,62
+Core i3-9300,Coffee Lake,4,3.7 to 4.3 GHz,Socket 1151,14 nm,8MB,62 W,62
+Core i3-9320,Coffee Lake,4,3.7 to 4.4 GHz,Socket 1151,14 nm,8MB,62 W,62
+Athlon 1133,Thunderbird C,1,1133 MHz,Socket A,180 nm,N/A,63 W,63
+Athlon XP 1600+,Palomino,1,1400 MHz,Socket A,180 nm,N/A,63 W,63
+Athlon XP 2200+,Thorton,1,1800 MHz,Socket A,130 nm,N/A,63 W,63
+Athlon XP 2200+,Thorton,1,1800 MHz,Socket A,130 nm,N/A,63 W,63
+Athlon XP 2200+,Thoroughbred,1,1800 MHz,Socket A,130 nm,N/A,63 W,63
+Athlon XP 1700+,Palomino,1,1467 MHz,Socket A,180 nm,N/A,64 W,64
+Pentium 4 1.7,Willamette,1,1700 MHz,Socket 478,180 nm,N/A,64 W,64
+Pentium 4 1.7,Willamette,1,1700 MHz,Socket 423,180 nm,N/A,64 W,64
+A10-9700,Bristol Ridge,4,3.5 to 3.8 GHz,Socket AM4,28 nm,N/A,65 W,65
+A12-9800,Bristol Ridge,4,3.8 to 4.2 GHz,Socket AM4,28 nm,N/A,65 W,65
+A6-9500,Bristol Ridge,2,3.5 to 3.8 GHz,Socket AM4,28 nm,N/A,65 W,65
+A6-9550,Bristol Ridge,2,3.8 to 4 GHz,Socket AM4,28 nm,N/A,65 W,65
+A8-9600,Bristol Ridge,4,3.1 to 3.4 GHz,Socket AM4,28 nm,N/A,65 W,65
+Athlon Gold 3150G,Dali,4,3.5 to 3.9 GHz,Socket AM4,12 nm,4MB,65 W,65
+Athlon Gold PRO 3150G,Dali,4,3.5 to 3.9 GHz,Socket AM4,12 nm,4MB,65 W,65
+Athlon X4 940,Bristol Ridge,4,3.2 to 3.6 GHz,Socket AM4,28 nm,N/A,65 W,65
+Athlon X4 950,Bristol Ridge,4,3.5 to 3.8 GHz,Socket AM4,28 nm,N/A,65 W,65
+Athlon X4 970,Bristol Ridge,4,3.8 to 4 GHz,Socket AM4,28 nm,N/A,65 W,65
+Ryzen 3 1200,Zen,4,3.1 to 3.4 GHz,Socket AM4,14 nm,8MB,65 W,65
+Ryzen 3 1300X,Zen,4,3.4 to 3.7 GHz,Socket AM4,14 nm,8MB,65 W,65
+Ryzen 3 2200G,Raven Ridge,4,3.5 to 3.7 GHz,Socket AM4,14 nm,4MB,65 W,65
+Ryzen 3 2300X,Zen,4,3.5 to 4.2 GHz,Socket AM4,14 nm,4MB,65 W,65
+Ryzen 3 3100,Matisse,4  / 8,3.6 to 3.9 GHz,Socket AM4,7 nm,16MB,65 W,65
+Ryzen 3 3200G,Picasso,4,3.6 to 4 GHz,Socket AM4,12 nm,4MB,65 W,65
+Ryzen 3 3300X,Matisse,4  / 8,3.8 to 4.3 GHz,Socket AM4,7 nm,16MB,65 W,65
+Ryzen 3 4300G,Renoir,4  / 8,3.8 to 4 GHz,Socket AM4,7 nm,4MB,65 W,65
+Ryzen 3 5300G,Cezanne,4  / 8,4 to 4.2 GHz,Socket AM4,7 nm,8MB,65 W,65
+Ryzen 3 PRO 4350G,Renoir,4  / 8,3.8 to 4 GHz,Socket AM4,7 nm,4MB,65 W,65
+Ryzen 5 2400G,Raven Ridge,4  / 8,3.6 to 3.9 GHz,Socket AM4,14 nm,4MB,65 W,65
+Ryzen 5 2500X,Zen,4  / 8,3.6 to 4 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 5 2600,Zen,6  / 12,3.4 to 3.9 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 5 2600E,Zen,6  / 12,3.1 to 4 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 5 3400G,Picasso,4  / 8,3.7 to 4.2 GHz,Socket AM4,12 nm,4MB,65 W,65
+Ryzen 5 3500X,Matisse,6,3.6 to 4.1 GHz,Socket AM4,7 nm,32MB,65 W,65
+Ryzen 5 3600,Matisse,6  / 12,3.6 to 4.2 GHz,Socket AM4,7 nm,32MB,65 W,65
+Ryzen 5 4600G,Renoir,6  / 12,3.7 to 4.2 GHz,Socket AM4,7 nm,8MB,65 W,65
+Ryzen 5 5600G,Cezanne,6  / 12,3.9 to 4.4 GHz,Socket AM4,7 nm,16MB,65 W,65
+Ryzen 5 5600X,Vermeer,6  / 12,3.7 to 4.6 GHz,Socket AM4,7 nm,32MB,65 W,65
+Ryzen 5 PRO 2400G,Raven Ridge,4  / 8,3.6 to 3.9 GHz,Socket AM4,14 nm,4MB,65 W,65
+Ryzen 5 PRO 2600,Zen,6  / 12,3.4 to 3.9 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 5 PRO 4650G,Renoir,6  / 12,3.7 to 4.2 GHz,Socket AM4,7 nm,8MB,65 W,65
+Ryzen 7 2700,Zen,8  / 16,3.2 to 4.1 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 7 2700E,Zen,8  / 16,2.8 to 4 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 7 3700X,Matisse,8  / 16,3.6 to 4.4 GHz,Socket AM4,7 nm,32MB,65 W,65
+Ryzen 7 4700G,Renoir,8  / 16,3.6 to 4.4 GHz,Socket AM4,7 nm,8MB,65 W,65
+Ryzen 7 5700G,Cezanne,8  / 16,3.8 to 4.6 GHz,Socket AM4,7 nm,16MB,65 W,65
+Ryzen 7 5800G,Cezanne,8  / 16,3.8 to 4.8 GHz,Socket AM4,7 nm,16MB,65 W,65
+Ryzen 7 PRO 1700,Zen,8  / 16,3 to 3.7 GHz,Socket AM4,14 nm,16MB,65 W,65
+Ryzen 7 PRO 2700,Zen,8  / 16,3.2 to 4.1 GHz,Socket AM4,12 nm,16MB,65 W,65
+Ryzen 7 PRO 4750G,Renoir,8  / 16,3.6 to 4.4 GHz,Socket AM4,7 nm,8MB,65 W,65
+Core i3-10100,Comet Lake,4  / 8,3.6 to 4.3 GHz,Socket 1200,14 nm,6MB,65 W,65
+Core i3-10105,Comet Lake-R,4  / 8,3.7 to 4.4 GHz,Socket 1200,14 nm,6MB,65 W,65
+Core i3-10105F,Comet Lake-R,4  / 8,3.7 to 4.4 GHz,Socket 1200,14 nm,6MB,65 W,65
+Core i3-10305,Comet Lake-R,4  / 8,3.8 to 4.5 GHz,Socket 1200,14 nm,8MB,65 W,65
+Core i3-10325,Comet Lake-R,4  / 8,3.9 to 4.7 GHz,Socket 1200,14 nm,8MB,65 W,65
+Core i3-8000,Coffee Lake,4,3.6 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i3-8020,Coffee Lake,4,3.7 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i3-8120,Coffee Lake,4,3.7 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i3-9000,Coffee Lake,4,3.7 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i3-9100,Coffee Lake,4,3.7 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i3-9100F,Coffee Lake,4,3.6 to 4.2 GHz,Socket 1151,14 nm,6MB,65 W,65
+Core i5-10400,Comet Lake,6  / 12,2.9 to 4.3 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-10400F,Comet Lake,6  / 12,2.9 to 4.3 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-10500,Comet Lake,6  / 12,3.1 to 4.5 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-10600,Comet Lake,6  / 12,3.3 to 4.8 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-11400,Rocket Lake,6  / 12,2.6 to 4.4 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-11400F,Rocket Lake,6  / 12,2.6 to 4.4 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-11500,Rocket Lake,6  / 12,2.7 to 4.6 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-11600,Rocket Lake,6  / 12,2.8 to 4.8 GHz,Socket 1200,14 nm,12MB,65 W,65
+Core i5-8305G,Kaby Lake G,4  / 8,2.8 to 3.8 GHz,BGA 2270,14 nm,6MB,65 W,65
+Core i5-8400,Coffee Lake,6,2.8 to 4 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-8420,Coffee Lake,6,2.9 to 4.1 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-8500,Coffee Lake,6,3 to 4.1 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-8550,Coffee Lake,6,3 to 4.3 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-8600,Coffee Lake,6,3.1 to 4.3 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-8650,Coffee Lake,6,3.1 to 4.5 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-9400,Coffee Lake,6,2.9 to 4.1 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-9400F,Coffee Lake,6,2.9 to 4.1 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-9500,Coffee Lake,6,3 to 4.3 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-9500F,Coffee Lake,6,3 to 4.4 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i5-9600,Coffee Lake,6,3.1 to 4.5 GHz,Socket 1151,14 nm,9MB,65 W,65
+Core i7-10700,Comet Lake,8  / 16,2.9 to 4.8 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i7-10700F,Comet Lake,8  / 16,2.9 to 4.8 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i7-11700,Rocket Lake,8  / 16,2.5 to 4.9 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i7-11700F,Rocket Lake,8  / 16,2.5 to 4.9 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i7-8670,Coffee Lake,6  / 12,3.1 to 4.4 GHz,Socket 1151,14 nm,12MB,65 W,65
+Core i7-8700,Coffee Lake,6  / 12,3.2 to 4.6 GHz,Socket 1151,14 nm,12MB,65 W,65
+Core i7-8705G,Kaby Lake G,4  / 8,3.1 to 4.1 GHz,BGA 2270,14 nm,8MB,65 W,65
+Core i7-8706G,Kaby Lake G,4  / 8,3.1 to 4.1 GHz,BGA 2270,14 nm,8MB,65 W,65
+Core i7-8709G,Kaby Lake G,4  / 8,3.1 to 4.1 GHz,BGA 2270,14 nm,8MB,65 W,65
+Core i7-8809G,Kaby Lake G,4  / 8,3.1 to 4.2 GHz,BGA 2270,14 nm,8MB,65 W,65
+Core i7-9700,Coffee Lake,8,3 to 4.7 GHz,Socket 1151,14 nm,12MB,65 W,65
+Core i7-9700F,Coffee Lake,8,3 to 4.7 GHz,Socket 1151,14 nm,12MB,65 W,65
+Core i9-10800F,Comet Lake,10  / 20,2.7 to 5 GHz,Socket 1200,14 nm,20MB,65 W,65
+Core i9-10900,Comet Lake,10  / 20,2.8 to 5.2 GHz,Socket 1200,14 nm,20MB,65 W,65
+Core i9-10900F,Comet Lake,10  / 20,2.8 to 5.2 GHz,Socket 1200,14 nm,20MB,65 W,65
+Core i9-11900,Rocket Lake,8  / 16,2.5 to 5.2 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i9-11900F,Rocket Lake,8  / 16,2.5 to 5.2 GHz,Socket 1200,14 nm,16MB,65 W,65
+Core i9-11900KB,Tiger Lake-H,8  / 16,3.3 to 5.3 GHz,BGA 1499,10 nm,24MB,65 W,65
+Core i9-11980HK,Tiger Lake-H,8  / 16,2.6 to 5 GHz,BGA 1499,10 nm,24MB,65 W,65
+Core i9-9900,Coffee Lake-R,8  / 16,3.1 to 5 GHz,Socket 1151,14 nm,16MB,65 W,65
+Pentium Gold G6405,Comet Lake-R,2  / 4,4.1 GHz,Socket 1200,14 nm,4MB,65 W,65
+Pentium Gold G6505,Comet Lake-R,2  / 4,4.2 GHz,Socket 1200,14 nm,4MB,65 W,65
+Pentium Gold G6605,Comet Lake-R,2  / 4,4.3 GHz,Socket 1200,14 nm,4MB,65 W,65
+Xeon E-2314,Rocket Lake-E,4,2.8 to 4.5 GHz,Socket 1200,14 nm,8MB,65 W,65
+Xeon E-2324G,Rocket Lake-E,4,3.1 to 4.6 GHz,Socket 1200,14 nm,8MB,65 W,65
+Xeon E-2334,Rocket Lake-E,4  / 8,3.4 to 4.8 GHz,Socket 1200,14 nm,8MB,65 W,65
+Xeon E-2336,Rocket Lake-E,6  / 12,2.9 to 4.8 GHz,Socket 1200,14 nm,12MB,65 W,65
+Xeon E-2378,Rocket Lake-E,8  / 16,2.6 to 4.8 GHz,Socket 1200,14 nm,16MB,65 W,65
+Athlon 1200,Thunderbird C,1,1200 MHz,Socket A,180 nm,N/A,66 W,66
+Athlon 1200,Thunderbird B,1,1200 MHz,Socket A,180 nm,N/A,66 W,66
+Athlon XP 1800+,Palomino,1,1533 MHz,Socket A,180 nm,N/A,66 W,66
+Mobile Pentium 4 2.66,Northwood,1  / 2,2.667 GHz,Socket 478,130 nm,N/A,66 W,66
+Mobile Pentium 4 HT 2.66,Northwood,1  / 2,2.667 GHz,Socket 478,130 nm,N/A,66 W,66
+Pentium 4 HT 2.40,Northwood,1  / 2,2.4 GHz,Socket 478,130 nm,N/A,66 W,66
+Athlon 64 3000+,Venice,1,1800 MHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3000+,Winchester,1,1800 MHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3200+,Venice,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3200+,Winchester,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3200+,Manchester,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3400+,Venice,1,2.2 GHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3400+,Venice,1,2.4 GHz,Socket 754,90 nm,N/A,67 W,67
+Athlon 64 3500+,Venice,1,2.2 GHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3500+,Manchester,1,2.2 GHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3500+,Winchester,1,2.2 GHz,Socket 939,90 nm,N/A,67 W,67
+Athlon 64 3500+,San Diego,1,2.2 GHz,Socket 939,90 nm,N/A,67 W,67
+Opteron 144,Venus,1,1800 MHz,Socket 939,90 nm,N/A,67 W,67
+Opteron 144,Venus,1,1800 MHz,Socket 939,90 nm,N/A,67 W,67
+Opteron 146,Venus,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Opteron 146,Venus,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Opteron 146,Venus,1,2000 MHz,Socket 939,90 nm,N/A,67 W,67
+Pentium 4 1.80,Willamette,1,1800 MHz,Socket 478,180 nm,N/A,67 W,67
+Pentium 4 1.8A,Willamette,1,1800 MHz,Socket 423,180 nm,N/A,67 W,67
+Athlon 1300,Thunderbird B,1,1300 MHz,Socket A,180 nm,N/A,68 W,68
+Athlon XP 1900+,Palomino,1,1600 MHz,Socket A,180 nm,N/A,68 W,68
+Athlon XP 2200+,Thoroughbred,1,1800 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2400+,Thorton,1,2000 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2400+,Thorton,1,2000 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2400+,Thoroughbred,1,2000 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2500+,Barton,1,1833 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2500+ DTR,Barton,1,1833 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+,Thoroughbred,1,2.083 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+,Thorton,1,2.133 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+,Thorton,1,2.083 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+,Barton,1,1917 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+,Thoroughbred,1,2.133 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2600+ DTR,Barton,1,1917 MHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2700+,Thoroughbred,1,2.167 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2800+,Barton,1,2.083 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 2800+ DTR,Barton,1,2.083 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 3000+,Barton,1,2.1 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 3000+,Barton,1,2.167 GHz,Socket A,130 nm,N/A,68 W,68
+Athlon XP 3100+,Thorton,1,2.2 GHz,Socket A,130 nm,N/A,68 W,68
+Mobile Pentium 4 2.80,Northwood,1  / 2,2.8 GHz,Socket 478,130 nm,N/A,68 W,68
+Mobile Pentium 4 HT 2.80,Northwood,1  / 2,2.8 GHz,Socket 478,130 nm,N/A,68 W,68
+Core i5-3350P,Ivy Bridge,4,3.1 to 3.3 GHz,Socket 1155,22 nm,6MB,69 W,69
+Pentium 4 1.9,Willamette,1,1900 MHz,Socket 423,180 nm,N/A,69 W,69
+Pentium 4 1.9,Willamette,1,1900 MHz,Socket 478,180 nm,N/A,69 W,69
+Pentium 4 HT 2.60,Northwood,1  / 2,2.6 GHz,Socket 478,130 nm,N/A,69 W,69
+Xeon E3-1220 v2,Ivy Bridge,4,3.1 to 3.5 GHz,Socket 1155,22 nm,8MB,69 W,69
+Xeon E3-1230 v2,Ivy Bridge,4  / 8,3.3 to 3.7 GHz,Socket 1155,22 nm,8MB,69 W,69
+Xeon E3-1240 v2,Ivy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,22 nm,8MB,69 W,69
+Xeon E3-1270 v2,Ivy Bridge,4  / 8,3.5 to 3.9 GHz,Socket 1155,22 nm,8MB,69 W,69
+Xeon E3-1280 v2,Ivy Bridge,4  / 8,3.6 to 4 GHz,Socket 1155,22 nm,8MB,69 W,69
+Athlon 1333,Thunderbird C,1,1333 MHz,Socket A,180 nm,N/A,70 W,70
+Athlon XP 2000+,Palomino,1,1667 MHz,Socket A,180 nm,N/A,70 W,70
+Mobile Pentium 4 3.06,Northwood,1  / 2,3.067 GHz,Socket 478,130 nm,N/A,70 W,70
+Mobile Pentium 4 HT 3.06,Northwood,1  / 2,3.067 GHz,Socket 478,130 nm,N/A,70 W,70
+Pentium 4 HT 2.80,Northwood,1  / 2,2.8 GHz,Socket 478,130 nm,N/A,70 W,70
+Xeon E5-2448L,Sandy Bridge-EN,8  / 16,1.8 to 2.1 GHz,Socket 1356,32 nm,20MB,70 W,70
+Xeon E5-2450L,Sandy Bridge-EN,8  / 16,1.8 to 2.3 GHz,Socket 1356,32 nm,20MB,70 W,70
+Xeon E5-2648L,Sandy Bridge-EP,8  / 16,1.8 to 2.3 GHz,Socket 2011,32 nm,20MB,70 W,70
+Xeon E5-2650L,Sandy Bridge-EP,8  / 16,1.8 to 2.3 GHz,Socket 2011,32 nm,20MB,70 W,70
+Xeon E5-2650L v2,Ivy Bridge-EP,10  / 20,1700 MHz,Socket 2011,22 nm,25MB,70 W,70
+Athlon 1400,Thunderbird B,1,1400 MHz,Socket A,180 nm,N/A,72 W,72
+Athlon 1400,Thunderbird C,1,1400 MHz,Socket A,180 nm,N/A,72 W,72
+Athlon XP 2100+,Palomino,1,1733 MHz,Socket A,180 nm,N/A,72 W,72
+Pentium 4 2.0,Willamette,1,2000 MHz,Socket 423,180 nm,N/A,72 W,72
+Pentium 4 2.0,Willamette,1,2000 MHz,Socket 478,180 nm,N/A,72 W,72
+Xeon E-2124,Coffee Lake-S,4,3.4 to 4.5 GHz,Socket 1151,14 nm,8MB,72 W,72
+Xeon E-2124G,Coffee Lake-S,4,3.4 to 4.5 GHz,Socket 1151,14 nm,8MB,72 W,72
+Celeron 2.0,Northwood,1,2000 MHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.0,Northwood,1,2000 MHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.10,Northwood,1,2.1 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.20,Northwood,1,2.2 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.30,Northwood,1,2.3 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.40,Northwood,1,2.4 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.60,Northwood,1,2.6 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.70,Northwood,1,2.7 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron 2.80,Northwood,1,2.8 GHz,Socket 478,130 nm,N/A,73 W,73
+Celeron D 325,Prescott,1,2.533 GHz,Socket 775,90 nm,N/A,73 W,73
+Celeron D 326,Prescott,1,2.53 GHz,Socket 775,90 nm,N/A,73 W,73
+Celeron D 346,Prescott,1,3.06 GHz,Socket 775,90 nm,N/A,73 W,73
+Celeron G1101,Clarkdale,2,2.266 GHz,Socket 1156,32 nm,2MB,73 W,73
+Core i3-530,Clarkdale,2  / 4,2.933 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i3-540,Clarkdale,2  / 4,3.066 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i3-550,Clarkdale,2  / 4,3.2 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i3-560,Clarkdale,2  / 4,3.333 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i5-650,Clarkdale,2  / 4,3.2 to 3.466 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i5-655K,Clarkdale,2  / 4,3.2 to 3.466 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i5-660,Clarkdale,2  / 4,3.333 to 3.6 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i5-670,Clarkdale,2  / 4,3.466 to 3.733 GHz,Socket 1156,32 nm,4MB,73 W,73
+Core i5-680,Clarkdale,2  / 4,3.6 to 3.866 GHz,Socket 1156,32 nm,4MB,73 W,73
+Pentium G6950,Clarkdale,2,2.8 GHz,Socket 1156,32 nm,3MB,73 W,73
+Pentium G6951,Clarkdale,2,2.8 GHz,Socket 1156,32 nm,3MB,73 W,73
+Pentium G6960,Clarkdale,2,2.933 GHz,Socket 1156,32 nm,3MB,73 W,73
+Athlon XP 2800+,Thoroughbred,1,2.25 GHz,Socket A,130 nm,N/A,74 W,74
+Core 2 Duo E6850,Conroe,2,3 GHz,Socket 775,65 nm,N/A,75 W,75
+Core 2 Extreme X6800,Conroe XE,2,2.933 GHz,Socket 775,65 nm,N/A,75 W,75
+Mobile Pentium 4 HT 3.20,Northwood,1  / 2,3.2 GHz,Socket 478,130 nm,N/A,76 W,76
+Athlon XP 3200+,Barton,1,2.2 GHz,Socket A,130 nm,N/A,77 W,77
+Core i5-3330,Ivy Bridge,4,3 to 3.2 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3330S,Ivy Bridge,4,2.7 to 3.2 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3450,Ivy Bridge,4,3.1 to 3.5 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3470,Ivy Bridge,4,3.2 to 3.6 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3550,Ivy Bridge,4,3.3 to 3.7 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3570,Ivy Bridge,4,3.4 to 3.8 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i5-3570K,Ivy Bridge,4,3.4 to 3.8 GHz,Socket 1155,22 nm,6MB,77 W,77
+Core i7-3770,Ivy Bridge,4  / 8,3.4 to 3.9 GHz,Socket 1155,22 nm,8MB,77 W,77
+Core i7-3770K,Ivy Bridge,4  / 8,3.5 to 3.9 GHz,Socket 1155,22 nm,8MB,77 W,77
+Xeon E3-1225 v2,Ivy Bridge,4,3.2 to 3.6 GHz,Socket 1155,22 nm,8MB,77 W,77
+Xeon E3-1245 v2,Ivy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,22 nm,8MB,77 W,77
+Xeon E3-1275 v2,Ivy Bridge,4  / 8,3.5 to 3.9 GHz,Socket 1155,22 nm,8MB,77 W,77
+Opteron 2350 HE,Barcelona,4,2000 MHz,Socket Fr2,65 nm,2MB,79 W,79
+Xeon E3-1285 v6,Kaby Lake-DT,4  / 8,4.1 to 4.5 GHz,Socket 1151,14 nm,8MB,79 W,79
+Phenom II X2 545,Callisto,2,3 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 550,Callisto,2,3.1 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 550 BE,Callisto,2,3.1 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 555 BE,Callisto,2,3.2 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 560 BE,Callisto,2,3.3 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 565 BE,Callisto,2,3.4 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 570 BE,Callisto,2,3.5 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 B53,Callisto,2,2.8 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 B55,Callisto,2,3 GHz,Socket AM3,45 nm,6MB,80 W,80
+Phenom II X2 B57,Callisto,2,3.2 GHz,Socket AM3,45 nm,6MB,80 W,80
+Xeon 5160,Woodcrest,2,3 GHz,Socket 771,65 nm,N/A,80 W,80
+Xeon E-2356G,Rocket Lake-E,6  / 12,3.2 to 5 GHz,Socket 1200,14 nm,12MB,80 W,80
+Xeon E-2374G,Rocket Lake-E,4  / 8,3.7 to 5 GHz,Socket 1200,14 nm,8MB,80 W,80
+Xeon E-2378G,Rocket Lake-E,8  / 16,2.8 to 5.1 GHz,Socket 1200,14 nm,16MB,80 W,80
+Xeon E3-1220,Sandy Bridge,4,3.1 to 3.4 GHz,Socket 1155,32 nm,8MB,80 W,80
+Xeon E3-1220 v3,Haswell-WS,4,3.1 to 3.5 GHz,Socket 1150,22 nm,8MB,80 W,80
+Xeon E3-1230,Sandy Bridge,4  / 8,3.2 to 3.6 GHz,Socket 1155,32 nm,8MB,80 W,80
+Xeon E3-1230 v3,Haswell-WS,4  / 8,3.3 to 3.7 GHz,Socket 1150,22 nm,8MB,80 W,80
+Xeon E3-1240,Sandy Bridge,4  / 8,3.3 to 3.7 GHz,Socket 1155,32 nm,8MB,80 W,80
+Xeon E3-1240 v3,Haswell-WS,4  / 8,3.4 to 3.8 GHz,Socket 1150,22 nm,8MB,80 W,80
+Xeon E3-1270,Sandy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,32 nm,8MB,80 W,80
+Xeon E3-1270 v3,Haswell-WS,4  / 8,3.5 to 3.9 GHz,Socket 1150,22 nm,8MB,80 W,80
+Xeon E3-1280 v5,Skylake-S,4  / 8,3.7 to 4 GHz,Socket 1151,14 nm,8MB,80 W,80
+Xeon E5-1410,Sandy Bridge-EN,4  / 8,2.8 to 3.2 GHz,Socket 1356,32 nm,10MB,80 W,80
+Xeon E5-2403,Sandy Bridge-EN,4  / 8,1800 MHz,Socket 1356,32 nm,10MB,80 W,80
+Xeon E5-2403 v2,Ivy Bridge-EN,4,1800 MHz,Socket 1356,22 nm,10MB,80 W,80
+Xeon E5-2407,Sandy Bridge-EN,4  / 8,2.2 GHz,Socket 1356,32 nm,10MB,80 W,80
+Xeon E5-2407 v2,Ivy Bridge-EN,4,2.4 GHz,Socket 1356,22 nm,10MB,80 W,80
+Xeon E5-2420 v2,Ivy Bridge-EN,6  / 12,2.2 GHz,Socket 1356,22 nm,15MB,80 W,80
+Xeon E5-2430 v2,Ivy Bridge-EN,6  / 12,2.5 GHz,Socket 1356,22 nm,15MB,80 W,80
+Xeon E5-2603,Sandy Bridge-EP,4,1800 MHz,Socket 2011,32 nm,10MB,80 W,80
+Xeon E5-2603 v2,Ivy Bridge-EP,4,1800 MHz,Socket 2011,22 nm,10MB,80 W,80
+Xeon E5-2609,Sandy Bridge-EP,4,2.4 GHz,Socket 2011,32 nm,10MB,80 W,80
+Xeon E5-2609 v2,Ivy Bridge-EP,4,2.5 GHz,Socket 2011,22 nm,10MB,80 W,80
+Xeon E5-2620 v2,Ivy Bridge-EP,6  / 12,2.1 GHz,Socket 2011,22 nm,15MB,80 W,80
+Xeon E5-2630 v2,Ivy Bridge-EP,6  / 12,2.6 GHz,Socket 2011,22 nm,15MB,80 W,80
+Xeon E5-2637,Sandy Bridge-EP,2  / 4,3 to 3.5 GHz,Socket 2011,32 nm,5MB,80 W,80
+Xeon E5502,Gainestown,2,1866 MHz,Socket 1366,45 nm,4MB,80 W,80
+Xeon E5503,Gainestown,2,2000 MHz,Socket 1366,45 nm,4MB,80 W,80
+Xeon E5504,Gainestown,4,2000 MHz,Socket 1366,45 nm,4MB,80 W,80
+Xeon E5506,Gainestown,4,2.133 GHz,Socket 1366,45 nm,4MB,80 W,80
+Xeon E5507,Gainestown,4,2.266 GHz,Socket 1366,45 nm,4MB,80 W,80
+Xeon E5520,Gainestown,4  / 8,2.266 to 2.533 GHz,Socket 1366,45 nm,8MB,80 W,80
+Xeon E5530,Gainestown,4  / 8,2.4 to 2.666 GHz,Socket 1366,45 nm,8MB,80 W,80
+Xeon E5540,Gainestown,4  / 8,2.533 to 2.8 GHz,Socket 1366,45 nm,8MB,80 W,80
+Xeon E5603,Westmere-EP,4,1600 MHz,Socket 1366,32 nm,4MB,80 W,80
+Xeon E5606,Westmere-EP,4,2.133 GHz,Socket 1366,32 nm,8MB,80 W,80
+Xeon E5607,Westmere-EP,4,2.266 GHz,Socket 1366,32 nm,8MB,80 W,80
+Xeon E5620,Westmere-EP,4  / 8,2.4 to 2.666 GHz,Socket 1366,32 nm,12MB,80 W,80
+Xeon E5630,Westmere-EP,4  / 8,2.533 to 2.8 GHz,Socket 1366,32 nm,12MB,80 W,80
+Xeon E5640,Westmere-EP,4  / 8,2.666 to 2.933 GHz,Socket 1366,32 nm,12MB,80 W,80
+Xeon E5645,Westmere-EP,6  / 12,2.4 to 2.666 GHz,Socket 1366,32 nm,12MB,80 W,80
+Xeon E5649,Westmere-EP,6  / 12,2.533 to 2.8 GHz,Socket 1366,32 nm,12MB,80 W,80
+Mobile Athlon 64 2700+,Clawhammer,1,1600 MHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 2800+,Clawhammer,1,1800 MHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 2800+,Odessa,1,1800 MHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 3000+,Clawhammer,1,1800 MHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 3200+,Clawhammer,1,2000 MHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 3400+,Clawhammer,1,2.2 GHz,Socket 754,130 nm,N/A,82 W,82
+Mobile Athlon 64 3700+,Clawhammer,1,2.4 GHz,Socket 754,130 nm,N/A,82 W,82
+Opteron 140,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 140,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 142,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 142,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 144,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 144,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 240,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 240,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 242,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 242,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 244,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 244,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 840,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 840,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 842,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 842,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 844,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Opteron 844,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,82 W,82
+Core i5-750s,Lynnfield,4,2.4 to 3.2 GHz,Socket 1156,45 nm,8MB,82 W,82
+Core i7-860S,Lynnfield,4  / 8,2.533 to 3.466 GHz,Socket 1156,45 nm,8MB,82 W,82
+Core i7-870S,Lynnfield,4  / 8,2.666 to 3.6 GHz,Socket 1156,45 nm,8MB,82 W,82
+Pentium 4 HT 3.00,Northwood,1  / 2,3 GHz,Socket 478,130 nm,N/A,82 W,82
+Pentium 4 HT 3.20,Northwood,1  / 2,3.2 GHz,Socket 478,130 nm,N/A,82 W,82
+Xeon E3-1280 v3,Haswell-WS,4  / 8,3.6 to 4 GHz,Socket 1150,22 nm,8MB,82 W,82
+Athlon 64 3200+,Newark,1,2000 MHz,Socket 754,130 nm,N/A,83 W,83
+Athlon 64 3400+,Newark,1,2.2 GHz,Socket 754,130 nm,N/A,83 W,83
+Athlon 64 3700+,Newark,1,2.4 GHz,Socket 754,130 nm,N/A,83 W,83
+Celeron D 330,Prescott,1,2.667 GHz,Socket 775,90 nm,N/A,84 W,84
+Celeron D 335,Prescott,1,2.8 GHz,Socket 478,90 nm,N/A,84 W,84
+Celeron D 335,Prescott,1,2.8 GHz,Socket 478,90 nm,N/A,84 W,84
+Celeron D 340,Prescott,1,2.93 GHz,Socket 775,90 nm,N/A,84 W,84
+Celeron D 341,Prescott,1,2.93 GHz,Socket 775,90 nm,N/A,84 W,84
+Celeron D 350,Prescott,1,3.2 GHz,Socket 478,90 nm,N/A,84 W,84
+Celeron D 352,Cedar Mill,1,3.2 GHz,Socket 775,65 nm,N/A,84 W,84
+Core i5-4430,Haswell,4,3 to 3.2 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4440,Haswell,4,3.1 to 3.3 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4570,Haswell,4,3.2 to 3.6 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4590,Haswell,4,3.3 to 3.7 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4670,Haswell,4,3.4 to 3.8 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4670K,Haswell,4,3.4 to 3.8 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i5-4690,Haswell,4,3.4 to 3.8 GHz,Socket 1150,22 nm,6MB,84 W,84
+Core i7-4770,Haswell,4  / 8,3.4 to 3.9 GHz,Socket 1150,22 nm,8MB,84 W,84
+Core i7-4770K,Haswell,4  / 8,3.5 to 3.9 GHz,Socket 1150,22 nm,8MB,84 W,84
+Core i7-4771,Haswell,4  / 8,3.5 to 3.9 GHz,Socket 1150,22 nm,8MB,84 W,84
+Core i7-4790,Haswell,4  / 8,3.6 to 4 GHz,Socket 1150,22 nm,8MB,84 W,84
+Pentium 4 505,Prescott,1,2.66 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 505J,Prescott,1,2.66 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 506,Prescott,1,2.66 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 506,Prescott,1,2.66 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 506,Prescott,1,2.66 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 511,Prescott,1,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 511,Prescott,1,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 511,Prescott,1,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 519,Prescott,1,3.06 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 519K,Prescott,1,3.06 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 519K,Prescott,1,3.06 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 515,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 515,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 516,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 516,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 517,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 517,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 520,Prescott,1  / 2,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 520,Prescott,1  / 2,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 520,Prescott,1  / 2,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 520,Prescott,1  / 2,2.933 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 521,Prescott,1  / 2,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 524,Prescott,1  / 2,3.06 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 524,Prescott,1  / 2,3.06 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 530,Prescott,1  / 2,3 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 531,Prescott,1  / 2,3 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 540,Prescott,1  / 2,3.2 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 541,Prescott,1  / 2,3.2 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 620,Prescott,1  / 2,2.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 630,Prescott,1  / 2,3 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 640,Prescott,1  / 2,3.2 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 650,Prescott,1  / 2,3.4 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 660,Prescott,1  / 2,3.6 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 662,Prescott,1  / 2,3.6 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 670,Prescott,1  / 2,3.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Pentium 4 HT 672,Prescott,1  / 2,3.8 GHz,Socket 775,90 nm,N/A,84 W,84
+Xeon E3-1225 v3,Haswell-WS,4,3.2 to 3.6 GHz,Socket 1150,22 nm,8MB,84 W,84
+Xeon E3-1245 v3,Haswell-WS,4  / 8,3.4 to 3.8 GHz,Socket 1150,22 nm,8MB,84 W,84
+Xeon E3-1275 v3,Haswell-WS,4  / 8,3.5 to 3.9 GHz,Socket 1150,22 nm,8MB,84 W,84
+Xeon E3-1285 v3,Haswell-WS,4  / 8,3.6 to 4 GHz,Socket 1150,22 nm,8MB,84 W,84
+Opteron 140,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 142,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 144,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 148,Venus,1,2.2 GHz,Socket 939,90 nm,N/A,85 W,85
+Opteron 148,Venus,1,2.2 GHz,Socket 939,90 nm,N/A,85 W,85
+Opteron 150,Venus,1,2.4 GHz,Socket 939,90 nm,N/A,85 W,85
+Opteron 150,Venus,1,2.4 GHz,Socket 939,90 nm,N/A,85 W,85
+Opteron 240,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 242,Troy,1,1600 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 242,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 244,Troy,1,1800 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 244,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 246,Troy,1,2000 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 246,Troy,1,2000 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 248,Troy,1,2.2 GHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 248,Troy,1,2.2 GHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 250,Troy,1,2.4 GHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 6262 HE,Interlagos,16,1.6 to 2.9 GHz,Socket G34,32 nm,16MB,85 W,85
+Opteron 6366 HE,Abu Dhabi,16,1.8 to 3.1 GHz,Socket G34,32 nm,8MB,85 W,85
+Opteron 840,SledgeHammer,1,1400 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 842,SledgeHammer,1,1600 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 842,Athens,1,1600 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 844,SledgeHammer,1,1800 MHz,Socket 940,130 nm,N/A,85 W,85
+Opteron 844,Athens,1,1800 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 846,Athens,1,2000 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 846,Athens,1,2000 MHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 848,Athens,1,2.2 GHz,Socket 940,90 nm,N/A,85 W,85
+Opteron 850,Athens,1,2.4 GHz,Socket 940,90 nm,N/A,85 W,85
+Xeon Bronze 3106,Skylake-SP,8,2.1 to 3 GHz,Socket 3647,14 nm,11MB,85 W,85
+Xeon Silver 4116,Skylake-SP,12  / 24,2.1 to 3 GHz,Socket 3647,14 nm,16.5MB,85 W,85
+Pentium 4 HT 631,Cedar Mill,1  / 2,3 GHz,Socket 775,65 nm,N/A,86 W,86
+Pentium 4 HT 641,Cedar Mill,1  / 2,3.2 GHz,Socket 775,65 nm,N/A,86 W,86
+Pentium 4 HT 651,Cedar Mill,1  / 2,3.4 GHz,Socket 775,65 nm,N/A,86 W,86
+Pentium 4 HT 661,Cedar Mill,1  / 2,3.6 GHz,Socket 775,65 nm,N/A,86 W,86
+Core i5-661,Clarkdale,2  / 4,3.333 to 3.6 GHz,Socket 1156,32 nm,4MB,87 W,87
+Xeon E3-1290 v2,Ivy Bridge,4  / 8,3.7 to 4.1 GHz,Socket 1155,22 nm,8MB,87 W,87
+Core i5-4690K,Haswell,4,3.5 to 3.9 GHz,Socket 1150,22 nm,6MB,88 W,88
+Core i7-4790K,Haswell,4  / 8,4 to 4.4 GHz,Socket 1150,22 nm,8MB,88 W,88
+Mobile Pentium 4 HT 518,Prescott,1  / 2,2.8 GHz,Socket 478,90 nm,N/A,88 W,88
+Mobile Pentium 4 HT 532,Prescott,1  / 2,3.067 GHz,Socket 478,90 nm,N/A,88 W,88
+Mobile Pentium 4 HT 538,Prescott,1  / 2,3.2 GHz,Socket 478,90 nm,N/A,88 W,88
+Mobile Pentium 4 HT 548,Prescott,1  / 2,3.334 GHz,Socket 478,90 nm,N/A,88 W,88
+Mobile Pentium 4 HT 552,Prescott,1  / 2,3.467 GHz,Socket 478,90 nm,N/A,88 W,88
+Athlon 64 2800+,Clawhammer,1,1800 MHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 2800+,NewCastle,1,1800 MHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3000+,Clawhammer,1,2000 MHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3000+,NewCastle,1,1800 MHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3000+,NewCastle,1,2000 MHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3200+,NewCastle,1,2.2 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3200+,NewCastle,1,2000 MHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3200+,Clawhammer,1,2000 MHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3200+,Clawhammer,1,2.2 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3300+,NewCastle,1,2.4 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3400+,NewCastle,1,2.4 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3400+,NewCastle,1,2.2 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3400+,Clawhammer,1,2.4 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3400+,Clawhammer,1,2.2 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3500+,NewCastle,1,2.2 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3500+,Clawhammer,1,2.2 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3600+,Clawhammer,1,2.4 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3700+,San Diego,1,2.2 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 3700+,Toledo,1,2.2 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 3700+,Clawhammer,1,2.4 GHz,Socket 754,130 nm,N/A,89 W,89
+Athlon 64 3800+,NewCastle,1,2.4 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 3800+,Venice,1,2.4 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 3800+,Clawhammer,1,2.4 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 4000+,Clawhammer,1,2.4 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 4000+,San Diego,1,2.4 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 4000+,Toledo,1,2.4 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 FX-51,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Athlon 64 FX-53,SledgeHammer,1,2.4 GHz,Socket 940,130 nm,N/A,89 W,89
+Athlon 64 FX-53,Clawhammer,1,2.4 GHz,Socket 939,130 nm,N/A,89 W,89
+Athlon 64 X2 3600+,Manchester,2,2000 MHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 3800+,Windsor,2,2000 MHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 3800+,Manchester,2,2000 MHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 3800+,Toledo,2,2000 MHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 4000+,Windsor,2,2000 MHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 4200+,Toledo,2,2.2 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 4200+,Windsor,2,2.2 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 4200+,Manchester,2,2.2 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 4400+,Windsor,2,2.2 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 4600+,Toledo,2,2.4 GHz,Socket 939,90 nm,N/A,89 W,89
+Athlon 64 X2 4600+,Windsor,2,2.4 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 4800+,Windsor,2,2.4 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 5000+,Windsor,2,2.6 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 5200+,Windsor,2,2.6 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 5400+,Windsor,2,2.8 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 5600+,Windsor,2,2.8 GHz,Socket AM2,90 nm,N/A,89 W,89
+Athlon 64 X2 5800+,Brisbane,2,3 GHz,Socket AM2,65 nm,N/A,89 W,89
+Athlon 64 X2 6000+,Brisbane,2,3.1 GHz,Socket AM2,65 nm,N/A,89 W,89
+Opteron 146,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 148,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 148,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 150,SledgeHammer,1,2.4 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 246,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 248,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 248,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 250,SledgeHammer,1,2.4 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 846,SledgeHammer,1,2000 MHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 848,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 848,SledgeHammer,1,2.2 GHz,Socket 940,130 nm,N/A,89 W,89
+Opteron 850,SledgeHammer,1,2.4 GHz,Socket 940,130 nm,N/A,89 W,89
+Pentium 4 HT 3.40,Northwood,1  / 2,3.4 GHz,Socket 478,130 nm,N/A,89 W,89
+Xeon 2.0,Prestonia,1,2000 MHz,Socket 604,130 nm,N/A,89 W,89
+Xeon 2.4,Prestonia,1,2.394 GHz,Socket 604,130 nm,N/A,89 W,89
+Xeon 2.66,Prestonia,1,2.66 GHz,Socket 604,130 nm,N/A,89 W,89
+Xeon 2.8,Prestonia,1,2.79 GHz,Socket 604,130 nm,N/A,89 W,89
+Xeon 3.06,Prestonia,1,3.066 GHz,Socket 604,130 nm,N/A,89 W,89
+Core i3-10320,Comet Lake,4  / 8,3.8 to 4.6 GHz,Socket 1200,14 nm,8MB,91 W,91
+Core i3-10350K,Comet Lake,4  / 8,4.1 to 4.8 GHz,Socket 1200,14 nm,8MB,91 W,91
+Core i3-8350K,Coffee Lake,4,4 GHz,Socket 1151,14 nm,8MB,91 W,91
+Core i3-9350K,Coffee Lake,4,4 to 4.6 GHz,Socket 1151,14 nm,8MB,91 W,91
+Core i3-9350KF,Coffee Lake,4,4 to 4.6 GHz,Socket 1151,14 nm,8MB,91 W,91
+Core i5-7600K,Kaby Lake,4,3.8 to 4.2 GHz,Socket 1151,14 nm,6MB,91 W,91
+Core i7-7700K,Kaby Lake,4  / 8,4.2 to 4.5 GHz,Socket 1151,14 nm,8MB,91 W,91
+Opteron 252,Troy,1,2.6 GHz,Socket 940,90 nm,N/A,92 W,92
+Opteron 254,Troy,1,2.8 GHz,Socket 940,90 nm,N/A,92 W,92
+Opteron 852,Athens,1,2.6 GHz,Socket 940,90 nm,N/A,92 W,92
+Opteron 854,Athens,1,2.8 GHz,Socket 940,90 nm,N/A,92 W,92
+Opteron 856,Athens,1,3 GHz,Socket 940,90 nm,N/A,92 W,92
+Pentium 4 2.0,Northwood,1,2000 MHz,Socket 478,130 nm,N/A,92 W,92
+Pentium 4 2.2,Northwood,1,2.2 GHz,Socket 478,130 nm,N/A,92 W,92
+Pentium 4 2.4,Northwood,1,2.4 GHz,Socket 478,130 nm,N/A,92 W,92
+Pentium 4 2.60,Northwood,1,2.6 GHz,Socket 478,130 nm,N/A,92 W,92
+A10-7700K,Godaveri,4,3.5 to 3.8 GHz,Socket FM2+,28 nm,N/A,95 W,95
+A10-7850K,Godaveri,4,3.7 to 4 GHz,Socket FM2+,28 nm,N/A,95 W,95
+A10-7870K,Godaveri,4,3.9 to 4.1 GHz,Socket FM2+,28 nm,N/A,95 W,95
+A10-7890K,Godaveri,4,4 to 4.3 GHz,Socket FM2+,28 nm,N/A,95 W,95
+Athlon II X3 450,Rana,3,3.2 GHz,Socket AM3,45 nm,N/A,95 W,95
+Athlon II X3 455,Rana,3,3.3 GHz,Socket AM3,45 nm,N/A,95 W,95
+Athlon II X3 460,Rana,3,3.4 GHz,Socket AM3,45 nm,N/A,95 W,95
+Athlon II X4 640,Propus,4,3 GHz,Socket AM3,45 nm,N/A,95 W,95
+Athlon II X4 645,Propus,4,3.1 GHz,Socket AM3,45 nm,N/A,95 W,95
+FX-4100,Zambezi,4,3.6 to 3.9 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-4120,Zambezi,4,3.9 to 4.1 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-4150,Zambezi,4,3.8 to 4 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-4300,Vishera,4,3.8 to 4 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-4320,Vishera,4,4 to 4.2 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-6100,Zambezi,6,3.3 to 3.9 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-6120,Zambezi,6,3.6 to 4.2 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-6130,Zambezi,6,3.6 to 3.9 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-6300,Vishera,6,3.5 to 4.1 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-8100,Zambezi,8,2.8 to 3.7 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-8140,Zambezi,8,3.2 to 4.1 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-8300,Vishera,8,3.3 to 3.9 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-8320E,Vishera,8,3.2 to 4 GHz,Socket AM3+,32 nm,8MB,95 W,95
+FX-8370E,Vishera,8,3.3 to 4.3 GHz,Socket AM3+,32 nm,8MB,95 W,95
+Opteron 4334,Seoul,6,3.1 to 3.5 GHz,Socket C32,32 nm,8MB,95 W,95
+Opteron 4340,Seoul,6,3.5 to 3.8 GHz,Socket C32,32 nm,8MB,95 W,95
+Opteron 4386,Seoul,8,3.1 to 3.8 GHz,Socket C32,32 nm,8MB,95 W,95
+Phenom II X3 715 BE,Heka,3,2.8 GHz,Socket AM2+,45 nm,6MB,95 W,95
+Phenom II X4 650T,Zosma,4,2.7 to 3.2 GHz,Socket AM3,45 nm,4MB,95 W,95
+Phenom II X4 840,Propus,4,3.2 GHz,Socket AM3,45 nm,N/A,95 W,95
+Phenom II X4 840T,Zosma,4,2.9 to 3.2 GHz,Socket AM3,45 nm,6MB,95 W,95
+Phenom II X4 850,Propus,4,3.3 GHz,Socket AM3,45 nm,N/A,95 W,95
+Phenom II X4 960T BE,Zosma,4,3 to 3.4 GHz,Socket AM3,45 nm,6MB,95 W,95
+Phenom II X6 1045T,Thuban,6,2.7 to 3.2 GHz,Socket AM3,45 nm,6MB,95 W,95
+Ryzen 5 1600X,Zen,6  / 12,3.6 to 4 GHz,Socket AM4,14 nm,16MB,95 W,95
+Ryzen 5 2600X,Zen,6  / 12,3.6 to 4.25 GHz,Socket AM4,12 nm,16MB,95 W,95
+Ryzen 5 3600X,Matisse,6  / 12,3.8 to 4.4 GHz,Socket AM4,7 nm,32MB,95 W,95
+Ryzen 5 3600XT,Matisse 2,6  / 12,3.8 to 4.5 GHz,Socket AM4,7 nm,32MB,95 W,95
+Ryzen 7 1700X,Zen,8  / 16,3.4 to 3.8 GHz,Socket AM4,14 nm,16MB,95 W,95
+Ryzen 7 1800X,Zen,8  / 16,3.6 to 4 GHz,Socket AM4,14 nm,16MB,95 W,95
+Ryzen 7 PRO 1700X,Zen,8  / 16,3.4 to 3.8 GHz,Socket AM4,14 nm,16MB,95 W,95
+Ryzen 7 PRO 2700X,Zen,8  / 16,3.6 to 4.1 GHz,Socket AM4,12 nm,16MB,95 W,95
+Core i5-10600KF,Comet Lake,6  / 12,4.1 to 4.8 GHz,Socket 1200,14 nm,12MB,95 W,95
+Core i5-2300,Sandy Bridge,4,2.8 to 3.1 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2310,Sandy Bridge,4,2.9 to 3.2 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2320,Sandy Bridge,4,3 to 3.3 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2380P,Sandy Bridge,4,3.1 to 3.4 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2400,Sandy Bridge,4,3.1 to 3.4 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2450P,Sandy Bridge,4,3.2 to 3.5 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2500,Sandy Bridge,4,3.3 to 3.7 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2500K,Sandy Bridge,4,3.3 to 3.7 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-2550K,Sandy Bridge,4,3.4 to 3.8 GHz,Socket 1155,32 nm,6MB,95 W,95
+Core i5-6600K,Skylake,4,3.5 to 3.9 GHz,Socket 1151,14 nm,6MB,95 W,95
+Core i5-760,Lynnfield,4,2.8 to 3.333 GHz,Socket 1156,45 nm,8MB,95 W,95
+Core i5-8600K,Coffee Lake,6,3.6 to 4.3 GHz,Socket 1151,14 nm,9MB,95 W,95
+Core i5-8650K,Coffee Lake,6,3.7 to 4.5 GHz,Socket 1151,14 nm,9MB,95 W,95
+Core i5-9600K,Coffee Lake,6,3.7 to 4.6 GHz,Socket 1151,14 nm,9MB,95 W,95
+Core i5-9600KF,Coffee Lake,6,3.7 to 4.6 GHz,Socket 1151,14 nm,9MB,95 W,95
+Core i7-2600,Sandy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,32 nm,8MB,95 W,95
+Core i7-2600K,Sandy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,32 nm,8MB,95 W,95
+Core i7-2700K,Sandy Bridge,4  / 8,3.5 to 3.9 GHz,Socket 1155,32 nm,8MB,95 W,95
+Core i7-6700K,Skylake,4  / 8,4 to 4.2 GHz,Socket 1151,14 nm,8MB,95 W,95
+Core i7-8086K,Coffee Lake,6  / 12,4 to 5 GHz,Socket 1151,14 nm,12MB,95 W,95
+Core i7-8700K,Coffee Lake,6  / 12,3.7 to 4.7 GHz,Socket 1151,14 nm,12MB,95 W,95
+Core i7-875K,Lynnfield,4  / 8,2.933 to 3.6 GHz,Socket 1156,45 nm,8MB,95 W,95
+Core i7-880,Lynnfield,4  / 8,3.066 to 3.733 GHz,Socket 1156,45 nm,8MB,95 W,95
+Core i7-9700K,Coffee Lake,8,3.6 to 4.9 GHz,Socket 1151,14 nm,12MB,95 W,95
+Core i7-9700KF,Coffee Lake,8,3.6 to 4.9 GHz,Socket 1151,14 nm,12MB,95 W,95
+Core i9-8950HK,Coffee Lake-H,6  / 12,2.9 to 4.7 GHz,BGA 1440,14 nm,12MB,95 W,95
+Core i9-9900K,Coffee Lake-R,8  / 16,3.6 to 5 GHz,Socket 1151,14 nm,16MB,95 W,95
+Core i9-9900KF,Coffee Lake-R,8  / 16,3.6 to 5 GHz,Socket 1151,14 nm,16MB,95 W,95
+Xeon E-2386G,Rocket Lake-E,6  / 12,3.5 to 5.1 GHz,Socket 1200,14 nm,12MB,95 W,95
+Xeon E-2388G,Rocket Lake-E,8  / 16,3.2 to 5.1 GHz,Socket 1200,14 nm,16MB,95 W,95
+Xeon E3-1225,Sandy Bridge,4,3.1 to 3.4 GHz,Socket 1155,32 nm,6MB,95 W,95
+Xeon E3-1235,Sandy Bridge,4  / 8,3.2 to 3.6 GHz,Socket 1155,32 nm,8MB,95 W,95
+Xeon E3-1245,Sandy Bridge,4  / 8,3.3 to 3.7 GHz,Socket 1155,32 nm,8MB,95 W,95
+Xeon E3-1275,Sandy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,32 nm,8MB,95 W,95
+Xeon E3-1280,Sandy Bridge,4  / 8,3.5 to 3.9 GHz,Socket 1155,32 nm,8MB,95 W,95
+Xeon E3-1285 v4,Broadwell-DT,4  / 8,3.5 to 3.8 GHz,Socket 1150,14 nm,6MB,95 W,95
+Xeon E3-1290,Sandy Bridge,4  / 8,3.6 to 4 GHz,Socket 1155,32 nm,8MB,95 W,95
+Xeon E5-2420,Sandy Bridge-EN,6  / 12,1.9 to 2.4 GHz,Socket 1356,32 nm,15MB,95 W,95
+Xeon E5-2430,Sandy Bridge-EN,6  / 12,2.2 to 2.7 GHz,Socket 1356,32 nm,15MB,95 W,95
+Xeon E5-2440,Sandy Bridge-EN,6  / 12,2.4 to 2.9 GHz,Socket 1356,32 nm,15MB,95 W,95
+Xeon E5-2440 v2,Ivy Bridge-EN,8  / 16,1900 MHz,Socket 1356,22 nm,20MB,95 W,95
+Xeon E5-2450,Sandy Bridge-EN,8  / 16,2.1 to 2.9 GHz,Socket 1356,32 nm,20MB,95 W,95
+Xeon E5-2450 v2,Ivy Bridge-EN,8  / 16,2.5 GHz,Socket 1356,22 nm,20MB,95 W,95
+Xeon E5-2470,Sandy Bridge-EN,8  / 16,2.3 to 3.1 GHz,Socket 1356,32 nm,20MB,95 W,95
+Xeon E5-2470 v2,Ivy Bridge-EN,10  / 20,2.4 GHz,Socket 1356,22 nm,25MB,95 W,95
+Xeon E5-2620,Sandy Bridge-EP,6  / 12,2 to 2.5 GHz,Socket 2011,32 nm,15MB,95 W,95
+Xeon E5-2630,Sandy Bridge-EP,6  / 12,2.3 to 2.8 GHz,Socket 2011,32 nm,15MB,95 W,95
+Xeon E5-2640,Sandy Bridge-EP,6  / 12,2.5 to 3 GHz,Socket 2011,32 nm,15MB,95 W,95
+Xeon E5-2640 v2,Ivy Bridge-EP,8  / 16,2000 MHz,Socket 2011,22 nm,20MB,95 W,95
+Xeon E5-2650,Sandy Bridge-EP,8  / 16,2 to 2.8 GHz,Socket 2011,32 nm,20MB,95 W,95
+Xeon E5-2650 v2,Ivy Bridge-EP,8  / 16,2.6 to 3.4 GHz,Socket 2011,22 nm,20MB,95 W,95
+Xeon E5-2658,Sandy Bridge-EP,8  / 16,2.1 to 2.4 GHz,Socket 2011,32 nm,20MB,95 W,95
+Xeon E5-2660,Sandy Bridge-EP,8  / 16,2.2 to 3 GHz,Socket 2011,32 nm,20MB,95 W,95
+Xeon E5-2660 v2,Ivy Bridge-EP,10  / 20,2.2 to 3 GHz,Socket 2011,22 nm,25MB,95 W,95
+Xeon E5-4603,Sandy Bridge-EP,4  / 8,2000 MHz,Socket 2011,32 nm,10MB,95 W,95
+Xeon E5-4607,Sandy Bridge-EP,6  / 12,2.2 GHz,Socket 2011,32 nm,15MB,95 W,95
+Xeon E5-4640,Sandy Bridge-EP,8  / 16,2.4 to 2.8 GHz,Socket 2011,32 nm,20MB,95 W,95
+Xeon X5672,Westmere-EP,4  / 8,3.2 to 3.6 GHz,Socket 1366,32 nm,12MB,95 W,95
+Xeon X5675,Westmere-EP,6  / 12,3.066 to 3.466 GHz,Socket 1366,32 nm,12MB,95 W,95
+Xeon 3.06,Gallatin,1,3.066 GHz,Socket 604,130 nm,2MB,97 W,97
+Xeon 3.06,Gallatin,1,3.066 GHz,Socket 604,130 nm,1MB,97 W,97
+Xeon 3.20,Gallatin,1,3.2 GHz,Socket 604,130 nm,2MB,97 W,97
+Xeon 3.20,Gallatin,1,3.2 GHz,Socket 604,130 nm,1MB,97 W,97
+A10-5800B,Trinity,4,3.8 to 4.2 GHz,Socket FM2,32 nm,N/A,100 W,100
+A10-5800K,Trinity,4,3.8 to 4.2 GHz,Socket FM2,32 nm,N/A,100 W,100
+A10-6790K,Richland,4,4 to 4.3 GHz,Socket FM2,32 nm,N/A,100 W,100
+A10-6800K,Richland,4,4.1 to 4.4 GHz,Socket FM2,32 nm,N/A,100 W,100
+A6-3650,Llano,4,2.6 GHz,Socket FM1,32 nm,N/A,100 W,100
+A6-3670K,Llano,4,2.7 GHz,Socket FM1,32 nm,N/A,100 W,100
+A8-3850,Llano,4,2.9 GHz,Socket FM1,32 nm,N/A,100 W,100
+A8-3870K,Llano,4,3 GHz,Socket FM1,32 nm,N/A,100 W,100
+A8-5600K,Trinity,4,3.6 to 3.9 GHz,Socket FM2,32 nm,N/A,100 W,100
+A8-6600K,Richland,4,3.9 to 4.2 GHz,Socket FM2,32 nm,N/A,100 W,100
+Athlon II X4 631,Llano,4,2.6 GHz,Socket FM1,32 nm,N/A,100 W,100
+Athlon II X4 641,Llano,4,2.8 GHz,Socket FM1,32 nm,N/A,100 W,100
+Athlon II X4 651,Llano,4,3 GHz,Socket FM1,32 nm,N/A,100 W,100
+Athlon II X4 651K,Llano,4,3 GHz,Socket FM1,32 nm,N/A,100 W,100
+Xeon E5-2692 v2,Ivy Bridge-EP,12  / 24,2.2 to 3 GHz,Socket 2011,22 nm,30MB,100 W,100
+Athlon 64 FX-55,Clawhammer,1,2.6 GHz,Socket 939,130 nm,N/A,104 W,104
+Athlon 64 FX-55,San Diego,1,2.6 GHz,Socket 939,90 nm,N/A,104 W,104
+Athlon 64 FX-57,San Diego,1,2.8 GHz,Socket 939,90 nm,N/A,104 W,104
+Opteron 152,Venus,1,2.6 GHz,Socket 939,90 nm,N/A,104 W,104
+Opteron 152,Venus,1,2.6 GHz,Socket 939,90 nm,N/A,104 W,104
+Opteron 154,Venus,1,2.8 GHz,Socket 939,90 nm,N/A,104 W,104
+Opteron 156,Venus,1,3 GHz,Socket 939,90 nm,N/A,104 W,104
+Ryzen 7 2700X,Zen,8  / 16,3.7 to 4.35 GHz,Socket AM4,12 nm,16MB,105 W,105
+Ryzen 7 2700X 50th Anniversary,Zen,8  / 16,3.7 to 4.35 GHz,Socket AM4,12 nm,16MB,105 W,105
+Ryzen 7 3800X,Matisse,8  / 16,3.9 to 4.5 GHz,Socket AM4,7 nm,32MB,105 W,105
+Ryzen 7 3800XT,Matisse 2,8  / 16,3.8 to 4.7 GHz,Socket AM4,7 nm,32MB,105 W,105
+Ryzen 7 5800X,Vermeer,8  / 16,3.8 to 4.7 GHz,Socket AM4,7 nm,32MB,105 W,105
+Ryzen 9 3900X,Matisse,12  / 24,3.8 to 4.6 GHz,Socket AM4,7 nm,64MB,105 W,105
+Ryzen 9 3900XT,Matisse 2,12  / 24,3.9 to 4.7 GHz,Socket AM4,7 nm,64MB,105 W,105
+Ryzen 9 3950X,Matisse,16  / 32,3.5 to 4.7 GHz,Socket AM4,7 nm,64MB,105 W,105
+Ryzen 9 5900X,Vermeer,12  / 24,3.7 to 4.8 GHz,Socket AM4,7 nm,64MB,105 W,105
+Ryzen 9 5950X,Vermeer,16  / 32,3.4 to 4.9 GHz,Socket AM4,7 nm,64MB,105 W,105
+Core 2 Quad Q6600 (105W),Kentsfield,4,2.4 GHz,Socket 775,65 nm,N/A,105 W,105
+Xeon Platinum 8256,Cascade Lake-SP,4  / 8,3.8 to 3.9 GHz,Socket 3647,14 nm,16.5MB,105 W,105
+Xeon Silver 4309Y,Ice Lake-SP,8  / 16,2.8 to 3.6 GHz,Socket 4189,10 nm,12MB,105 W,105
+Xeon Silver 4310T,Ice Lake-SP,10  / 20,2.3 to 3.4 GHz,Socket 4189,10 nm,15MB,105 W,105
+Athlon 64 FX-60,Toledo,2,2.6 GHz,Socket 939,90 nm,N/A,110 W,110
+Athlon 64 X2 4400+,Toledo,2,2.2 GHz,Socket 939,90 nm,N/A,110 W,110
+Athlon 64 X2 4600+,Manchester,2,2.4 GHz,Socket 939,90 nm,N/A,110 W,110
+Athlon 64 X2 4800+,Toledo,2,2.4 GHz,Socket 939,90 nm,N/A,110 W,110
+Opteron X2 165,Denmark,2,1800 MHz,Socket 939,90 nm,N/A,110 W,110
+Opteron X2 170,Denmark,2,2000 MHz,Socket 939,90 nm,N/A,110 W,110
+Opteron X2 175,Denmark,2,2.2 GHz,Socket 939,90 nm,N/A,110 W,110
+Opteron X2 180,Denmark,2,2.4 GHz,Socket 939,90 nm,N/A,110 W,110
+Opteron X2 185,Denmark,2,2.6 GHz,Socket 939,90 nm,N/A,110 W,110
+Pentium 4 2.0,Northwood,1,2000 MHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 2.26,Northwood,1,2.261 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 2.4,Northwood,1,2.4 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 2.40,Prescott,1,2.4 GHz,Socket 478,90 nm,N/A,110 W,110
+Pentium 4 2.53,Northwood,1,2.527 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 2.66,Northwood,1,2.66 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 2.80,Northwood,1,2.793 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 HT 3.06,Northwood,1  / 2,3.06 GHz,Socket 478,130 nm,N/A,110 W,110
+Pentium 4 HT EE 3.20,Gallatin,1  / 2,3.2 GHz,Socket 478,130 nm,2MB,110 W,110
+Pentium 4 HT EE 3.40,Gallatin,1  / 2,3.4 GHz,Socket 775,130 nm,2MB,110 W,110
+Pentium 4 HT EE 3.40,Gallatin,1  / 2,3.4 GHz,Socket 478,130 nm,2MB,110 W,110
+Pentium 4 HT EE 3.46,Gallatin,1  / 2,3.46 GHz,Socket 775,130 nm,2MB,110 W,110
+Core i3-7360X,Kaby Lake,2  / 4,4.3 GHz,Socket 2066,14 nm,4MB,112 W,112
+Core i5-7640X,Kaby Lake-X,4,3.9 to 4.3 GHz,Socket 2066,14 nm,6MB,112 W,112
+Core i7-7740X,Kaby Lake-X,4  / 8,4.3 to 4.6 GHz,Socket 2066,14 nm,8MB,112 W,112
+Opteron 6168,Magny-Cours,12,1900 MHz,Socket G34,45 nm,12MB,115 W,115
+Opteron 6272,Interlagos,16,2.1 to 3 GHz,Socket G34,32 nm,16MB,115 W,115
+Opteron 6274,Interlagos,16,2.2 to 3.1 GHz,Socket G34,32 nm,16MB,115 W,115
+Opteron 6276,Interlagos,16,2.3 to 3.2 GHz,Socket G34,32 nm,8MB,115 W,115
+Opteron 6278,Interlagos,16,2.4 to 3.3 GHz,Socket G34,32 nm,8MB,115 W,115
+Opteron 6348,Abu Dhabi,12,2.8 to 3.4 GHz,Socket G34,32 nm,8MB,115 W,115
+Opteron 6376,Abu Dhabi,16,2.3 to 3.2 GHz,Socket G34,32 nm,8MB,115 W,115
+Opteron 6378,Abu Dhabi,16,2.4 to 3.3 GHz,Socket G34,32 nm,8MB,115 W,115
+Opteron 6380,Abu Dhabi,16,2.5 to 3.4 GHz,Socket G34,32 nm,8MB,115 W,115
+Pentium 4 HT 2.8E,Prescott,1  / 2,2.8 GHz,Socket 478,90 nm,N/A,115 W,115
+Pentium 4 HT 3.0E,Prescott,1  / 2,3 GHz,Socket 478,90 nm,N/A,115 W,115
+Pentium 4 HT 3.2E,Prescott,1  / 2,3.2 GHz,Socket 478,90 nm,N/A,115 W,115
+Pentium 4 HT 3.4E,Prescott,1  / 2,3.4 GHz,Socket 478,90 nm,N/A,115 W,115
+Pentium 4 HT 3.6E,Prescott,1  / 2,3.6 GHz,Socket 478,90 nm,N/A,115 W,115
+Pentium 4 HT 550,Prescott,1  / 2,3.4 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT 551,Prescott,1  / 2,3.4 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT 560,Prescott,1  / 2,3.6 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT 561,Prescott,1  / 2,3.6 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT 570,Prescott,1  / 2,3.8 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT 571,Prescott,1  / 2,3.8 GHz,Socket 775,90 nm,N/A,115 W,115
+Pentium 4 HT EE 3.73,Prescott,1  / 2,3.733 GHz,Socket 775,90 nm,N/A,115 W,115
+Xeon E5-2665,Sandy Bridge-EP,8  / 16,2.4 to 3.1 GHz,Socket 2011,32 nm,20MB,115 W,115
+Xeon E5-2670,Sandy Bridge-EP,8  / 16,2.6 to 3.3 GHz,Socket 2011,32 nm,20MB,115 W,115
+Xeon E5-2670 v2,Ivy Bridge-EP,10  / 20,2.5 to 3.3 GHz,Socket 2011,22 nm,25MB,115 W,115
+Xeon E5-2680 v2,Ivy Bridge-EP,10  / 20,2.8 to 3.6 GHz,Socket 2011,22 nm,25MB,115 W,115
+Xeon E5-2695 v2,Ivy Bridge-EP,12  / 24,2.4 to 3.2 GHz,Socket 2011,22 nm,30MB,115 W,115
+Xeon E5-4650L,Sandy Bridge-EP,8  / 16,2.6 to 3.1 GHz,Socket 2011,32 nm,20MB,115 W,115
+Xeon E7-4809 v3,Haswell-EX,8  / 16,2000 MHz,Socket 1150,22 nm,20MB,115 W,115
+Xeon E7-4820 v3,Haswell-EX,10  / 20,1900 MHz,Socket 1150,22 nm,25MB,115 W,115
+Xeon E7-4830 v3,Haswell-EX,12  / 24,2.1 to 2.7 GHz,Socket 1150,22 nm,30MB,115 W,115
+Xeon E7-4850 v3,Haswell-EX,14  / 28,2.2 to 2.8 GHz,Socket 1150,22 nm,35MB,115 W,115
+Xeon E7-8880L v3,Haswell-EX,18  / 36,2 to 2.8 GHz,Socket 1150,22 nm,45MB,115 W,115
+EPYC 7232P,Rome,8  / 16,3.1 to 3.2 GHz,Socket SP3,7 nm,32MB,120 W,120
+EPYC 7251,Naples,8  / 16,2.1 to 2.9 GHz,Socket SP3,14 nm,32MB,120 W,120
+EPYC 7252,Rome,8  / 16,2.8 to 3.2 GHz,Socket SP3,7 nm,64MB,120 W,120
+EPYC 7272,Rome,12  / 24,2.6 to 3.2 GHz,Socket SP3,7 nm,64MB,120 W,120
+EPYC 7282,Rome,16  / 32,2.8 to 3.2 GHz,Socket SP3,7 nm,64MB,120 W,120
+Xeon Silver 4310,Ice Lake-SP,12  / 24,2.1 to 3.3 GHz,Socket 4189,10 nm,18MB,120 W,120
+Athlon 64 FX-62,Windsor,2,2.8 GHz,Socket AM2,90 nm,N/A,125 W,125
+Athlon 64 FX-70,Windsor,2,2.6 GHz,Socket F,90 nm,N/A,125 W,125
+Athlon 64 FX-72,Windsor,2,2.8 GHz,Socket F,90 nm,N/A,125 W,125
+Athlon 64 FX-74,Windsor,2,3 GHz,Socket F,90 nm,N/A,125 W,125
+Athlon 64 FX-76,Windsor,2,3.2 GHz,Socket F,90 nm,N/A,125 W,125
+Athlon 64 X2 6000+,Windsor,2,3 GHz,Socket AM2,90 nm,N/A,125 W,125
+Athlon 64 X2 6400+ BE,Windsor,2,3.2 GHz,Socket AM2,90 nm,N/A,125 W,125
+FX-4130,Vishera,4,3.8 to 4 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-4170,Zambezi,4,4.2 to 4.3 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-4350,Vishera,4,4.2 to 4.3 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-6200,Zambezi,6,3.8 to 4.1 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-6330,Vishera,6,3.6 to 4.2 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-6350,Vishera,6,3.9 to 4.2 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8120,Zambezi,8,3.1 to 4 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8150,Zambezi,8,3.6 to 4.2 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8170,Zambezi,8,3.9 to 4.5 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8320,Vishera,8,3.5 to 4 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8350,Vishera,8,4 to 4.2 GHz,Socket AM3+,32 nm,8MB,125 W,125
+FX-8370,Vishera,8,4 to 4.3 GHz,Socket AM3+,32 nm,8MB,125 W,125
+Phenom II 42 TWKR Black Edition,Deneb,4,2000 MHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 920,Deneb,4,2.8 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 940 BE,Deneb,4,3 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 945 (125W),Deneb,4,3 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 955 (125W),Deneb,4,3.2 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 955 BE,Deneb,4,3.2 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 965 BE (125W),Deneb,4,3.4 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 970 BE,Deneb,4,3.5 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 970 BE,Zosma,4,3.5 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 975 BE,Deneb,4,3.6 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X4 980 BE,Deneb,4,3.7 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X6 1055T (125W),Thuban,6,2.8 to 3.3 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X6 1065T,Thuban,6,2.9 to 3.4 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X6 1075T,Thuban,6,3 to 3.5 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X6 1090T BE,Thuban,6,3.2 to 3.6 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom II X6 1100T BE,Thuban,6,3.3 to 3.7 GHz,Socket AM3,45 nm,6MB,125 W,125
+Phenom X4 9750 (125W),Agena,4,2.4 GHz,Socket AM2+,65 nm,2MB,125 W,125
+Phenom X4 9850 (125W),Agena,4,2.5 GHz,Socket AM2+,65 nm,2MB,125 W,125
+Phenom X4 9850 BE,Agena,4,2.5 GHz,Socket AM2+,65 nm,2MB,125 W,125
+Phenom X4 9950 BE (125W),Agena,4,2.6 GHz,Socket AM2+,65 nm,2MB,125 W,125
+Ryzen Threadripper 1900,Zen,8  / 16,3.1 to 3.7 GHz,Socket SP3r2,14 nm,32MB,125 W,125
+Ryzen Threadripper 1900X,Zen,8  / 16,3.8 to 4 GHz,Socket SP3r2,14 nm,32MB,125 W,125
+Core i5-10600K,Comet Lake,6  / 12,4.1 to 4.8 GHz,Socket 1200,14 nm,12MB,125 W,125
+Core i5-11600K,Rocket Lake,6  / 12,3.9 to 4.9 GHz,Socket 1200,14 nm,12MB,125 W,125
+Core i5-11600KF,Rocket Lake,6  / 12,3.9 to 4.9 GHz,Socket 1200,14 nm,12MB,125 W,125
+Core i5-12600K,Alder Lake,10  / 16,3.7 to 4.9 GHz,Socket 1700,10 nm,20MB,125 W,125
+Core i5-12600KF,Alder Lake,10  / 16,3.7 to 4.9 GHz,Socket 1700,10 nm,20MB,125 W,125
+Core i7-10700K,Comet Lake,8  / 16,3.8 to 5.1 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i7-10700KF,Comet Lake,8  / 16,3.8 to 5.1 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i7-11700K,Rocket Lake,8  / 16,3.6 to 5 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i7-11700KF,Rocket Lake,8  / 16,3.6 to 5 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i7-12700K,Alder Lake,12  / 20,3.6 to 5 GHz,Socket 1700,10 nm,25MB,125 W,125
+Core i7-12700KF,Alder Lake,12  / 20,3.6 to 5 GHz,Socket 1700,10 nm,25MB,125 W,125
+Core i9-10850K,Comet Lake,10  / 20,3.6 to 5.2 GHz,Socket 1200,14 nm,20MB,125 W,125
+Core i9-10900K,Comet Lake,10  / 20,3.7 to 5.3 GHz,Socket 1200,14 nm,20MB,125 W,125
+Core i9-10900KF,Comet Lake,10  / 20,3.7 to 5.3 GHz,Socket 1200,14 nm,20MB,125 W,125
+Core i9-11900K,Rocket Lake,8  / 16,3.5 to 5.3 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i9-11900KF,Rocket Lake,8  / 16,3.5 to 5.3 GHz,Socket 1200,14 nm,16MB,125 W,125
+Core i9-12900K,Alder Lake,16  / 24,3.2 to 5.2 GHz,Socket 1700,10 nm,30MB,125 W,125
+Core i9-12900KF,Alder Lake,16  / 24,3.2 to 5.2 GHz,Socket 1700,10 nm,30MB,125 W,125
+Xeon Platinum 8253,Cascade Lake-SP,16  / 32,2.2 to 3 GHz,Socket 3647,14 nm,22MB,125 W,125
+Core i9-9900KS,Coffee Lake-R,8  / 16,4 to 5 GHz,Socket 1151,14 nm,16MB,127 W,127
+Core 2 Extreme QX6700,Kentsfield,4,2.666 GHz,Socket 775,65 nm,N/A,130 W,130
+Core 2 Extreme QX6800,Kentsfield,4,2.933 GHz,Socket 775,65 nm,N/A,130 W,130
+Core 2 Extreme QX6850,Kentsfield,4,3 GHz,Socket 775,65 nm,N/A,130 W,130
+Core 2 Extreme QX9650,Yorkfield,4,3 GHz,Socket 775,45 nm,N/A,130 W,130
+Core i7-3820,Sandy Bridge-E,4  / 8,3.6 to 3.8 GHz,Socket 2011,32 nm,10MB,130 W,130
+Core i7-3910K,Sandy Bridge-E,6  / 12,3 to 3.6 GHz,Socket 2011,32 nm,12MB,130 W,130
+Core i7-3930K,Sandy Bridge-E,6  / 12,3.2 to 3.8 GHz,Socket 2011,32 nm,12MB,130 W,130
+Core i7-3960X,Sandy Bridge-E,6  / 12,3.3 to 3.9 GHz,Socket 2011,32 nm,15MB,130 W,130
+Core i7-4820K,Ivy Bridge-E,4  / 8,3.7 to 3.9 GHz,Socket 2011,22 nm,10MB,130 W,130
+Core i7-4930K,Ivy Bridge-E,6  / 12,3.4 to 3.9 GHz,Socket 2011,22 nm,12MB,130 W,130
+Core i7-4960X,Ivy Bridge-E,6  / 12,3.6 to 4 GHz,Socket 2011,22 nm,15MB,130 W,130
+Core i7-920,Bloomfield,4  / 8,2.666 to 2.933 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-930,Bloomfield,4  / 8,2.8 to 3.066 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-940,Bloomfield,4  / 8,2.933 to 3.2 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-950,Bloomfield,4  / 8,3.066 to 3.333 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-960,Bloomfield,4  / 8,3.2 to 3.466 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-965,Bloomfield,4  / 8,3.2 to 3.466 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-970,Gulftown,6  / 12,3.2 to 3.466 GHz,Socket 1366,32 nm,12MB,130 W,130
+Core i7-975,Bloomfield,4  / 8,3.333 to 3.6 GHz,Socket 1366,45 nm,8MB,130 W,130
+Core i7-980,Gulftown,6  / 12,3.333 to 3.6 GHz,Socket 1366,32 nm,12MB,130 W,130
+Core i7-980X,Gulftown,6  / 12,3.333 to 3.6 GHz,Socket 1366,32 nm,12MB,130 W,130
+Core i7-990X,Gulftown,6  / 12,3.466 to 3.733 GHz,Socket 1366,32 nm,12MB,130 W,130
+Pentium D 820,Smithfield,2,2.8 GHz,Socket 775,90 nm,N/A,130 W,130
+Pentium D 820,Smithfield,2,2.8 GHz,Socket 775,90 nm,N/A,130 W,130
+Pentium D 830,Smithfield,2,3 GHz,Socket 775,90 nm,N/A,130 W,130
+Pentium D 840,Smithfield,2,3.2 GHz,Socket 775,90 nm,N/A,130 W,130
+Pentium D 840 EE,Smithfield,2  / 4,3.2 GHz,Socket 775,90 nm,N/A,130 W,130
+Pentium D 920,Presler,2,2.8 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 930,Presler,2,3 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 940,Presler,2,3.2 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 950,Presler,2,3.4 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 955 EE,Presler,2  / 4,3.46 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 960,Presler,2,3.6 GHz,Socket 775,65 nm,N/A,130 W,130
+Pentium D 965 EE,Presler,2  / 4,3.73 GHz,Socket 775,65 nm,N/A,130 W,130
+Xeon 5060,Dempsey,2  / 4,3.2 GHz,Socket 771,65 nm,N/A,130 W,130
+Xeon 5080,Dempsey,2  / 4,3.73 GHz,Socket 771,65 nm,N/A,130 W,130
+Xeon E5-1620,Sandy Bridge-E,4  / 8,3.6 to 3.8 GHz,Socket 2011,32 nm,10MB,130 W,130
+Xeon E5-1620 v2,Ivy Bridge-E,4  / 8,3.7 GHz,Socket 2011,22 nm,10MB,130 W,130
+Xeon E5-1650,Sandy Bridge-E,6  / 12,3.2 to 3.8 GHz,Socket 2011,32 nm,12MB,130 W,130
+Xeon E5-1650 v2,Ivy Bridge-E,6  / 12,3.5 GHz,Socket 2011,22 nm,12MB,130 W,130
+Xeon E5-1660,Sandy Bridge-E,6  / 12,3.3 to 3.9 GHz,Socket 2011,32 nm,15MB,130 W,130
+Xeon E5-1660 v2,Ivy Bridge-E,6  / 12,3.7 GHz,Socket 2011,22 nm,15MB,130 W,130
+Xeon E5-2637 v2,Ivy Bridge-EP,4  / 8,3.5 GHz,Socket 2011,22 nm,10MB,130 W,130
+Xeon E5-2643,Sandy Bridge-EP,4  / 8,3.3 to 3.5 GHz,Socket 2011,32 nm,10MB,130 W,130
+Xeon E5-2643 v2,Ivy Bridge-EP,6  / 12,3.5 GHz,Socket 2011,22 nm,15MB,130 W,130
+Xeon E5-2667,Sandy Bridge-EP,6  / 12,2.9 to 3.5 GHz,Socket 2011,32 nm,15MB,130 W,130
+Xeon E5-2667 v2,Ivy Bridge-EP,8  / 16,3.3 GHz,Socket 2011,22 nm,20MB,130 W,130
+Xeon E5-2680,Sandy Bridge-EP,8  / 16,2.7 to 3.5 GHz,Socket 2011,32 nm,20MB,130 W,130
+Xeon E5-2687W v2,Ivy Bridge-EP,8  / 16,3.4 to 4 GHz,Socket 2011,22 nm,20MB,130 W,130
+Xeon E5-2690 v2,Ivy Bridge-EP,10  / 20,3 to 3.8 GHz,Socket 2011,22 nm,25MB,130 W,130
+Xeon E5-2697 v2,Ivy Bridge-EP,12  / 24,2.7 to 3.5 GHz,Socket 2011,22 nm,30MB,130 W,130
+Xeon E5-4610,Sandy Bridge-EP,6  / 12,2.4 to 2.9 GHz,Socket 2011,32 nm,15MB,130 W,130
+Xeon E5-4617,Sandy Bridge-EP,6  / 12,2.9 to 3.4 GHz,Socket 2011,32 nm,15MB,130 W,130
+Xeon E5-4620,Sandy Bridge-EP,8  / 16,2.7 to 2.6 GHz,Socket 2011,32 nm,16MB,130 W,130
+Xeon E5-4650,Sandy Bridge-EP,8  / 16,2.7 to 3.3 GHz,Socket 2011,32 nm,20MB,130 W,130
+Xeon E7-8850,Westmere-EX,10  / 20,2 to 2.4 GHz,Socket 1567,32 nm,30MB,130 W,130
+Xeon E7-8860,Westmere-EX,10  / 20,2.276 to 2.667 GHz,Socket 1567,32 nm,30MB,130 W,130
+Xeon E7-8870,Westmere-EX,10  / 20,2.4 to 2.8 GHz,Socket 1567,32 nm,30MB,130 W,130
+Xeon W3503,Bloomfield,2,2.4 GHz,Socket 1366,45 nm,4MB,130 W,130
+Xeon W3505,Bloomfield,2,2.533 GHz,Socket 1366,45 nm,4MB,130 W,130
+Xeon W3520,Bloomfield,4  / 8,2.666 to 2.933 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3530,Bloomfield,4  / 8,2.8 to 3.066 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3540,Bloomfield,4  / 8,2.933 to 3.2 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3550,Bloomfield,4  / 8,3.066 to 3.333 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3565,Bloomfield,4  / 8,3.2 to 3.466 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3570,Bloomfield,4  / 8,3.2 to 3.466 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3580,Bloomfield,4  / 8,3.333 to 3.6 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W3670,Gulftown,6  / 12,3.2 to 3.466 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon W3680,Gulftown,6  / 12,3.333 to 3.6 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon W3690,Gulftown,6  / 12,3.466 to 3.733 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon W5580,Gainestown,4  / 8,3.2 to 3.466 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon W5590,Gainestown,4  / 8,3.333 to 3.6 GHz,Socket 1366,45 nm,8MB,130 W,130
+Xeon X5647,Westmere-EP,4  / 8,2.933 to 3.2 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon X5677,Westmere-EP,4  / 8,3.466 to 3.733 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon X5680,Westmere-EP,6  / 12,3.333 to 3.6 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon X5687,Westmere-EP,4  / 8,3.6 to 3.866 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon X5690,Westmere-EP,6  / 12,3.466 to 3.733 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon X5698,Westmere-EP,2  / 4,4.4 GHz,Socket 1366,32 nm,12MB,130 W,130
+Xeon 2.8,Nocona,1,2.8 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 2.8,Paxville,2,2.8 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.0,Nocona,1,3 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.0,Irwindale,1,3 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.2,Nocona,1,3.2 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.2,Irwindale,1,3.2 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.4,Nocona,1,3.4 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.4,Irwindale,1,3.4 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.6,Nocona,1,3.6 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon 3.6,Irwindale,1,3.6 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon E5-2690,Sandy Bridge-EP,8  / 16,2.9 to 3.8 GHz,Socket 2011,32 nm,20MB,135 W,135
+Xeon MP 2.83,Potomac,1,2.833 GHz,Socket 604,90 nm,4MB,135 W,135
+Xeon MP 2.83,Potomac,1,2.833 GHz,Socket 604,90 nm,8MB,135 W,135
+Xeon MP 3.00,Potomac,1,3 GHz,Socket 604,90 nm,4MB,135 W,135
+Xeon MP 3.00,Potomac,1,3 GHz,Socket 604,90 nm,8MB,135 W,135
+Xeon MP 3.16,Potomac,1,3.167 GHz,Socket 604,90 nm,4MB,135 W,135
+Xeon MP 3.16,Cranford,1,3.167 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 3.16,Potomac,1,3.167 GHz,Socket 604,90 nm,8MB,135 W,135
+Xeon MP 3.33,Cranford,1,3.334 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 3.33,Potomac,1,3.333 GHz,Socket 604,90 nm,8MB,135 W,135
+Xeon MP 3.33,Potomac,1,3.333 GHz,Socket 604,90 nm,4MB,135 W,135
+Xeon MP 3.50,Cranford,1,3.5 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 3.66,Cranford,1,3.667 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 7020 Dual-Core,Paxville,2,2.667 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 7030 Dual-Core,Paxville,2,2.833 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 7030 Dual-Core,Paxville,2,2.8 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 7040 Dual-Core,Paxville,2,3 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon MP 7041 Dual-Core,Paxville,2,3 GHz,Socket 604,90 nm,N/A,135 W,135
+Xeon Silver 4314,Ice Lake-SP,16  / 32,2.4 to 3.4 GHz,Socket 4189,10 nm,24MB,135 W,135
+Core 2 Extreme QX9770,Yorkfield,4,3.2 GHz,Socket 775,45 nm,N/A,136 W,136
+Opteron 6282 SE,Interlagos,16,2.6 to 3.3 GHz,Socket G34,32 nm,8MB,140 W,140
+Opteron 6284 SE,Interlagos,16,2.7 to 3.4 GHz,Socket G34,32 nm,8MB,140 W,140
+Opteron 6386 SE,Abu Dhabi,16,2.8 to 3.5 GHz,Socket G34,32 nm,8MB,140 W,140
+Phenom II X4 965 BE (140W),Deneb,4,3.4 GHz,Socket AM3,45 nm,6MB,140 W,140
+Phenom X4 9950 BE (140W),Agena,4,2.6 GHz,Socket AM2+,65 nm,2MB,140 W,140
+Ryzen Threadripper 1920,Zen,12  / 24,3.2 to 3.8 GHz,Socket SP3r2,14 nm,32MB,140 W,140
+Core i7-5820K,Haswell-E,6  / 12,3.3 to 3.6 GHz,Socket 2011-3,22 nm,15MB,140 W,140
+Core i7-5930K,Haswell-E,6  / 12,3.5 to 3.7 GHz,Socket 2011-3,22 nm,15MB,140 W,140
+Core i7-5960X,Haswell-E,8  / 16,3 to 3.5 GHz,Socket 2011-3,22 nm,20MB,140 W,140
+Core i7-6800K,Broadwell-E,6  / 12,3.4 to 3.8 GHz,Socket 2011-3,14 nm,15MB,140 W,140
+Core i7-6850K,Broadwell-E,6  / 12,3.6 to 3.8 GHz,Socket 2011-3,14 nm,15MB,140 W,140
+Core i7-6900K,Broadwell-E,8  / 16,3.2 to 3.7 GHz,Socket 2011-3,14 nm,20MB,140 W,140
+Core i7-6950X,Broadwell-E,10  / 20,3 to 3.5 GHz,Socket 2011-3,14 nm,25MB,140 W,140
+Core i7-7800X,Skylake-X,6  / 12,3.5 to 4 GHz,Socket 2066,14 nm,8.25MB,140 W,140
+Core i7-7820X,Skylake-X,8  / 16,3.6 to 4.5 GHz,Socket 2066,14 nm,11MB,140 W,140
+Core i9-7900X,Skylake-X,10  / 20,3.3 to 4.5 GHz,Socket 2066,14 nm,14MB,140 W,140
+Core i9-7920X,Skylake-X,12  / 24,2.9 to 4.4 GHz,Socket 2066,14 nm,16.5MB,140 W,140
+Xeon E7-8860 v3,Haswell-EX,16  / 32,2.2 to 3.2 GHz,Socket 1150,22 nm,40MB,140 W,140
+Xeon E7-8870 v3,Haswell-EX,18  / 36,2.1 to 2.9 GHz,Socket 1150,22 nm,45MB,140 W,140
+Xeon E7-8893 v3,Haswell-EX,4  / 8,3.2 to 3.5 GHz,Socket 1150,22 nm,45MB,140 W,140
+Xeon Gold 5315Y,Ice Lake-SP,8  / 16,3.2 to 3.6 GHz,Socket 4189,10 nm,12MB,140 W,140
+Xeon W-2195,Skylake-W,18  / 36,2.3 to 4.3 GHz,Socket 2066,14 nm,24.75MB,140 W,140
+Core 2 Extreme QX9775,Yorkfield,4,3.2 GHz,Socket 771,45 nm,N/A,150 W,150
+Core i7-3970X,Sandy Bridge-E,6  / 12,3.5 to 4 GHz,Socket 2011,32 nm,15MB,150 W,150
+Xeon 7130M,Tulsa,2  / 4,3.2 GHz,Socket 771,65 nm,8MB,150 W,150
+Xeon 7130N,Tulsa,2  / 4,3.166 GHz,Socket 771,65 nm,8MB,150 W,150
+Xeon 7140M,Tulsa,2  / 4,3.4 GHz,Socket 771,65 nm,16MB,150 W,150
+Xeon 7140N,Tulsa,2  / 4,3.333 GHz,Socket 771,65 nm,16MB,150 W,150
+Xeon E5-2687W,Sandy Bridge-EP,8  / 16,3.1 to 3.8 GHz,Socket 2011,32 nm,20MB,150 W,150
+Xeon E7-8880 v3,Haswell-EX,18  / 36,2.3 to 3.1 GHz,Socket 1150,22 nm,45MB,150 W,150
+Xeon Gold 5317,Ice Lake-SP,12  / 24,3 to 3.6 GHz,Socket 4189,10 nm,18MB,150 W,150
+Xeon Gold 5318H,Cooper Lake-SP,18  / 36,2.5 to 3.8 GHz,Socket 4189,14 nm,24.75MB,150 W,150
+Xeon Gold 5318N,Ice Lake-SP,24  / 48,2.1 to 3.4 GHz,Socket 4189,10 nm,36MB,150 W,150
+Xeon Gold 5320H,Cooper Lake-SP,20  / 40,2.4 to 4.2 GHz,Socket 4189,14 nm,27.5MB,150 W,150
+Xeon Gold 5320T,Ice Lake-SP,20  / 40,2.3 to 3.5 GHz,Socket 4189,10 nm,30MB,150 W,150
+Xeon Gold 6330H,Cooper Lake-SP,24  / 48,2 to 3.7 GHz,Socket 4189,14 nm,33MB,150 W,150
+Xeon Platinum 8353H,Cooper Lake-SP,18  / 36,2.5 to 3.8 GHz,Socket 4189,14 nm,24.75MB,150 W,150
+Xeon Silver 4316,Ice Lake-SP,20  / 40,2.3 to 3.4 GHz,Socket 4189,10 nm,30MB,150 W,150
+EPYC 7262,Rome,8  / 16,3.1 to 3.3 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7302,Rome,16  / 32,3 to 3.3 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7302P,Rome,16  / 32,3 to 3.3 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7313,Milan,16  / 32,3 to 3.7 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7313P,Milan,16  / 32,3 to 3.7 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7352,Rome,24  / 48,2.4 to 3.3 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7452,Rome,32  / 64,2.2 to 3.35 GHz,Socket SP3,7 nm,128MB,155 W,155
+EPYC 7F52,Rome,16  / 32,3.5 to 3.9 GHz,Socket SP3,7 nm,256MB,155 W,155
+Core i7-9800X,Skylake-X,8  / 16,3.8 to 4.4 GHz,Socket 2066,14 nm,16.5MB,165 W,165
+Core i9-10900X,Cascade Lake-X,10  / 20,3.7 to 4.7 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-10920X,Cascade Lake-X,12  / 24,3.5 to 4.8 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-10940X,Cascade Lake-X,14  / 28,3.3 to 4.8 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-10980XE,Cascade Lake-X,18  / 36,3 to 4.8 GHz,Socket 2066,14 nm,24.75MB,165 W,165
+Core i9-7940X,Skylake-X,14  / 28,3.1 to 4.4 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-7960X,Skylake-X,16  / 32,2.8 to 4.4 GHz,Socket 2066,14 nm,22MB,165 W,165
+Core i9-7980XE,Skylake-X,18  / 36,2.6 to 4.4 GHz,Socket 2066,14 nm,24.75MB,165 W,165
+Core i9-9820X,Skylake-X,10  / 20,3.3 to 4.2 GHz,Socket 2066,14 nm,16.5MB,165 W,165
+Core i9-9900X,Skylake-X,10  / 20,3.5 to 4.5 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-9920X,Skylake-X,12  / 24,3.5 to 4.5 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-9940X,Skylake-X,14  / 28,3.3 to 4.5 GHz,Socket 2066,14 nm,19.25MB,165 W,165
+Core i9-9960X,Skylake-X,16  / 32,3.1 to 4.5 GHz,Socket 2066,14 nm,22MB,165 W,165
+Core i9-9980XE,Skylake-X,18  / 36,3 to 4.5 GHz,Socket 2066,14 nm,24.75MB,165 W,165
+Xeon E7-8867 v3,Haswell-EX,16  / 32,2.5 to 3.3 GHz,Socket 1150,22 nm,45MB,165 W,165
+Xeon E7-8890 v3,Haswell-EX,18  / 36,2.5 to 3.3 GHz,Socket 2011,22 nm,45MB,165 W,165
+Xeon E7-8891 v3,Haswell-EX,10  / 20,2.8 to 3.5 GHz,Socket 1150,22 nm,45MB,165 W,165
+Xeon Gold 5318S,Ice Lake-SP,24  / 48,2.1 to 3.4 GHz,Socket 4189,10 nm,36MB,165 W,165
+Xeon Gold 5318Y,Ice Lake-SP,24  / 48,2.1 to 3.4 GHz,Socket 4189,10 nm,36MB,165 W,165
+Xeon Gold 6328H,Cooper Lake-SP,16  / 32,2.8 to 4.3 GHz,Socket 4189,14 nm,22MB,165 W,165
+Xeon Gold 6328HL,Cooper Lake-SP,16  / 32,2.8 to 4.3 GHz,Socket 4189,14 nm,22MB,165 W,165
+Xeon Gold 6334,Ice Lake-SP,8  / 16,3.6 to 3.7 GHz,Socket 4189,10 nm,18MB,165 W,165
+Xeon Gold 6338T,Ice Lake-SP,24  / 48,2.1 to 3.4 GHz,Socket 4189,10 nm,36MB,165 W,165
+Xeon Gold 6348H,Cooper Lake-SP,24  / 48,2.3 to 4.2 GHz,Socket 4189,14 nm,33MB,165 W,165
+Xeon Platinum 8260,Cascade Lake-SP,24  / 48,2.4 to 3.9 GHz,Socket 3647,14 nm,35.75MB,165 W,165
+Xeon Platinum 8260M,Cascade Lake-SP,24  / 48,2.4 to 3.9 GHz,Socket 3647,14 nm,35.75MB,165 W,165
+Xeon Platinum 8276,Cascade Lake-SP,28  / 56,2.2 to 4 GHz,Socket 3647,14 nm,38.5MB,165 W,165
+EPYC 7261,Naples,8  / 16,2.5 to 2.9 GHz,Socket SP3,14 nm,32MB,170 W,170
+EPYC 7281,Naples,16  / 32,2.1 to 2.7 GHz,Socket SP3,14 nm,32MB,170 W,170
+EPYC 7301,Naples,16  / 32,2.2 to 2.7 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7351,Naples,16  / 32,2.4 to 2.9 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7351P,Naples,16  / 32,2.4 to 2.9 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7371,Naples,16  / 32,3.1 to 3.8 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7401,Naples,24  / 48,2 to 3 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7401P,Naples,24  / 48,2 to 3 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 7501,Naples,32  / 64,2 to 3 GHz,Socket SP3,14 nm,64MB,170 W,170
+EPYC 72F3,Milan,8  / 16,3.7 to 4.1 GHz,Socket SP3,7 nm,256MB,180 W,180
+EPYC 7402,Rome,24  / 48,2.8 to 3.35 GHz,Socket SP3,7 nm,128MB,180 W,180
+EPYC 7402P,Rome,24  / 48,2.8 to 3.35 GHz,Socket SP3,7 nm,128MB,180 W,180
+EPYC 7413,Milan,24  / 48,2.65 to 3.6 GHz,Socket SP3,7 nm,128MB,180 W,180
+EPYC 7451,Naples,24  / 48,2.3 to 3.2 GHz,Socket SP3,14 nm,64MB,180 W,180
+EPYC 7502,Rome,32  / 64,2.5 to 3.35 GHz,Socket SP3,7 nm,128MB,180 W,180
+EPYC 7502P,Rome,32  / 64,2.5 to 3.35 GHz,Socket SP3,7 nm,128MB,180 W,180
+EPYC 7551,Naples,32  / 64,2 to 3 GHz,Socket SP3,14 nm,64MB,180 W,180
+EPYC 7551P,Naples,32  / 64,2 to 3 GHz,Socket SP3,14 nm,64MB,180 W,180
+EPYC 7601,Naples,32  / 64,2.2 to 3.2 GHz,Socket SP3,14 nm,64MB,180 W,180
+EPYC 7F32,Rome,8  / 16,3.7 to 3.9 GHz,Socket SP3,7 nm,128MB,180 W,180
+Ryzen Threadripper 1920X,Zen,12  / 24,3.5 to 4.2 GHz,Socket SP3r2,14 nm,32MB,180 W,180
+Ryzen Threadripper 1940,Zen,14  / 28,3.2 to 3.7 GHz,Socket SP3r2,14 nm,32MB,180 W,180
+Ryzen Threadripper 1940X,Zen,14  / 28,3.5 to 4 GHz,Socket SP3r2,14 nm,32MB,180 W,180
+Ryzen Threadripper 1950,Zen,16  / 32,3.2 GHz,Socket SP3r2,14 nm,32MB,180 W,180
+Ryzen Threadripper 1950X,Zen,16  / 32,3.4 to 4 GHz,Socket SP3r2,14 nm,32MB,180 W,180
+Ryzen Threadripper 2920X,Zen,12  / 24,3.5 to 4.3 GHz,Socket SP3r2,12 nm,32MB,180 W,180
+Ryzen Threadripper 2950X,Zen,16  / 32,3.5 to 4.4 GHz,Socket SP3r2,12 nm,32MB,180 W,180
+Xeon Gold 5320,Ice Lake-SP,26  / 52,2.2 to 3.4 GHz,Socket 4189,10 nm,39MB,185 W,185
+Xeon Gold 6312U,Ice Lake-SP,24  / 48,2.4 to 3.6 GHz,Socket 4189,10 nm,36MB,185 W,185
+Xeon Gold 6326,Ice Lake-SP,16  / 32,2.9 to 3.5 GHz,Socket 4189,10 nm,24MB,185 W,185
+Xeon Gold 6336Y,Ice Lake-SP,24  / 48,2.4 to 3.6 GHz,Socket 4189,10 nm,36MB,185 W,185
+Xeon Gold 6338N,Ice Lake-SP,32  / 64,2.2 to 3.5 GHz,Socket 4189,10 nm,48MB,185 W,185
+Xeon Platinum 8352M,Ice Lake-SP,32  / 64,2.3 to 3.5 GHz,Socket 4189,10 nm,48MB,185 W,185
+EPYC 7343,Milan,16  / 32,3.2 to 3.9 GHz,Socket SP3,7 nm,128MB,190 W,190
+Xeon Platinum 8356H,Cooper Lake-SP,8  / 16,3.9 to 4.4 GHz,Socket 4189,14 nm,35.75MB,190 W,190
+Xeon Platinum 8352V,Ice Lake-SP,36  / 72,2.5 to 3.5 GHz,Socket 4189,10 nm,54MB,195 W,195
+EPYC 7443,Milan,24  / 48,2.85 to 4 GHz,Socket SP3,7 nm,128MB,200 W,200
+EPYC 7443P,Milan,24  / 48,2.85 to 4 GHz,Socket SP3,7 nm,128MB,200 W,200
+EPYC 7513,Milan,32  / 64,2.6 to 3.65 GHz,Socket SP3,7 nm,128MB,200 W,200
+EPYC 7552,Rome,48  / 96,2.2 to 3.35 GHz,Socket SP3,7 nm,192MB,200 W,200
+EPYC 7702,Rome,64  / 128,2 to 3.35 GHz,Socket SP3,7 nm,256MB,200 W,200
+EPYC 7702P,Rome,64  / 128,2 to 3.35 GHz,Socket SP3,7 nm,256MB,200 W,200
+Xeon Gold 6154,Skylake-SP,18  / 36,3 to 3.7 GHz,Socket 3647,14 nm,24.75MB,200 W,200
+Xeon Gold 6314U,Ice Lake-SP,32  / 64,2.3 to 3.4 GHz,Socket 4189,10 nm,48MB,205 W,205
+Xeon Gold 6330,Ice Lake-SP,28  / 56,2 to 3.1 GHz,Socket 4189,10 nm,42MB,205 W,205
+Xeon Gold 6346,Ice Lake-SP,16  / 32,3.1 to 3.6 GHz,Socket 4189,10 nm,36MB,205 W,205
+Xeon Gold 6354,Ice Lake-SP,18  / 36,3 to 3.6 GHz,Socket 4189,10 nm,39MB,205 W,205
+Xeon Platinum 8180,Skylake-SP,28  / 56,2.5 to 3.8 GHz,Socket 3647,14 nm,38.5MB,205 W,205
+Xeon Platinum 8180M,Skylake-SP,28  / 56,2.5 to 3.8 GHz,Socket 3647,14 nm,38.5MB,205 W,205
+Xeon Platinum 8268,Cascade Lake-SP,24  / 48,2.9 to 3.9 GHz,Socket 3647,14 nm,35.75MB,205 W,205
+Xeon Platinum 8270,Cascade Lake-SP,26  / 52,2.7 to 4 GHz,Socket 3647,14 nm,35.75MB,205 W,205
+Xeon Platinum 8280,Cascade Lake-SP,28  / 56,2.7 to 4 GHz,Socket 3647,14 nm,38.5MB,205 W,205
+Xeon Platinum 8280M,Cascade Lake-SP,28  / 56,2.7 to 4 GHz,Socket 3647,14 nm,38.5MB,205 W,205
+Xeon Platinum 8352S,Ice Lake-SP,32  / 64,2.2 to 3.4 GHz,Socket 4189,10 nm,48MB,205 W,205
+Xeon Platinum 8354H,Cooper Lake-SP,18  / 36,3.1 to 4.3 GHz,Socket 4189,14 nm,24.75MB,205 W,205
+Xeon Platinum 8376H,Cooper Lake-SP,28  / 56,2.6 to 4.3 GHz,Socket 4189,14 nm,38.5MB,205 W,205
+Xeon Platinum 8376HL,Cooper Lake-SP,28  / 56,2.6 to 4.3 GHz,Socket 4189,14 nm,38.5MB,205 W,205
+Xeon Phi 7210,Knights Landing,64  / 256,1300 to 1500 MHz,Socket 3647,14 nm,N/A,215 W,215
+Xeon Phi 7230,Knights Landing,64  / 256,1300 to 1500 MHz,Socket 3647,14 nm,N/A,215 W,215
+Xeon Phi 7250,Knights Landing,68  / 272,1400 to 1600 MHz,Socket 3647,14 nm,N/A,215 W,215
+FX-9370,Vishera,8,4.4 to 4.7 GHz,Socket AM3+,32 nm,8MB,220 W,220
+FX-9590,Vishera,8,4.7 to 5 GHz,Socket AM3+,32 nm,8MB,220 W,220
+Xeon W-3323,Ice Lake-W,12  / 24,3.5 to 4 GHz,Socket 4189,10 nm,18MB,220 W,220
+EPYC 7453,Milan,28  / 56,2.75 to 3.45 GHz,Socket SP3,7 nm,64MB,225 W,225
+EPYC 7542,Rome,32  / 64,2.9 to 3.4 GHz,Socket SP3,7 nm,128MB,225 W,225
+EPYC 7543,Milan,32  / 64,2.8 to 3.7 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7543P,Milan,32  / 64,2.8 to 3.7 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7642,Rome,48  / 96,2.4 to 3.4 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7643,Milan,48  / 96,2.3 to 3.6 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7713,Milan,64  / 128,2 to 3.675 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7713P,Milan,64  / 128,2 to 3.675 GHz,Socket SP3,7 nm,256MB,225 W,225
+EPYC 7742,Rome,64  / 128,2.25 to 3.4 GHz,Socket SP3,7 nm,256MB,225 W,225
+Xeon Phi 5110P,Knights Corner,60  / 240,1053 MHz,PCIe x16,22 nm,N/A,225 W,225
+Xeon Platinum 8351N,Ice Lake-SP,36  / 72,2.4 to 3.5 GHz,Socket 4189,10 nm,54MB,225 W,225
+Xeon Platinum 8360H,Cooper Lake-SP,24  / 48,3 to 4.2 GHz,Socket 4189,14 nm,33MB,225 W,225
+Xeon Platinum 8360HL,Cooper Lake-SP,24  / 48,3 to 4.2 GHz,Socket 4189,14 nm,33MB,225 W,225
+Xeon Gold 6342,Ice Lake-SP,24  / 48,2.8 to 3.5 GHz,Socket 4189,10 nm,36MB,230 W,230
+Xeon Phi 7210F,Knights Landing,64  / 256,1300 to 1500 MHz,Socket 3647,14 nm,N/A,230 W,230
+Xeon Phi 7230F,Knights Landing,64  / 256,1300 to 1500 MHz,Socket 3647,14 nm,N/A,230 W,230
+Xeon Phi 7250F,Knights Landing,68  / 272,1400 to 1600 MHz,Socket 3647,14 nm,N/A,230 W,230
+Xeon Gold 6348,Ice Lake-SP,28  / 56,2.6 to 3.5 GHz,Socket 4189,10 nm,42MB,235 W,235
+EPYC 73F3,Milan,16  / 32,3.5 to 4 GHz,Socket SP3,7 nm,256MB,240 W,240
+EPYC 74F3,Milan,24  / 48,2.8 to 4 GHz,Socket SP3,7 nm,256MB,240 W,240
+EPYC 7663,Milan,56  / 112,2 to 3.5 GHz,Socket SP3,7 nm,256MB,240 W,240
+EPYC 7F72,Rome,24  / 48,3.2 to 3.7 GHz,Socket SP3,7 nm,192MB,240 W,240
+Xeon Platinum 8358P,Ice Lake-SP,32  / 64,2.6 to 3.4 GHz,Socket 4189,10 nm,48MB,240 W,240
+Xeon Phi 5120D,Knights Corner,60  / 240,1053 MHz,SFF 230-Pin,22 nm,N/A,245 W,245
+Xeon Phi 7290,Knights Landing,72  / 288,1500 to 1700 MHz,Socket 3647,14 nm,N/A,245 W,245
+Ryzen Threadripper 2970WX,Zen,24  / 48,3 to 4.2 GHz,Socket SP3r2,12 nm,64MB,250 W,250
+Ryzen Threadripper 2990WX,Zen,32  / 64,3 to 4.2 GHz,Socket SP3r2,12 nm,64MB,250 W,250
+Xeon Phi 7235,Knights Mill,64  / 256,1300 to 1400 MHz,Socket 3647,14 nm,N/A,250 W,250
+Xeon Phi 7285,Knights Mill,68  / 272,1300 to 1400 MHz,Socket 3647,14 nm,N/A,250 W,250
+Xeon Platinum 8358,Ice Lake-SP,32  / 64,2.6 to 3.4 GHz,Socket 4189,10 nm,48MB,250 W,250
+Xeon Platinum 8360Y,Ice Lake-SP,36  / 72,2.4 to 3.5 GHz,Socket 4189,10 nm,54MB,250 W,250
+Xeon Platinum 8380H,Cooper Lake-SP,28  / 56,2.9 to 4.3 GHz,Socket 4189,14 nm,38.5MB,250 W,250
+Xeon Platinum 8380HL,Cooper Lake-SP,28  / 56,2.9 to 4.3 GHz,Socket 4189,14 nm,38.5MB,250 W,250
+Xeon Platinum 9221,Cascade Lake-AP,32  / 64,2.1 to 3.7 GHz,BGA 5903,14 nm,71.5MB,250 W,250
+Xeon Platinum 9222,Cascade Lake-AP,32  / 64,2.3 to 3.7 GHz,BGA 5903,14 nm,71.5MB,250 W,250
+Xeon W-3335,Ice Lake-W,16  / 32,3.4 to 4 GHz,Socket 4189,10 nm,24MB,250 W,250
+Xeon W-3345,Ice Lake-W,24  / 48,3 to 4 GHz,Socket 4189,10 nm,36MB,250 W,250
+Core i9-9990XE,Skylake-X,14  / 28,4 to 5.1 GHz,Socket 2066,14 nm,19.25MB,255 W,255
+Xeon W-3175X,Skylake-W,28  / 56,3.1 to 4.3 GHz,Socket 3647,14 nm,38.5MB,255 W,255
+Xeon Phi 7290F,Knights Landing,72  / 288,1500 to 1700 MHz,Socket 3647,14 nm,N/A,260 W,260
+Xeon Platinum 8362,Ice Lake-SP,32  / 64,2.8 to 3.6 GHz,Socket 4189,10 nm,48MB,265 W,265
+Xeon Phi 31S1P,Knights Corner,57  / 228,1100 MHz,PCIe x16,22 nm,N/A,270 W,270
+Xeon Phi 7120D,Knights Corner,61  / 244,1238 to 1333 MHz,SFF 230-Pin,22 nm,N/A,270 W,270
+Xeon Platinum 8368,Ice Lake-SP,38  / 76,2.4 to 3.4 GHz,Socket 4189,10 nm,57MB,270 W,270
+Xeon Platinum 8368Q,Ice Lake-SP,38  / 76,2.6 to 3.7 GHz,Socket 4189,10 nm,57MB,270 W,270
+Xeon Platinum 8380,Ice Lake-SP,40  / 80,2.3 to 3.4 GHz,Socket 4189,10 nm,60MB,270 W,270
+Xeon W-3365,Ice Lake-W,32  / 64,2.7 to 4 GHz,Socket 4189,10 nm,48MB,270 W,270
+Xeon W-3375,Ice Lake-W,38  / 76,2.5 to 4 GHz,Socket 4189,10 nm,57MB,270 W,270
+EPYC 75F3,Milan,32  / 64,2.95 to 4 GHz,Socket SP3,7 nm,256MB,280 W,280
+EPYC 7763,Milan,64  / 128,2.45 to 3.5 GHz,Socket SP3,7 nm,256MB,280 W,280
+EPYC 7H12,Rome,64  / 128,2.6 to 3.3 GHz,Socket SP3,7 nm,256MB,280 W,280
+Ryzen Threadripper 3960X,Matisse,24  / 48,3.8 to 4.5 GHz,Socket TRX4,7 nm,128MB,280 W,280
+Ryzen Threadripper 3970X,Matisse,32  / 64,3.7 to 4.5 GHz,Socket TRX4,7 nm,128MB,280 W,280
+Ryzen Threadripper 3980X,Matisse,48  / 96,3.5 to 4.7 GHz,Socket TRX4,7 nm,128MB,280 W,280
+Ryzen Threadripper 3990X,Matisse,64  / 128,2.9 to 4.3 GHz,Socket TRX4,7 nm,128MB,280 W,280
+Ryzen Threadripper PRO 3945WX,Matisse,12  / 24,4 to 4.3 GHz,Socket WRX8,7 nm,64MB,280 W,280
+Ryzen Threadripper PRO 3955WX,Matisse,16  / 32,3.9 to 4.3 GHz,Socket WRX8,7 nm,64MB,280 W,280
+Ryzen Threadripper PRO 3975WX,Matisse,32  / 64,3.5 to 4.2 GHz,Socket WRX8,7 nm,128MB,280 W,280
+Ryzen Threadripper PRO 3995WX,Matisse,64  / 128,2.7 to 4.2 GHz,Socket WRX8,7 nm,256MB,280 W,280
+Aubrey Isle,Knights Ferry,32  / 128,1200 MHz,PCIe x16,45 nm,N/A,300 W,300
+Xeon Phi 3110X,Knights Corner,61  / 244,1053 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 3120A,Knights Corner,57  / 228,1100 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 3120P,Knights Corner,57  / 228,1100 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7110P,Knights Corner,61  / 244,1250 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7110X,Knights Corner,61  / 244,1250 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7120A,Knights Corner,61  / 244,1238 to 1333 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7120P,Knights Corner,61  / 244,1238 to 1333 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7120X,Knights Corner,61  / 244,1238 to 1333 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi SE10P,Knights Corner,61  / 244,1100 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi SE10X,Knights Corner,61  / 244,1100 MHz,PCIe x16,22 nm,N/A,300 W,300
+Xeon Phi 7295,Knights Mill,72  / 288,1500 to 1600 MHz,Socket 3647,14 nm,N/A,320 W,320
+Xeon Platinum 9242,Cascade Lake-AP,48  / 96,2.3 to 3.8 GHz,BGA 5903,14 nm,71.5MB,350 W,350
+Core i9-10990XE,Cascade Lake-X,22  / 44,4 to 5 GHz,Socket 2066,14 nm,30.25MB,380 W,380
