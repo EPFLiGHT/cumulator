@@ -1,5 +1,5 @@
 import unittest
-from base_repository.base import Cumulator
+from src.cumulator.base import Cumulator
 
 
 class TestBase(unittest.TestCase):
