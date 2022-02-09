@@ -20,3 +20,4 @@ unittest_task:
       path: ./*.xml
       format: junit
       type: text/xml
+#
