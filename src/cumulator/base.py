@@ -13,8 +13,8 @@ import cpuinfo
 import os
 import re
 
-from base_repository.prediction_feature.prediction_helper import get_predictions, compute_features
-from base_repository.prediction_feature.visualization_helper import scatterplot
+from cumulator.prediction_feature.prediction_helper import get_predictions, compute_features
+from cumulator.prediction_feature.visualization_helper import scatterplot
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
