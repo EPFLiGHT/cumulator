@@ -132,7 +132,8 @@ _________________
     src/
     ├── cumulator  
         ├── base.py            <- implementation of the Cumulator class  
-        ├── prediction_feature <- implementation of the prediction feature  
+        ├── prediction_feature <- implementation of the prediction feature 
+        ├── web_app            <- implementation of web app for the prediction feature
         └── bonus.py           <- Impact Statement Protocol  
 
 Cite
