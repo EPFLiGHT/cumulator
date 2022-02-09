@@ -1,10 +1,7 @@
 import numpy as np
-from flask import Flask, render_template, request, abort
-from base_repository.prediction_feature.prediction_helper import get_predictions
-from werkzeug.utils import secure_filename
+from flask import Flask, render_template, request
 import pandas as pd
-
-from base_repository.prediction_feature.prediction_helper import compute_features
+from cumulator.prediction_feature.prediction_helper import compute_features, get_predictions
 
 app = Flask(__name__)
 
