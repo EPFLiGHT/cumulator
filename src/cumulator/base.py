@@ -2,10 +2,6 @@
 This is the base class of cumulator.
 '''
 
-import os
-
-parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-os.sys.path.insert(0, parentdir)
 import json
 import time as t
 import geocoder
@@ -17,14 +13,18 @@ import cpuinfo
 import os
 import re
 
-from cumulator.prediction_feature.prediction_helper import get_predictions, compute_features
-from cumulator.prediction_feature.visualization_helper import scatterplot
+from base_repository.prediction_feature.prediction_helper import get_predictions, compute_features
+from base_repository.prediction_feature.visualization_helper import scatterplot
 
-country_dataset_path = 'countries/country_dataset_adjusted.csv'
-gpu_dataset_path = 'hardware/gpu.csv'
-metrics_dataset_path = 'metrics/CO2_metrics.json'
-cpu_dataset_path = 'hardware/cpu.csv'
+parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.sys.path.insert(0, parentdir)
+
+country_dataset_path = 'countries_data/country_dataset_adjusted.csv'
+gpu_dataset_path = 'hardware_data/gpu.csv'
+metrics_dataset_path = 'metrics_conversion_data/CO2_metrics.json'
+cpu_dataset_path = 'hardware_data/cpu.csv'
 regexp_cpu = '(Core|Ryzen).* (i\d-\d{3,5}.?|\d \d{3,5}.?)'
+
 
 class Cumulator:
     def __init__(self, hardware="cpu"):
@@ -62,9 +62,9 @@ class Cumulator:
         elif hardware == "cpu":
             # search_cpu will try to detect the cpu on the device and set the corresponding TDP value as TDP value of Cumulator
             self.detect_cpu()
-        # in case of wrong value of hardware let default TDP
+        # in case of wrong value of hardware_data let default TDP
         else:
-            print(f'hardware expected to be "cpu" or "gpu". TDP set to default value {self.TDP}')
+            print(f'hardware_data expected to be "cpu" or "gpu". TDP set to default value {self.TDP}')
 
     # function for trying to detect gpu and set corresponding TDP value as TDP value of cumulator
     def detect_gpu(self):
@@ -195,7 +195,7 @@ class Cumulator:
               "{:.2e}".format(self.computation_costs()))
         print('Carbon footprint due to communications: %s gCO2eq' %
               "{:.2e}".format(self.communication_costs()))
-        # loading metrics dataset
+        # loading metrics_conversion_data dataset
         dirname = os.path.dirname(__file__)
         relative_metric_dataset_path = os.path.join(dirname, metrics_dataset_path)
 
@@ -204,7 +204,7 @@ class Cumulator:
             # computing equivalent of gCO2eq
             for metric in metrics:
                 metric['equivalent'] = float(metric['eq_factor']) * (self.total_carbon_footprint())
-            # select random equivalent metrics and print
+            # select random equivalent metrics_conversion_data and print
             metric = metrics[random.randint(0, len(metrics) - 1)]
             print('This carbon footprint is equivalent to {:0.2e} {}.'.format(metric['equivalent'],
                                                                               metric['measure'].lower()))
