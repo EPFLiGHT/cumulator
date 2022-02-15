@@ -9,6 +9,9 @@ twine = "*"
 
 [packages]
 cumulator = {editable = true,path = "."}
+flask = "*"
+numpy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"

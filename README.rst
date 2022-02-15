@@ -30,6 +30,12 @@ The tool works with Linux, Windows and MacOS
 - ``GPUtil`` (https://pypi.org/project/GPUtil/)
 - ``cpuinfo`` (https://pypi.org/project/py-cpuinfo/)
 
+To run the web app:
+
+- ``numpy`` (https://numpy.org)
+- ``pandas`` (http://pandas.pydata.org)
+- ``flask`` (https://flask.palletsprojects.com/en/2.0.x/)
+
 Install and use
 _______________
 
@@ -82,6 +88,18 @@ Free software: MIT license
 
     
 - You can also return the total carbon footprint as a number using ``cumulator.total_carbon_footprint()``.
+
+**Web-app use**
+
+Cumulator also contains a web-app to automatically estimate the accuracy and the power consumption of 4 different algorithms (Linear Regression, Random Forest, Decision Tree, Neural Network) on the given dataset in input.
+
+.. image:: src/cumulator/web_app/templates/app_image.png
+
+To open the web-app, run ``src/cumulator/web_app/app.py``, the web-app will then run on localhost.
+Through the use of the web-app is possible to upload an input dataset and to indicate which is the target column: it will be then automatically excluded from the accuracy and the power consumption computation.
+
+
+
 
 **Default assumptions: geo-localization, CPU-GPU detection (can be manually modified for better estimation):**
 
@@ -143,7 +161,7 @@ _________________
 
 Cite
 ____
- 
+Original paper:
 ::
 
     @article{cumulator,
@@ -155,6 +173,7 @@ ____
 
 ChangeLog
 _________
+* 15.2.2022: 0.0.7 added prediction feature, web-app, geo-localization and gpu/cpu-detection estimation
 * 18.06.2020: 0.0.6 update README.rst
 * 11.06.2020: 0.0.5 add number of processors (0.0.4 failed)
 * 08.06.2020: 0.0.3 added bonus.py carbon impact statement
