@@ -104,7 +104,8 @@ Through the use of the web-app is possible to upload an input dataset and to ind
 **Default assumptions: geo-localization, CPU-GPU detection (can be manually modified for better estimation):**
 
 Cumulator will try to detect the CPU and the GPU used and set the respective computation cost value. In case the detection fails the default value will be set.
-It is possible to manually modify the default value. 
+Future updates of the dataset of country consumption can be found on the official page (https://github.com/owid/energy-data?country=). It needs to be slightly modified to be used by Cumulator. An automatic script to transform the dataset is given in base_repository/country_dataset_helpers.py.
+To update the hardware dataset instead, a script in base_repository/hardware/webscraper.py can be used.
 
 ``self.hardware_load = 250 / 3.6e6`` <- computation costs: power consumption of a typical GPU in Watts converted to kWh/s
 
