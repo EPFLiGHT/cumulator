@@ -1,7 +1,12 @@
 import numpy as np
 from flask import Flask, render_template, request
 import pandas as pd
-from cumulator.prediction_feature.prediction_helper import compute_features, get_predictions
+from pathlib import Path
+import sys
+
+cumulator_directory = str(Path(__file__).absolute().parent.parent)
+sys.path.append(cumulator_directory)
+from prediction_feature.prediction_helper import compute_features, get_predictions
 
 app = Flask(__name__)
 
