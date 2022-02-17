@@ -9,6 +9,10 @@ twine = "*"
 
 [packages]
 cumulator = {editable = true,path = "."}
+flask = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8"
