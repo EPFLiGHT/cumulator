@@ -73,6 +73,8 @@ Free software: MIT license
 
 - Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
 
+Any communication cost is calculated based on the 1-byte model, i.e. the energy consumed per-byte of data traffic in data centers, developped by The Shift Project. Note that this estimates the lower bound of the energy cost, since internet data taffic uses not only data centers, but also consumer-end servers. More information on project report (link at page's bottom).
+
 **Display your total carbon footprint**
 
 - Display the carbon footprint of your recorded actions with ``cumulator.display_carbon_footprint()``:
@@ -180,6 +182,7 @@ _________
 * 08.06.2020: 0.0.3 added bonus.py carbon impact statement
 * 07.06.2020: 0.0.2 added communication costs and cleaned src/
 * 21.05.2020: 0.0.1 deployment on PypI and integration with Alg-E
+* 2020-05-14: 0.0.0 first release on PyPI
 
 Links
 _____
@@ -187,3 +190,4 @@ _____
 * GitHub: https://github.com/epfl-iglobalhealth/cumulator
 * PyPI: https://pypi.org/project/cumulator/
 * Prediction Feature, geo-localization, CPU/GPU detection: https://github.com/epfl-iglobalhealth/CS433-2021-ecoML
+* Project report: https://infoscience.epfl.ch/record/278189?ln=en
