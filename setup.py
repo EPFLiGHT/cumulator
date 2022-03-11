@@ -25,15 +25,15 @@ def read(*names, **kwargs):
 
 setup(
     name='cumulator',
-    version='0.0.7',
+    version='0.1.0',
     license='MIT',
-    description='a tool to quantify and communicate the carbon footprint of machine learning methods',
+    description='A tool to quantify and communicate the carbon footprint of the computing infrastructure, proof of concept performed using a machine learning platform',
     long_description='%s\n%s' % (
-        re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')),
+        re.compile('^.. start-badges.*^.. end-badges', re.M | re.S).sub('', read('README.rst')), 
         re.sub(':[a-z]+:`~?(.*?)`', r'``\1``', read('CHANGELOG.rst'))
     ),
     author='tristan trebaol',
-    author_email='tristan.trebaol@epfl.ch',
+    author_email='tristan.trebaol@gmail.com',
     url='https://github.com/tristantreb/cumulator',
     packages=find_packages('src'),
     package_dir={'': 'src'},
