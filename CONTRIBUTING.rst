@@ -78,6 +78,20 @@ For merging, you should:
 
        It will be slower though ...
 
+Push releases to PyPI
+---------------------
+
+1. Send your pypi username (create account if needed) to one of the owners (see cumulator pypi webpage for email) asking to be added as Maintainer/Owner
+2. Make sure `wheel` and `twine` are installed
+3. Run the following script:
+
+:: 
+	pipenv shell
+	python setup.py bdist_wheel sdist
+	ls dist/
+	twine upload --skip-existing dist/*
+
+
 Tips
 ----
 

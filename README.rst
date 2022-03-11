@@ -174,6 +174,10 @@ Original paper:
       year={2020}
     }
 
+Contribute
+__________
+Check `CONTRIBUTING.rst`
+
 ChangeLog
 _________
 * 15.02.2022: 0.1.0 added prediction feature, web-app, geo-localization and gpu/cpu-detection estimation
