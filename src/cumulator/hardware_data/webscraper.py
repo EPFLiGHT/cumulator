@@ -6,6 +6,8 @@ import time
 import random 
 from tqdm import tqdm
 import json
+
+
 headers={
         'User-Agent': 'Mozilla/5.0',
     }
@@ -45,7 +47,7 @@ def scrape_all(cpu=True):
         tdp=option.getText().split()[0]
         TDP.append(tdp)
 
-    sleep_minutes=20
+    sleep_minutes = 20
     dump=[]
     for tdp in tqdm(TDP):
         print(f'\nTDP:{tdp}\n')
@@ -61,4 +63,4 @@ def scrape_all(cpu=True):
     process_dump(f'dump_{hardware}.json', f'{hardware}.csv')
 
 
-scrape_all(cpu=True)
+# scrape_all(cpu=True)

@@ -13,8 +13,8 @@ import cpuinfo
 import os
 import re
 
-from src.cumulator.prediction_feature.prediction_helper import get_predictions, compute_features
-from src.cumulator.prediction_feature.visualization_helper import scatterplot
+from cumulator.prediction_feature.prediction_helper import get_predictions, compute_features
+from cumulator.prediction_feature.visualization_helper import scatterplot
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -29,12 +29,12 @@ regexp_cpu = '(Core|Ryzen).* (i\d-\d{3,5}.?|\d \d{3,5}.?)'
 class Cumulator:
     def __init__(self, hardware="cpu"):
         # default value of TDP
-        self.carbon_intensity = 447
+        self.carbon_intensity = 334
         self.TDP = 250
         self.set_hardware(hardware)
 
-        # define consumption on the current position, standard carbon footprint value: average carbon intensity value in gCO2eq/kWh in the EU in 2014
-        self.position_carbon_intensity(default_Carbon_Intensity=447)
+        # define consumption on the current position, standard carbon footprint value: average carbon intensity value in gCO2eq/kWh in the EU in 2019
+        self.position_carbon_intensity(default_Carbon_Intensity=334)
         self.t0 = 0
         self.t1 = 0
         # times are in seconds
@@ -49,11 +49,12 @@ class Cumulator:
         # computation costs: consumption of a typical GPU in Watts converted to kWh/s
         self.hardware_load = self.TDP / 3.6e6
         # communication costs: average energy impact of traffic in a typical data centers, kWh/kB
-        self.one_byte_model = 6.894E-8
+        self.one_byte_model = 7.20E-8
 
     # starts accumulating time
     def on(self):
         self.t0 = t.time()
+        print('Juste un test')
 
     def set_hardware(self, hardware):
         if hardware == "gpu":
@@ -66,6 +67,16 @@ class Cumulator:
         else:
             print(f'hardware_data expected to be "cpu" or "gpu". TDP set to default value {self.TDP}')
 
+    def gradient_update_wrapper(self, optimizer, *args, **kwargs):
+        # Perform the gradient update and record the size of transferred gradients
+        optimizer.step(*args, **kwargs)
+        for param_group in optimizer.param_groups:
+            for param in param_group['params']:
+                if param.grad is not None:
+                    grad_size = param.grad.data.element_size() * param.grad.data.nelement()
+                    self.cumulated_data_traffic += grad_size
+    
+    
     # function for trying to detect gpu and set corresponding TDP value as TDP value of cumulator
     def detect_gpu(self):
         try:
@@ -163,7 +174,7 @@ class Cumulator:
             code = address.get('country_code').upper()
             df_row = df_data[df_data['country'] == code]
             self.carbon_intensity = float(
-                df_row['co2_per_unit_energy'] * 1000 if not df_row.empty else None)
+                df_row['co2_per_unit_energy'] if not df_row.empty else None)
             if self.carbon_intensity is None:
                 raise AttributeError
         except (AttributeError, FileNotFoundError):
@@ -171,9 +182,11 @@ class Cumulator:
             self.carbon_intensity = default_Carbon_Intensity
 
     # records the amount of data transferred, file_size in kilo bytes
+    '''
     def data_transferred(self, file_size):
         self.file_size_list.append(file_size)
         self.cumulated_data_traffic += file_size
+    '''
 
     # computes time based carbon footprint due to computations
     def computation_costs(self):
