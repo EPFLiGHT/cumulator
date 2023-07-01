@@ -12,6 +12,7 @@ import GPUtil
 import cpuinfo
 import os
 import re
+import numpy as np
 
 from cumulator.prediction_feature.prediction_helper import get_predictions, compute_features
 from cumulator.prediction_feature.visualization_helper import scatterplot
@@ -40,9 +41,10 @@ class Cumulator:
         # times are in seconds
         self.time_list = []
         self.cumulated_time = 0
+
         # file sizes are in bytes
         self.file_size_list = []
-        self.cumulated_data_traffic = 0
+        self.cumulated_data_traffic = 5
         # number of GPU
         self.n_gpu = 1
         # assumptions to approximate the carbon footprint
@@ -54,7 +56,29 @@ class Cumulator:
     # starts accumulating time
     def on(self):
         self.t0 = t.time()
-        print('Juste un test')
+
+    def estimate_gradients_size(self, model, num_parameters = 1, dtype = 'float32', compression_ratio = 1.0, epochs = 1):
+        """
+        Estimates the size of gradients in bytes based on the given variables.
+
+        Parameters:
+        - model : type of the studied model (built with PyTorch)
+        - num_parameters (int): Number of parameters in the model. Defaults to 1 for the simplest model
+        - dtype (str, optional): Data type used for representing the gradients. Defaults to 'float32'.
+        - compression_ratio (float, optional): Compression ratio applied to the gradients. Defaults to 1.0 (no compression).
+
+        """
+        # Find the number of parameters :
+        num_parameters = sum(p.numel() for p in model.parameters()) * epochs
+
+        # Determine the number of bytes per element based on the data type
+        bytes_per_element = np.dtype(dtype).itemsize
+
+        # Compute the uncompressed size of gradients in bytes
+        uncompressed_size_bytes = num_parameters * bytes_per_element
+
+        # Apply the compression ratio to estimate the final size of gradients
+        self.cumulated_data_traffic += int(uncompressed_size_bytes * compression_ratio)
 
     def set_hardware(self, hardware):
         if hardware == "gpu":
@@ -66,15 +90,6 @@ class Cumulator:
         # in case of wrong value of hardware_data let default TDP
         else:
             print(f'hardware_data expected to be "cpu" or "gpu". TDP set to default value {self.TDP}')
-
-    def gradient_update_wrapper(self, optimizer, *args, **kwargs):
-        # Perform the gradient update and record the size of transferred gradients
-        optimizer.step(*args, **kwargs)
-        for param_group in optimizer.param_groups:
-            for param in param_group['params']:
-                if param.grad is not None:
-                    grad_size = param.grad.data.element_size() * param.grad.data.nelement()
-                    self.cumulated_data_traffic += grad_size
     
     
     # function for trying to detect gpu and set corresponding TDP value as TDP value of cumulator
@@ -159,7 +174,7 @@ class Cumulator:
         self.off()
         return output
 
-    def position_carbon_intensity(self, default_Carbon_Intensity=447):
+    def position_carbon_intensity(self, default_Carbon_Intensity = 334):
 
         try:
             dirname = os.path.dirname(__file__)
