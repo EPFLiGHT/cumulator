@@ -57,19 +57,39 @@ class Cumulator:
     def on(self):
         self.t0 = t.time()
 
+
     def estimate_gradients_size(self, model, num_parameters = 1, dtype = 'float32', compression_ratio = 1.0, epochs = 1):
         """
         Estimates the size of gradients in bytes based on the given variables.
 
         Parameters:
-        - model : type of the studied model (built with PyTorch)
-        - num_parameters (int): Number of parameters in the model. Defaults to 1 for the simplest model
+        - model : The model being studied (can be any model representation).
+        - num_parameters (int): Number of parameters in the model. Defaults to 1 for the simplest model. 
+          To be set to zero if an automatic detection is to be done
         - dtype (str, optional): Data type used for representing the gradients. Defaults to 'float32'.
         - compression_ratio (float, optional): Compression ratio applied to the gradients. Defaults to 1.0 (no compression).
+        - epochs (int, optional): Number of training epochs. Defaults to 1.
 
         """
-        # Find the number of parameters :
-        num_parameters = sum(p.numel() for p in model.parameters()) * epochs
+        # Find the number of parameters
+        if num_parameters == 0:
+            if hasattr(model, 'parameters'):
+                # PyTorch framework
+                num_parameters = sum(p.numel() for p in model.parameters()) * epochs
+            elif hasattr(model, 'coef_') and hasattr(model, 'intercept_'):
+                # Sklearn framework
+                if model.intercept_.size > 1:
+                    num_parameters = (sum([a.size for a in model.coef_]) +  sum([a.size for a in model.intercept_])) * epochs
+                else:
+                    num_parameters = (sum([a.size for a in model.coef_]) + model.intercept_.size) * epochs
+            elif hasattr(model, 'coefs_') and hasattr(model, 'intercepts_'):
+                # Sklearn framework
+                num_parameters = (sum([a.size for a in model.coefs_]) +  sum([a.size for a in model.intercepts_])) * epochs
+                epochs *= model.n_iter_
+            elif hasattr(model, 'n_neighbors'):
+                num_parameters = model.n_neighbors
+            else:
+                num_parameters = 1 * epochs
 
         # Determine the number of bytes per element based on the data type
         bytes_per_element = np.dtype(dtype).itemsize
@@ -79,6 +99,7 @@ class Cumulator:
 
         # Apply the compression ratio to estimate the final size of gradients
         self.cumulated_data_traffic += int(uncompressed_size_bytes * compression_ratio)
+
 
     def set_hardware(self, hardware):
         if hardware == "gpu":
@@ -197,11 +218,10 @@ class Cumulator:
             self.carbon_intensity = default_Carbon_Intensity
 
     # records the amount of data transferred, file_size in kilo bytes
-    '''
+    
     def data_transferred(self, file_size):
         self.file_size_list.append(file_size)
         self.cumulated_data_traffic += file_size
-    '''
 
     # computes time based carbon footprint due to computations
     def computation_costs(self):

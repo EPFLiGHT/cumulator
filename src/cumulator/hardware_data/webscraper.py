@@ -42,7 +42,7 @@ def scrape_all(cpu=True):
     #Obtain all TDPs
     TDP_options=soup.select('select#tdp > option')
     TDP=[]
-    #options:'All','unkown' are not considered
+    #options:'All','unknown' are not considered
     for option in TDP_options[1:-1]:
         tdp=option.getText().split()[0]
         TDP.append(tdp)
