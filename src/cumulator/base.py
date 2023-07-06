@@ -44,7 +44,7 @@ class Cumulator:
 
         # file sizes are in bytes
         self.file_size_list = []
-        self.cumulated_data_traffic = 5
+        self.cumulated_data_traffic = 0
         # number of GPU
         self.n_gpu = 1
         # assumptions to approximate the carbon footprint
