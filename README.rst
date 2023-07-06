@@ -49,7 +49,7 @@ Free software: MIT license
 
 **Measure cost of computations.** 
 
-- First option: Activate or deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
+- First option: Activate and deactivate chronometer by using ``cumulator.on()``, ``cumulator.off()`` whenever you perform ML computations (typically within each interation). It will automatically record each time duration in ``cumulator.time_list`` and sum it in ``cumulator.cumulated_time()``. Then return carbon footprint due to all computations using ``cumulator.computation_costs()``.
 - Second option: Automatically track the cost of computation of a generic function with ``cumulator.run(function, *args, **kwargs)`` and then use ``cumulator.computation_costs()`` as before. An example is reported below:
 
 :: 
@@ -71,7 +71,9 @@ Free software: MIT license
 
 **Measure cost of communications.**
 
-- Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
+- First option : Within each training iteration, record the weights of gradients using the method ``cumulator.estimate_gradients_size()``. The weights are stored in ``cumulator.cumulated_data_traffic``. Then, return the carbon footprint due to all communications using ``cumulator.communication_costs()``.
+
+- Second option : Each time your models sends a data file to another node of the network, record the size of the file which is communicated (in kilo bytes) using ``cumulator.data_transferred(file_size)``. The amount of data transferred is automatically recorded in ``cumulator.file_size_list`` and accumulated in ``cumulator.cumulated_data_traffic``. Then return carbon footprint due to all communications using ``cumulator.communication_costs()``.
 
 Any communication cost is calculated based on the 1-byte model, i.e. the energy consumed per-byte of data traffic in data centers, developped by The Shift Project. Note that this estimates the lower bound of the energy cost, since internet data taffic uses not only data centers, but also consumer-end servers. More information on project report (link at page's bottom).
 
@@ -109,14 +111,14 @@ Cumulator will try to detect the CPU and the GPU used and set the respective com
 Future updates of the dataset of country consumption can be found on the official page (https://github.com/owid/energy-data?country=). It needs to be slightly modified to be used by Cumulator. An automatic script to transform the dataset is given in base_repository/country_dataset_helpers.py.
 To update the hardware dataset instead, a script in base_repository/hardware/webscraper.py can be used.
 
-``self.hardware_load = 250 / 3.6e6`` <- computation costs: power consumption of a typical GPU in Watts converted to kWh/s
+``self.hardware_load = 250 / 3.6e6`` <- computation costs: power consumption of a typical GPU (corresponding to the one of EPFL cluster) in Watts converted to kWh/s
 
-``self.one_byte_model = 6.894E-8`` <- communication costs: average energy impact of traffic in a typical data centers, kWh/kB
+``self.one_byte_model = 7.20E-8`` <- communication costs: average energy impact of traffic in a typical data centers, kWh/kB
 
 Cumulator will try to set the carbon intensity value based on the geographical position of the user. In case the detection fails the default value will be set.
 It is possible to manually modify the default value. 
 
-``self.carbon_intensity = 447`` <- conversion to carbon footprint: average carbon intensity value in gCO2eq/kWh in the EU in 2014
+``self.carbon_intensity = 334`` <- conversion to carbon footprint: average carbon intensity value in gCO2eq/kWh in the EU in 2019
 
 ``self.n_gpu = 1`` <- number of GPU used in parallel
 
